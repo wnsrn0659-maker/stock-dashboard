@@ -195,6 +195,9 @@
     <div class="section-title"><span class="dot"></span>⑤ 💸 저가 발굴주 (저렴·소외 — 고위험·고변동)</div>
     <div class="hidden-note" style="color:#f0a;background:rgba(239,68,68,.08);border-color:rgba(239,68,68,.3)">🚨 <b>고위험 경고</b> — 주가가 낮은 소형주는 변동·손실 위험이 큽니다. 표시 가격은 <b>추정치</b>이며, 상승을 보장하지 않습니다. 소액·분산·본인 검증이 필수입니다.</div>
     <div id="hiddenCheapUS"></div>
+    <div class="section-title"><span class="dot"></span>⑥ 🚀 급등 조짐 포착 (선행 신호)</div>
+    <div class="hidden-note" style="color:#ffd98a;background:rgba(245,166,35,.09);border-color:rgba(245,166,35,.35)">🚨 <b>초고위험 · 예측 아님</b> — 거래량 급증·저유동성·공매도 과다·임박 촉매 등 "터지기 전 신호"가 보이는 종목입니다. 신호가 있다고 반드시 오르지 않으며, 손실 위험이 매우 큽니다. 매일 아침 자동 스캔으로 갱신됩니다.</div>
+    <div id="surgeUS"></div>
     <div class="section-title"><span class="dot"></span>② 주요 뉴스</div>
     <div class="news-list" id="newsUS"></div>
   </div>
@@ -211,6 +214,9 @@
     <div class="section-title"><span class="dot"></span>⑤ 💸 저가 발굴주 (저렴·소외 — 고위험·고변동)</div>
     <div class="hidden-note" style="color:#f0a;background:rgba(239,68,68,.08);border-color:rgba(239,68,68,.3)">🚨 <b>고위험 경고</b> — 주가가 낮은 소형주는 변동·손실 위험이 큽니다. 표시 가격은 <b>추정치</b>이며, 상승을 보장하지 않습니다. 소액·분산·본인 검증이 필수입니다.</div>
     <div id="hiddenCheapKR"></div>
+    <div class="section-title"><span class="dot"></span>⑥ 🚀 급등 조짐 포착 (선행 신호)</div>
+    <div class="hidden-note" style="color:#ffd98a;background:rgba(245,166,35,.09);border-color:rgba(245,166,35,.35)">🚨 <b>초고위험 · 예측 아님</b> — 거래량 급증·테마 쏠림·임박 촉매 등 "터지기 전 신호"가 보이는 종목입니다. 신호가 있다고 반드시 오르지 않으며, 손실 위험이 매우 큽니다. 매일 아침 자동 스캔으로 갱신됩니다.</div>
+    <div id="surgeKR"></div>
     <div class="section-title"><span class="dot"></span>② 주요 뉴스</div>
     <div class="news-list" id="newsKR"></div>
   </div>
@@ -666,6 +672,25 @@ function dailyOrder(items){
   const seed=daySeed();
   return items.map((it,i)=>({it,k:Math.abs(Math.sin(seed*(i+1)*1.37))})).sort((a,b)=>a.k-b.k).map(x=>x.it);
 }
+let SURGE = {US:[],KR:[]};
+function renderSurge(market){
+  const el=document.getElementById(market==='KR'?'surgeKR':'surgeUS'); if(!el) return; el.innerHTML='';
+  const items=(SURGE&&SURGE[market])||[];
+  if(!items.length){ el.innerHTML='<div class="hidden-note" style="color:var(--muted);background:rgba(255,255,255,.03);border-color:var(--border)">⏳ 오늘 급등 조짐 스캔 대기 중 — 매일 아침 자동 갱신됩니다.</div>'; return; }
+  const grid=document.createElement('div'); grid.className='gem-grid';
+  items.forEach(g=>{
+    const pxBadge=g.px?`<span class="gpx" style="color:#ffd98a;background:rgba(245,166,35,.16)">${g.px}</span>`:'';
+    const card=document.createElement('div'); card.className='gem'; card.style.borderColor='#5a4520';
+    card.innerHTML=`
+      <div class="gtop"><span class="gname">${g.name}</span><span class="gtkr">${g.tkr}</span>${pxBadge}</div>
+      <span class="gsig" style="background:rgba(245,166,35,.18);color:#ffd98a">🚀 ${g.sig||'급등 조짐'}</span>
+      <div class="block"><div class="lbl" style="color:#ffcf6b">📊 포착된 신호</div><div class="txt">${g.why||''}</div></div>
+      ${g.watch?`<div class="block"><div class="lbl" style="color:#ffcf6b">👀 주목 포인트</div><div class="txt">${g.watch}</div></div>`:''}
+      <div class="grisk">⚠️ ${g.risk||'초고위험 — 급락 가능, 소액·분산 필수'}</div>`;
+    grid.appendChild(card);
+  });
+  el.appendChild(grid);
+}
 function renderGems(items, elId){
   const el=document.getElementById(elId); el.innerHTML='';
   const ordered=dailyOrder(items);
@@ -749,6 +774,7 @@ function renderAll(){
   renderRebound('US'); renderRebound('KR');
   renderGems(HIDDEN.US,'hiddenUS'); renderGems(HIDDEN.KR,'hiddenKR');
   renderGems(HIDDEN_CHEAP.US,'hiddenCheapUS'); renderGems(HIDDEN_CHEAP.KR,'hiddenCheapKR');
+  renderSurge('US'); renderSurge('KR');
   renderNews('US'); renderNews('KR');
   if(BUZZ_API){ loadBuzz('US'); loadBuzz('KR'); loadKRPrices(); }
 }
@@ -761,6 +787,7 @@ async function boot(){
       if(d.HIDDEN_CHEAP) HIDDEN_CHEAP=d.HIDDEN_CHEAP;
       if(d.REBOUND) REBOUND=d.REBOUND;
       if(d.NEWS) NEWS=d.NEWS;
+      if(d.SURGE) SURGE=d.SURGE;
       if(Array.isArray(d.STOCKS)) d.STOCKS.forEach(p=>{const s=STOCKS.find(x=>x.tkr===p.tkr); if(s&&p.price){s.price=p.price; s.prevPct=p.prevPct;}});
       const st=document.getElementById('status'); if(st&&!BUZZ_API) st.innerHTML='✅ GitHub에서 최신 데이터 자동 로드됨 (열 때마다 갱신). 미국 실시간은 Finnhub 키 입력.';
     }
