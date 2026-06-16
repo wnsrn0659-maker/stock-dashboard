@@ -1,0 +1,19 @@
+{
+  "name": "stocks-buzz-api",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "종목 버즈(언급량) 수집기 + API 서버 (StockTwits/Reddit/네이버)",
+  "scripts": {
+    "collect": "node collector.js",
+    "serve": "node server.js",
+    "start": "node server.js --with-collector"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "node-cron": "^3.0.3"
+  },
+  "engines": { "node": ">=18" }
+}

@@ -1,0 +1,4 @@
+node_modules/
+stocks-api/data/
+stocks-api/.env
+*.log
