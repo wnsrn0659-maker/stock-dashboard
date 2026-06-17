@@ -766,8 +766,18 @@ function addStock(){
   f_ticker.value=f_name.value=f_price.value=f_target.value='';
 }
 
-/* init — 열 때마다 GitHub에서 최신 data.json 자동 로드 (받기/캐시 불필요) */
-const DATA_URL='https://raw.githubusercontent.com/wnsrn0659-maker/stock-dashboard/main/data.json';
+/* init — 열 때마다 최신 data.json 자동 로드 (받기/캐시 불필요)
+   1순위: 같은 주소(Pages, CORS 문제 없음) / 2순위: raw.githubusercontent(로컬 파일용) */
+const DATA_URLS=['./data.json','https://raw.githubusercontent.com/wnsrn0659-maker/stock-dashboard/main/data.json'];
+async function fetchData(){
+  for(const base of DATA_URLS){
+    try{
+      const r=await fetch(base+'?t='+Date.now(),{cache:'no-store'});
+      if(r.ok) return await r.json();
+    }catch(e){ /* 다음 후보 시도 */ }
+  }
+  return null;
+}
 function renderAll(){
   document.getElementById('cardsUS').innerHTML=''; document.getElementById('cardsKR').innerHTML='';
   STOCKS.forEach((s,i)=>renderCard(s,i));
@@ -780,16 +790,15 @@ function renderAll(){
 }
 async function boot(){
   try{
-    const r=await fetch(DATA_URL+'?t='+Date.now(),{cache:'no-store'});
-    if(r.ok){
-      const d=await r.json();
+    const d=await fetchData();
+    if(d){
       if(d.HIDDEN) HIDDEN=d.HIDDEN;
       if(d.HIDDEN_CHEAP) HIDDEN_CHEAP=d.HIDDEN_CHEAP;
       if(d.REBOUND) REBOUND=d.REBOUND;
       if(d.NEWS) NEWS=d.NEWS;
       if(d.SURGE) SURGE=d.SURGE;
       if(Array.isArray(d.STOCKS)) d.STOCKS.forEach(p=>{const s=STOCKS.find(x=>x.tkr===p.tkr); if(s&&p.price){s.price=p.price; s.prevPct=p.prevPct;}});
-      const st=document.getElementById('status'); if(st&&!BUZZ_API) st.innerHTML='✅ GitHub에서 최신 데이터 자동 로드됨 (열 때마다 갱신). 미국 실시간은 Finnhub 키 입력.';
+      const st=document.getElementById('status'); if(st&&!BUZZ_API) st.innerHTML='✅ 최신 데이터 자동 로드됨 (열 때마다 갱신). 미국 실시간은 Finnhub 키 입력.';
     }
   }catch(e){ /* 폴백: 내장 기본 데이터로 표시 */ }
   renderAll();
