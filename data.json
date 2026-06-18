@@ -360,14 +360,14 @@
    {
     "tag": "NVDA",
     "cls": "up",
-    "h": "NVIDIA·SK하이닉스 다년간 AI 메모리 파트너십 공식 발표·Vera Rubin HBM 코개발·CUDA-X·Omniverse AI 팹 자동화",
-    "m": "2026-06-07 · NVIDIA Newsroom / StockTitan · NVIDIA·SK하이닉스, 차세대 AI 팩토리용 메모리 개발 가속화 위한 다년간 기술 파트너십 공식 발표. SK하이닉스, NVIDIA Vera Rubin AI 슈퍼컴·Vera CPU·RTX Spark PC·Jetson Thor 로봇 플랫폼 HBM 코개발 참여. CUDA-X·PhysicsNeMo로 반도체 설계·제조에 AI 적용. Omniverse·OpenUSD·cuOpt 활용 완전 자율 팹 디지털 트윈 구축. 양사 딥 코엔지니어링 협력 공식화"
+    "h": "NVIDIA $250억 채권 발행·AI 칩 설비투자 자금 확보·FY27 Q1 매출 $816억(+85% YoY)·Strong Buy 38개 기관",
+    "m": "2026-06 · CNBC / Yahoo Finance · NVIDIA, 고등급 채권 $250억(약 34조원) 발행 계획 발표. AI 칩 대량 생산을 위한 설비투자 재원 확보 목적으로 채권 시장 복귀. FY27 Q1 매출 $816억(+85% YoY)·데이터센터 매출 $752억(+92%). Strong Buy 38개 기관 컨센서스, 월가 목표가 $299. AI 인프라 공급 확장 가속화 시사"
    },
    {
     "tag": "SPCX",
-    "cls": "new",
-    "h": "Terafab: SpaceX·Tesla·Intel 합작 $119B AI 반도체 팹·Tesla AI5 칩 2026년 소량 생산·Grimes County 부지 승인",
-    "m": "2026-06-09 · CNBC / TechCrunch / EE Times · Elon Musk, Tesla·SpaceX 합작 반도체 팹 'Terafab' 구축 계획 발표. 총 투자 최대 $119B(약 165조원). Intel 14A 공정 기여·SpaceX 고량 제조 담당. Tesla AI5 칩 소량 생산 2026년·양산 2027년 예정. 텍사스 Grimes County 세금 감면 승인(6/3). 연 1테라와트 AI 컴퓨팅 생산 목표"
+    "cls": "down",
+    "h": "SpaceX(SPCX) IPO 후 첫 -5% 조정 $191.82 마감·시총 $2.53조·Tesla 합병 1년 내 가능성 80%",
+    "m": "2026-06-18 · Yahoo Finance / Gurufocus / Wedbush · SpaceX 6/12 IPO(공모 $135·첫날 +19%) 이후 첫 -5% 조정 발생, $191.82 마감. 시총 $2.53조로 Tesla 추월 유지. Wedbush Dan Ives, 1년 내 TSLA-SPCX 합병 가능성 80% 전망. 양사 에이전틱 AI 플랫폼 'Macrohard' 공동 개발 중. IPO 차익실현 소화 국면으로 분석"
    },
    {
     "tag": "TSLA",
@@ -378,8 +378,8 @@
    {
     "tag": "INTC",
     "cls": "up",
-    "h": "Intel Terafab 합류·14A 공정 SpaceX·Tesla향 기술 기여·18A-P 리스크 생산 진입·파운드리 전략 재부상",
-    "m": "2026-04~06 · EE Times / TechCrunch / Tom's Hardware · Intel, Elon Musk Terafab 프로젝트 공식 합류(4월). Intel 14A 공정으로 SpaceX AI 칩 제조 지원·SpaceX가 고량 제조 담당 구조. 별도로 18A-P 리스크 생산 진입으로 파운드리 경쟁력 재부각. 구글 텐서 프로세서 300만개 수주 효과 지속. Terafab 합류로 YTD +250% 이후 추가 촉매 기대"
+    "h": "Intel 18A-P 리스크 생산 진입·속도 +9%·전력 -18%·프리마켓 +4.5%·반도체 섹터 동반 반등 견인",
+    "m": "2026-06-18 · TradingKey / CoinCentral / Yahoo Finance · Intel, 차세대 18A-P 공정 노드 리스크 생산 단계 공식 진입 발표. 18A 대비 속도 +9%·전력 -18% 개선, 동일 설계 규칙 유지로 고객 마이그레이션 비용 절감. 발표 당일 프리마켓 +4.5% 급등. MRVL +2.8%·LRCX +2.9%·MU +3.5% 반도체 섹터 동반 반등. YTD +250% 이후 추가 파운드리 촉매 확인"
    },
    {
     "tag": "AMD",
@@ -390,22 +390,22 @@
    {
     "tag": "AVGO",
     "cls": "up",
-    "h": "JPMorgan AVGO \"공격적 매수\" 추천·NVDA·AMD·Broadcom AI 칩 3강 구도 격화·FY2027 AI $1,000억+ 목표",
-    "m": "2026-06-18 · CNBC / JPMorgan · JPMorgan, 브로드컴(AVGO)에 대해 \"공격적으로 매수해야 한다\"고 추천. AI 칩 시장 3강 구도(NVIDIA Vera Rubin·AMD MI450·Broadcom 커스텀 ASIC) 경쟁 격화. FY2027 AI 매출 $1,000억+ 목표 유효. Q3 AI 가이던스 $16B(컨센서스 $17.2B 하회) 충격 후 저가매수 국면 진행"
+    "h": "JPMorgan AVGO \"공격적 매수\"·6/22 배당 ex-date $0.65·AI 칩 3강 경쟁·FY2027 AI $1,000억+ 목표 $485 유지",
+    "m": "2026-06-18 · CNBC / JPMorgan / Robinhood · JPMorgan, 브로드컴(AVGO) \"공격적으로 매수해야 한다\" 추천, 목표가 $485 유지. 6/22 배당락일 기준 $0.65 현금 배당 예정. AI 칩 3강(NVIDIA Vera Rubin·AMD MI450·AVGO 커스텀 ASIC) 경쟁 지속. FY2027 AI 매출 $1,000억+ 목표 유효. Q3 AI 가이던스 $16B 쇼크 후 저가매수 국면"
    },
    {
     "tag": "MU",
     "cls": "down",
-    "h": "마이크론 리테일 집중 셀링·2023년 11월 이후 최대 수준·반도체 약세 속 6/24 Q3 실적 D-6 기폭제 주목",
-    "m": "2026-06-18 · Bloomberg / Seeking Alpha · 개인투자자 단일 종목 셀링이 2023년 11월 이후 최대 수준·반도체(MU·Sandisk) 집중. 약세 속 차익실현 압력 지속. 그러나 6/24 Q3 FY2026 실적 발표 D-6·컨센서스 매출 $344억·EPS $19.63·HBM4 전량 선계약 펀더멘털 유효. 실적 서프라이즈 시 반등 기폭제로 주목"
+    "h": "마이크론 리테일 집중 셀링·2023년 11월 이후 최대 수준·6/24 Q3 실적 D-6·회사 가이던스 매출 $335억",
+    "m": "2026-06-18 · Bloomberg / Seeking Alpha / Nasdaq · 개인투자자 MU 단일 종목 셀링 2023년 11월 이후 최대 수준. 약세 속 차익실현 압력 지속. 그러나 6/24 Q3 FY2026 실적발표 D-6·회사 가이던스 매출 $335억±$75억·EPS $18.90±$0.40·HBM4 전량 선계약 펀더멘털 유효. TD Cowen $1,500·Aletheia $1,600 목표가, Strong Buy 컨센서스. 실적 서프라이즈 시 급반등 기폭제"
    }
   ],
   "KR": [
    {
     "tag": "SK하이닉스",
     "cls": "up",
-    "h": "SK하이닉스·NVIDIA 다년간 파트너십·Vera Rubin 슈퍼컴 HBM 코개발·AI 팹 디지털 트윈·Omniverse·cuOpt 협력",
-    "m": "2026-06-07 · NVIDIA Newsroom / SK하이닉스 · SK하이닉스, NVIDIA와 AI 팩토리 메모리 가속화 위한 다년간 기술 파트너십 공식 발표. NVIDIA Vera Rubin AI 슈퍼컴·Vera CPU·RTX Spark·Jetson Thor용 HBM 코개발 참여. CUDA-X·Omniverse·cuOpt 활용 완전 자율 팹 운영 구축. HBM4E 개발 일정 1년 앞당김과 시너지. AI 메모리 파트너십 공식화로 시장 지위 재확인"
+    "h": "SK하이닉스 HBM4E 12단 샘플 공급 발표·장중 263만원 역대 최고가 경신·에너지 효율 HBM4 대비 20%↑",
+    "m": "2026-06-18 · 머니투데이 / 파이낸셜뉴스 / 이투데이 · SK하이닉스, 차세대 AI 메모리 HBM4E 12단 샘플 주요 고객사 공급 시작 공식 발표. 핀당 최대 16Gbps 처리속도·48GB 용량·HBM4 대비 에너지 효율 20%↑·열 저항 17% 개선. 삼성전자 세계 최초 HBM4E 출하(5월 말) 20일 만에 출하 개시. 발표 당일 장중 263만원 역대 최고가 돌파. 양사 HBM4E 주도권 경쟁 본격화"
    },
    {
     "tag": "삼성전자",
