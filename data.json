@@ -360,64 +360,64 @@
    {
     "tag": "시장",
     "cls": "new",
-    "h": "Juneteenth 연방공휴일: 미국 NYSE·Nasdaq 6/19 전일 휴장—6/22 재개장 동시 MRVL S&P500·NBIS Nasdaq-100 편입 패시브 수급 집중",
-    "m": "2026-06-19 · EBC Financial / Yahoo Finance · Juneteenth National Independence Day(6/19·목)로 미국 NYSE·Nasdaq·채권·선물시장 전일 휴장. 런던·유럽·한국·홍콩 거래소는 정상 운영. 6/22(월) 재개장 당일 MRVL의 S&P500 정식 편입과 NBIS의 Nasdaq-100 편입이 겹쳐 SPY·QQQ 등 패시브 ETF 의무매수 집중 예정. 실제 미국 주가 흐름은 6/22부터 재확인 가능"
+    "h": "Juneteenth 휴장 종료—6/20(금) 재개장·6/22 MRVL S&P500·NBIS Nasdaq-100 편입 패시브 수급 D-2",
+    "m": "2026-06-19 · NYSE / CNBC · Juneteenth(6/19·목) 미국 NYSE·Nasdaq 전일 휴장. 6/20(금) 재개장 후 6/22(월) MRVL의 S&P500·NBIS의 Nasdaq-100 정식 편입 패시브 ETF 의무매수 집중까지 D-2 거래일. SPY·IVV·QQQ 편입 리밸런싱 수급 유입 임박. 6/20 프리마켓부터 MRVL·NBIS 집중 주목"
    },
    {
     "tag": "NVDA",
     "cls": "up",
-    "h": "Vera Rubin 풀프로덕션 AI 팩토리 전 세계 확산·Grace Blackwell 대비 에이전트 처리량 10x·컨센서스 목표가 $276",
-    "m": "2026-06-19 · NVIDIA Newsroom / Bernstein / Investing.com · 엔비디아, Vera Rubin 플랫폼 풀프로덕션 진입 확인 — AI 에이전트 팩토리 규모로 글로벌 공급망 총동원. Grace Blackwell 대비 에이전트 처리량 10x, 추론 5x, 훈련 3.5x 개선(Bernstein). 가을부터 대량 출하 예정. 미국 Juneteenth 휴장으로 추가 주가 반응은 6/22 재개장 확인. 애널리스트 컨센서스 Strong Buy·평균 목표가 $276"
+    "h": "Vera Rubin 풀프로덕션·Foxconn 등 150개 공급망 가동·랙 조립 2시간→5분·하계 고객 출하 시작",
+    "m": "2026-06-19 · NVIDIA Newsroom / SiliconANGLE / HPCwire · 엔비디아 Vera Rubin NVL72 랙스케일 시스템 풀프로덕션 돌입. Foxconn·Quanta·Wistron 등 150개 대만 공급망 총동원, 랙 조립 2시간→5분으로 단축. AWS·Google Cloud·Microsoft Azure·Oracle 하계 출하 시작. Grace Blackwell 대비 공급망 2배 규모. Vera Rubin Ultra(HBM4E) 2027년 말 후속. HBM4 공급사: SK하이닉스 60~70%·삼성 25~30%·마이크론 나머지"
    },
    {
     "tag": "MRVL",
     "cls": "up",
-    "h": "S&P500 편입 D-3(6/22)·KeyBanc 목표가 $260→$385 상향·PIC 500만개 돌파·TSMC 1.4nm 채택",
-    "m": "2026-06-19 · Yahoo Finance / KeyBanc · 마벨 테크놀로지(MRVL), 6/22 S&P500 정식 편입 D-3. KeyBanc 목표가 $260→$385 대폭 상향(신규). 코히런트 광자 집적회로(PIC) 글로벌 누적 500만개 출하 달성(Tower Semiconductor 협력). TSMC 차세대 1.4nm 공정 활용 계획 공개. 6/18 종가 +7.27% 급등. 젠슨 황 '차세대 조 달러 기업' 격찬·$2B 투자. YTD +258%"
+    "h": "S&P500 편입 D-2(6/22)·KeyBanc 목표가 $260→$385·PIC 500만개 달성·YTD +258%",
+    "m": "2026-06-19 · Yahoo Finance / KeyBanc / CNBC · 마벨 테크놀로지(MRVL), 6/22 S&P500 정식 편입 D-2. KeyBanc 목표가 $260→$385 상향(신규). 코히런트 PIC 글로벌 누적 500만개 출하 달성. TSMC 1.4nm 공정 활용 계획. 6/18 종가 $324.73(+12.19%). 젠슨 황 '차세대 조 달러 기업' $2B 투자. B.Riley 목표가 $240→$345. YTD +258%"
    },
    {
     "tag": "INTC",
     "cls": "up",
-    "h": "18A-P VLSI Symposium 공개(+9% 성능·-18% 전력)·Apple 파운드리 후속·Crescent Island AI GPU 연말",
-    "m": "2026-06-19 · Intel Newsroom / VLSI Symposium · 인텔, 6/16 VLSI Symposium에서 18A-P 노드 공개 — 표준 18A 대비 성능 +9% 또는 전력 -18%, 내열성 +20% 향상. Trump 6/18 Apple-Intel 반도체 제조 계약 공식 발표 후속 모멘텀 지속. 추론 특화 에어쿨드 AI GPU 'Crescent Island' 연말 제한 출하 확인. YTD +250%·52주 신고가 $133.72. 구글 TPU·Apple 하이퍼스케일러 2곳 확보"
+    "h": "18A-P 풀프로덕션 진입·Apple 파운드리 계약 후속 모멘텀·Crescent Island AI GPU 연말 출하",
+    "m": "2026-06-19 · CNBC / Intel Newsroom · 인텔, 18A-P 노드 초도 생산 돌입(표준 18A 대비 성능 +9%·전력 -18%·내열성 +20%). Trump 6/18 Apple-Intel 반도체 제조 계약 공식 발표 후속. Apple, M시리즈 초급형 iPad·Mac용 칩 18A 파운드리 위탁 가능성(계약 공시 대기). 추론 특화 에어쿨드 AI GPU 'Crescent Island' 연말 제한 출하. YTD +250%·52주 신고가 $133.72"
    },
    {
     "tag": "MU",
     "cls": "up",
-    "h": "실적발표 D-5(6/24)·애널리스트 추정 $33.7B~$40.9B·시총 $1조 돌파·2026 HBM 전량 사전계약 완판",
-    "m": "2026-06-19 · Yahoo Finance / TechTimes / EBC Financial · 마이크론, 6/24 Q3 FY2026 실적발표 D-5. 애널리스트 매출 추정 $33.7B~$40.9B(가이던스 $33.5B 대비 상회 기대). 시총 $1조 돌파 달성. 엔비디아 Vera Rubin HBM4 공급(SK하이닉스 60~70%·삼성 25~30%·마이크론 나머지). 2026년 HBM 전량 사전계약 완판. YTD +244%. TD Cowen 목표가 $1,500"
+    "h": "실적발표 D-5(6/24)·Deutsche Bank·TD Cowen·Aletheia 목표가 $1,500~$1,600 줄상향·시총 $1조",
+    "m": "2026-06-19 · Deutsche Bank / Aletheia Capital / TD Cowen · 마이크론, 6/24 Q3 FY2026 실적발표 D-5. Deutsche Bank $1,000→$1,500(Buy)·Aletheia Capital $1,600·TD Cowen $1,500 애널리스트 줄상향. 매출 컨센서스 EPS $19.72·매출 추정 $33.7B~$40.9B(가이던스 $33.5B 상회 기대). 시총 $1조 달성. 2026년 HBM 전량 사전계약 완판. YTD +244%"
    },
    {
     "tag": "AMD",
     "cls": "up",
-    "h": "Meta 6GW AI 인스팅트 GPU 멀티연도 계약·야간거래 +5%·Q1 데이터센터 +57%·$500 지지선 안착",
-    "m": "2026-06-19 · Yahoo Finance / TipRanks · AMD, Meta와 6기가와트(GW) AI 인스팅트 GPU 멀티연도 공급 계약(1GW 커스텀 MI450 포함). H2 2026 출하 일정 유지. Q1 데이터센터 매출 $5.8B(+57% YoY). 야간거래에서 NVDA·MU·INTC와 함께 +5% 동반 상승. $500 주요 지지선 안착. YTD +130% 모멘텀 지속"
+    "h": "Meta $100B·6GW MI450 멀티연도 최대 GPU 계약·Meta 160M주 워런트·Q1 데이터센터 +57%",
+    "m": "2026-06-19 · DataCenterDynamics / ServeTheHome / Yahoo Finance · AMD, Meta와 역대 최대 GPU 조달 계약 — 6GW 커스텀 MI450 멀티연도 공급(잠재가치 $100B 초과). Meta 160M주 워런트(AMD 지분 약 10%) 포함. H2 2026 1GW 출하 시작. Q1 데이터센터 매출 $5.8B(+57% YoY). BofA, 에이전틱 AI 서버 CPU 시장 $1,700억 확대 수혜 전망. YTD +130%"
    },
    {
     "tag": "AVGO",
     "cls": "new",
-    "h": "Q2 FY2026 어닝 서프라이즈·Q3 AI $16B 가이던스 쇼크(기대 $17.2B) 후 회복 국면·JPMorgan $580 유지",
-    "m": "2026-06-19 · JPMorgan / GuruFocus · 브로드컴, Q2 FY2026 매출 $22.19B·EPS $1.91 어닝 서프라이즈에도 Q3 AI 가이던스 $16B(시장 기대 $17.2B 하회)로 6/3 -14% 급락. AI 매출 YoY +143% 달성에도 미달 판정. 이후 점진 회복 중. JPMorgan Buy·$580 목표가 유지. FY2027 AI 매출 $1,000억 시나리오 재부각. 48명 컨센서스 Strong Buy·평균 목표가 $522"
+    "h": "Q3 AI 가이던스 $16B 쇼크 후 회복 중·JPMorgan $580·FY2027 AI $1,000억 시나리오 재부각",
+    "m": "2026-06-19 · JPMorgan / GuruFocus · 브로드컴, Q2 FY2026 매출 $22.19B·EPS $1.91 어닝 서프라이즈에도 Q3 AI 가이던스 $16B(기대 $17.2B 하회)로 6/3 -14% 급락. AI 매출 YoY +143% 달성. 이후 점진 회복 국면. JPMorgan Buy·$580 목표가 유지. FY2027 AI 매출 $1,000억 시나리오 재부각. 48명 컨센서스 Strong Buy·평균 목표가 $522"
    },
    {
     "tag": "TSLA",
     "cls": "new",
-    "h": "FSD에 xAI Grok '차우퍼' 대화 기능 탑재 예고·아르헨티나 진출·6/18 종가 $399.58",
-    "m": "2026-06-19 · CNBC / StockAnalysis · 테슬라, 머스크 FSD에 xAI Grok '차우퍼' 기능 탑재 예고 — 차량 내 AI 대화형 자율주행 경험. 아르헨티나 신규 시장 진출 발표. Uber, 휴스턴에서 Waymo·Tesla 대항 로보택시 런칭. 6/18 종가 $399.58. Q1 EPS $0.41 서프라이즈·Q2 납품 컨센서스 추적 중. FSD 상원 안전검증 기한 7/7 주의"
+    "h": "머스크 'FSD Grok 차우퍼 약 3개월 후 출시'·자연어 주행 지시·목적지 주차 선호지 학습 기능",
+    "m": "2026-06-19 · Benzinga / Teslarati / Not a Tesla App · 머스크, FSD에 xAI Grok 음성 제어 '약 3개월 후' 탑재 확정 — '헤이 그록, 여기서 우회전' 등 자연어 실시간 주행 지시. 목적지(자택·직장·학교) 주차 선호지 학습·기억 기능 추가. 현재 FSD 개입의 주원인인 목적지 주차 문제 해소 목표. xAI SpaceX 인수 후 AI 통합 가속. 아르헨티나 신규 시장 진출. FSD 상원 안전검증 기한 7/7"
    }
   ],
   "KR": [
    {
     "tag": "코스피",
-    "cls": "new",
-    "h": "한국 증시 정상 개장(미국 Juneteenth 휴장)·'반도체는 건재하다' 장중 급반전·명목 성장률 50년 만에 최고",
-    "m": "2026-06-19 · MBC 뉴스 / Investing.com · 미국 NYSE·Nasdaq Juneteenth 휴장 속 한국 증시 정상 개장. 코스피, 장중 급락 후 반도체·AI주 주도로 급반전 — '반도체는 건재하다' 시황 보도. 삼성전자·SK하이닉스 외국인·기관 동반 매수로 지수 견인. 6월 명목 성장률 50년 만에 최고치 보도 병행. 삼성증권 6월 코스피 밴드 7,200~9,200pt 제시"
+    "cls": "up",
+    "h": "코스피·코스닥 합산 시총 사상 첫 8,000조원 돌파·SK하이닉스 주도 반도체 랠리·4/27 6000조→6/19 8000조",
+    "m": "2026-06-19 · 파이낸셜뉴스 / 국민일보 / 한국NGO신문 · 6/19 오전 9시14분 코스피·코스닥 합산 시가총액 8,160조원으로 사상 최초 8,000조원 돌파. SK하이닉스 시총 2,051조원(2000조 돌파)·삼성전자 2,183조원 반도체 듀오 주도. 4/27 6000조 돌파→5/11 7000조(8거래일)→6/19 8000조(26거래일) 가속 달성. 거래소 기준 세계 9위권 진입. 외국인·기관 동반 매수 지속"
    },
    {
     "tag": "SK하이닉스",
     "cls": "up",
-    "h": "사상 최고가 재도전·노무라 목표주가 400만원·주주환원 이사회 보고 임박·Vera Rubin HBM4 60~70% 독점",
-    "m": "2026-06-19 · 노무라증권 / SK하이닉스 뉴스룸 · SK하이닉스, 코스피 정상 개장 속 사상 최고가(전일 2,685,000원) 재도전. 노무라증권 목표주가 400만원 상향(Vera Rubin HBM4 공급 물량 60~70% 독점 반영). 주주환원(배당확대·자사주) 이사회 보고 임박. HBM4E 12단(핀당 16Gbps·에너지효율 20%↑) 양산 단계 전환. 2026년 영업이익 전년비 7배 전망"
+    "h": "장중 2,891,000원 사상 신고가·시총 2,051조 국내 두 번째 2,000조 돌파·SK그룹 첫 2,000조",
+    "m": "2026-06-19 · 헤럴드경제 / 파이낸셜뉴스 / 한국경제 · SK하이닉스, 6/19 장중 2,891,000원 사상 최고가 경신 — 전일 2,685,000원 대비 +7.7% 급등. 시가총액 2,051조원으로 삼성전자에 이어 국내 두 번째 시총 2,000조 돌파. SK그룹 전체 시총도 최초 2,000조 돌파. HBM4E 12단 샘플 주요 고객 공급 시작. 노무라 목표주가 400만원. 2026 영업이익 전년비 7배 전망"
    },
    {
     "tag": "삼성전자",
