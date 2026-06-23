@@ -368,15 +368,15 @@
   "US": [
    {
     "tag": "SPCX",
-    "cls": "new",
-    "h": "Reflection AI 컴퓨팅 파트너십 최대 $6.3B·멤피스 Colossus DC·월 $150M 7/1부터·$20B 채권 발행 동시",
-    "m": "2026-06-23 · Yahoo Finance / MarketBeat / Investing.com · SpaceX, Reflection AI와 멤피스 Colossus 데이터센터 컴퓨팅 파워 계약 체결 — 잠재 가치 최대 $6.3B, 7월 1일부터 월 $1.5억 수령 시작. 동시에 $200억 회사채 발행 계획 발표(자본 보강). 주가 $165.78(IPO가 $135 대비 +23%, 주간고가 $185 대비 -10%). 8월 float lock-up 해제 전 변동성 경계 속 신규 수익원 확보로 펀더멘털 지지 기대."
+    "cls": "down",
+    "h": "Motley Fool '피크 찍었나?' 6/23 분석·ATH $225.64 대비 -26% 조정·FY2025 순손실 $49.4억 vs. 시총 $2T+ 고밸류 논쟁",
+    "m": "2026-06-23 · The Motley Fool / Yahoo Finance · IPO 직후 ATH $225.64(6/16) 달성 후 -26% 조정 중. 6/22 -10.7% 하락. Motley Fool 분석: FY2025 매출 $186.7억·순손실 $49.4억인데 시총 $2T+(P/S 100배+) 밸류에이션 논쟁 가열. Starlink가 수익 핵심 엔진, Starship·AI 인프라는 장기 옵션. Reflection AI $6.3B 계약(7/1부터 월 $1.5억)·$200억 채권 발행이 펀더멘털 지지. 8월 insider lock-up(float 해제) 경계."
    },
    {
     "tag": "TSLA",
-    "cls": "down",
-    "h": "Wedbush: SpaceX-Tesla 합병 80~90% 확률(2027년 초까지) 대폭 상향·Isaacson '합병 반드시 온다'·Kalshi 45~55%",
-    "m": "2026-06-23 · 247wallst / Benzinga / Fortune · Wedbush 단 아이브스, Tesla-SpaceX 합병 가능성을 '80~90%(2027년 초까지)'로 대폭 상향. Walter Isaacson '거의 확실히 합병 있을 것'(CNBC). Kalshi 예측시장 합병 확률 45~55%(전월 20%대에서 급등). SpaceX $2.44T vs Tesla $1.56T 밸류 갭 → TSLA 주주 희석 우려 지속. Jefferies 목표가 $375 하향 유효. Q2 딜리버리 컨센 420K·실적 7/22."
+    "cls": "new",
+    "h": "테슬라 Austin 완전 무인 로보택시 달성·Musk 'FSD 100% 무감독' 선언·차세대 FSD 모델 출시 임박·Dallas·Houston 확장",
+    "m": "2026-06-23 · Yahoo Finance / Not a Tesla App / InsideEVs · Tesla, Austin에서 chase car 없이 완전 무인 FSD 주행 달성. Musk 'FSD 지금 100% 무감독(unsupervised)' 공식 선언. 유료 승객용 로보택시에는 아직 안전요원 탑승 중 — 단계적 완전 제거 진행. Dallas·Houston 25마일 반경으로 서비스 확장. 차세대 더 큰 FSD 모델 출시 임박. FSD 구독자 Q1 130만명(+51% YoY). Q2 딜리버리 컨센 420K·실적 7/22."
    },
    {
     "tag": "MU",
@@ -387,14 +387,14 @@
    {
     "tag": "NVDA",
     "cls": "up",
-    "h": "오늘 주총(6/24 9시 PT)·'Blackwell 추론 비용 1/10'·Vera Rubin 로드맵·FY2026 매출 $2,159억(+65%)·38인 Strong Buy",
-    "m": "2026-06-23 · TradingKey / Boardroom Alpha / NVIDIA Newsroom · NVIDIA 2026 주주총회 오늘(6/24) 9시 PT 온라인(비주주 참관 가능). 핵심 의제: Blackwell CAPA 램프 현황·Vera Rubin 양산 타임라인. 'Grace Blackwell은 현재 추론의 왕 — 비용 1/10 수준, Vera Rubin이 리더십 연장'. 유럽 AI HPC 슈퍼컴 35대 개발 중(연구자 300만명+)·Halos 로보틱스 안전 시스템 출시. FY2026 매출 $2,159억(+65%). 38인 Strong Buy."
+    "h": "Vera Rubin 양산 공식화·Q3 2026 출하 시작·HBM4 3대 공급사(삼성·SK하이닉스·마이크론) 인증 완료·주총 내일",
+    "m": "2026-06-23 · TradingKey / Tickeron / NVIDIA Newsroom · Jensen Huang, Vera Rubin 전체 양산 돌입 공식화, Q3 2026부터 출하 시작. HBM4 3대 공급사(삼성전자·SK하이닉스·마이크론) 인증 완료·출하 개시. Blackwell+Rubin FY2026~2027 $1조 매출 예상. 데이터센터 Q1 FY2027 $752억(+92% YoY). 주총 내일(6/24 9시 PT) 온라인 — CAPA 현황·자사주 계획 발표 예정. 분석가 59인 Buy·평균 목표가 $299."
    },
    {
     "tag": "INTC",
     "cls": "up",
-    "h": "BofA 드문 더블 업그레이드 Underperform→Buy·목표가 $135·'2030 EPS $6+'·18A-P 위험생산 진입 공식화",
-    "m": "2026-06-23 · Barchart / CoinCentral / Insider Monkey · Bank of America, Intel을 Underperform에서 Buy로 드문 더블 업그레이드, 목표가 $135, '2030년 EPS $6+ 가능'. Intel Foundry 18A-P 위험생산(risk production) 공식 진입: +9% 성능/-18% 전력/개선된 열특성. Apple 파트너십 2027 Q2~Q3 공식화, Alphabet·NVIDIA TSMC 백업 파운드리 지정. YTD +205%·6/22 종가 $133.99. Q2 실적 7/23."
+    "h": "BofA Buy 더블 업그레이드 유효·Mizuho $135 목표가 상향·18A-P 위험생산 진입·Apple 파트너십 Q3 공식화·Q2 실적 7/23",
+    "m": "2026-06-23 · BofA / Mizuho / Barchart · BofA Underperform→Buy 더블 업그레이드(목표가 $135·'2030 EPS $6+') 유효. Mizuho도 $128→$135 목표가 상향(Neutral 유지). Intel Foundry 18A-P 위험생산 공식 진입(+9% 성능/-18% 전력). Apple 파트너십 2027 Q2~Q3 공식화, Alphabet·NVIDIA TSMC 백업 파운드리 지정. YTD +205%·6/22 종가 $133.99. Q2 실적 7/23."
    },
    {
     "tag": "AMD",
@@ -427,6 +427,12 @@
     "cls": "up",
     "h": "전일 급락 후 +9% 반등·HBM4 양산 출하 재주목·엔비디아 HBM4 점유율 40% 전망·노사 성과급 합의",
     "m": "2026-06-24 · MBC / KB증권 · 전일(6/23) -5%에서 +9% 급반등. HBM4 업계 최초 양산 출하·AMD 주공급사 펀더멘털 재주목. KB증권 '엔비디아 HBM4 점유율 최대 40%'(전년비 2배↑). 노사 성과급 합의(평균 연봉 12배 수준)·파업 리스크 완전 해소. 파운드리 전략 발표 임박. KB 목표가 530,000원·노무라 590,000원."
+   },
+   {
+    "tag": "삼성·SK하이닉스",
+    "cls": "up",
+    "h": "호남에 500조원 초대형 반도체 클러스터 추진·'단군 이래 최대'·SK 250조+삼성 250조+·최태원 6/30 광주 공식 발표",
+    "m": "2026-06-23 · 이투데이 / 머니투데이 / KBC 단독 · 삼성전자·SK하이닉스, 전남·광주 일대에 합산 500조원+ 초대형 반도체 클러스터 추진. SK하이닉스 ~250조원(전공정 FAB)·삼성전자 250조원+ — 단일 지역 국내 역대 최대 투자. 최태원 SK 회장, 6월 30일 광주에서 공식 발표 예정. 이재명 대통령도 대규모 투자 발표 전망(전자신문). 현실화 시 장비·소재 K-반도체 산업 전반 수혜."
    },
    {
     "tag": "한미반도체",
