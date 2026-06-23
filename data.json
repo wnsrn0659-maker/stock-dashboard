@@ -77,12 +77,12 @@
   {
    "tkr": "NVDA",
    "price": 210.69,
-   "prevPct": 0.90
+   "prevPct": 0.9
   },
   {
    "tkr": "TSLA",
    "price": 404.29,
-   "prevPct": 2.00
+   "prevPct": 2
   },
   {
    "tkr": "AMD",
@@ -92,12 +92,12 @@
   {
    "tkr": "AVGO",
    "price": 411.35,
-   "prevPct": 4.70
+   "prevPct": 4.7
   },
   {
    "tkr": "MU",
    "price": 1133.99,
-   "prevPct": 8.70
+   "prevPct": 8.7
   },
   {
    "tkr": "INTC",
@@ -112,7 +112,7 @@
   {
    "tkr": "000660",
    "price": 2919000,
-   "prevPct": 5.60
+   "prevPct": 5.6
   },
   {
    "tkr": "042700",
@@ -369,88 +369,88 @@
    {
     "tag": "MU",
     "cls": "up",
-    "h": "Q3 어닝 내일(6/24) D-Day·옵션 17% 내재변동성·주가 구간 $940~$1,327·31인 EPS $19.72·YoY EPS +932%",
-    "m": "2026-06-23 · TradingKey / MarketBeat / Alphastreet · 마이크론 Q3 FY2026 실적발표 내일(6/24) 장 마감 후(오후 2:30 MT). 31인 분석가 EPS $19.72·매출 $34.52B. 옵션 시장 1일 17% 내재 변동성·예상 주가 구간 $940~$1,327. 자체 가이던스 총이익률 ~81%(47년 사상 최고). HBM 2026~2027 전량 선계약 완판. Anthropic 전략 파트너십(6/22). YoY EPS +932%·매출 +271% 전망. 4분기 연속 어닝 서프라이즈."
+    "h": "Q3 어닝 내일(6/24) D-Day·EPS 9.72~0.4·YoY +932%·총이익률 ~81%(사상최고)·Motley Fool 급등 예측",
+    "m": "2026-06-23 · Alphastreet / Motley Fool / TradingKey · 마이크론 Q3 FY2026 실적발표 내일(6/24) 장 마감 후(2:30 PM MT). 컨센서스 EPS $19.72~$20.4·매출 $34.5B~$35.4B. YoY EPS +932%·매출 +271%. 총이익률 ~81% 가이던스(47년 사상 최고). HBM 2026~2027 전량 선계약 완판. 4분기 연속 어닝 서프라이즈 평균 +21.7%. Motley Fool(6/22) '어닝 후 주가 급등 예측'. 27인 Strong Buy·목표가 $1,500~$1,625."
    },
    {
     "tag": "NVDA",
     "cls": "up",
-    "h": "주주총회 내일(6/24) 9시 PT·Blackwell·Vera Rubin 생산 램프 핵심 의제·장 초반 +1.5% 반등·38인 Strong Buy",
-    "m": "2026-06-23 · NVIDIA IR / TradingKey / StockTitan · NVIDIA 2026 연례 주주총회 내일(6/24) 오전 9시 PT 온라인 개최. Blackwell·Vera Rubin 생산 램프업 및 AI 에코시스템 상황이 핵심 의제. Vera Rubin H2 2026 초도 고객 출하·7엑사플롭스 AI 성능. 6/23 장 초반 +1.5% 반등. FY2026 연매출 $2,159억(+65%). 38인 Strong Buy·목표가 $298.93."
-   },
-   {
-    "tag": "NVDA",
-    "cls": "new",
-    "h": "Halos for Robotics 물리 AI 안전 시스템·유럽 AI 슈퍼컴 35개·SpaceX Reflection AI $63억 딜 확정",
-    "m": "2026-06-23 · NVIDIA Newsroom / Yahoo Finance · NVIDIA Halos for Robotics — 휴머노이드 로봇용 업계 최초 풀스택 AI 안전 시스템 발표. 유럽 신규 AI HPC 슈퍼컴퓨터 35개 개발 착수(연구·에너지·게놈). SpaceX Colossus 데이터센터 Reflection AI 컴퓨트 딜 $63억(월 $1.5억·7/1 개시 확정). 로보틱스·자율주행 AI 인프라 수요 확장."
+    "h": "주주총회 내일(6/24) 9시 PT·Vera Rubin 350+ 공장 글로벌 양산·RTX Spark Superchip Dell·Lenovo 가을 출시·CPU 시장 도전",
+    "m": "2026-06-23 · NVIDIA IR / StockTitan / TheStreet · NVIDIA 2026 연례 주주총회 내일(6/24) 오전 9시 PT. Blackwell 효율 벤치마크 공개(주주총회 전날). Vera Rubin R200 칩 350+ 글로벌 공장 양산 개시·7엑사플롭스 AI 성능. RTX Spark Superchip(Vera CPU+GPU 통합) 가을 Dell·Lenovo 노트북·데스크탑 출시 — Intel·AMD CPU 시장 직접 도전. FY2026 매출 $2,159억(+65%). 38인 Strong Buy·목표가 $298.93."
    },
    {
     "tag": "TSLA",
     "cls": "new",
-    "h": "Q2 딜리버리 분석가 420K 전망(컨센서스 상향)·FSD v14.3.4 배포·Megapod AI DC 상표출원·Q2 실적 7/22",
-    "m": "2026-06-23 · Yahoo Finance / Not a Tesla App / CNBC · 분석가 Q2 2026 딜리버리 컨센서스 420,000대로 상향 — 유럽·중국 수요 강세 반영. FSD(Supervised) v14.3.4 배포 개시(주차·Smart Summon 개선·AI 드라이빙 고도화). Megapod 모듈형 AI 데이터센터 상표출원 호재. NHTSA Model 3 급가속 충돌 조사 진행. Jefferies 목표가 $375 하향. Q2 실적 발표 7/22."
-   },
-   {
-    "tag": "INTC",
-    "cls": "up",
-    "h": "18A-P 리스크 양산·Apple+Alphabet 파운드리 확정·트럼프 공식 확인·주가 $134 YTD +260%·AI 가드 체인지",
-    "m": "2026-06-23 · CNBC / Investing.com / Simply Wall St · 인텔 18A-P 노드 리스크 양산(성능 +9%/전력 -18%). 트럼프 6/18 Apple-Intel 미국 내 칩 설계·제조 파트너십 공식 확인(2027 Q2~Q3 초도 물량). Alphabet도 Intel 파운드리 선택(6/8) — 하이프로파일 고객 연속 확보. 주가 $134·YTD +260%. AMD와 함께 2026 AI 가드 체인지 공동 주역."
+    "h": "Q2 딜리버리 420K 컨센서스·FSD v14.3.4 배포·Megapod AI DC 상표출원·Q2 실적 7/22·주가 $400.49(+1.04%)",
+    "m": "2026-06-23 · Yahoo Finance / Not a Tesla App / CNBC · 분석가 Q2 2026 딜리버리 컨센서스 420,000대 — 유럽·중국 수요 강세. FSD v14.3.4 배포(주차·Smart Summon·AI 드라이빙 개선). Megapod 모듈형 AI 데이터센터 상표출원. Q2 실적 7/22 예정. 주가 $400.49(+1.04%). NHTSA Model 3 급가속 충돌 조사. Jefferies 목표가 $375 하향."
    },
    {
     "tag": "AMD",
     "cls": "up",
-    "h": "메타 6GW Instinct GPU·주식워런트 1.6억주·첫 1GW H2 2026·Rackspace 30MW·DC Q1 +57%·YTD +130%",
-    "m": "2026-06-23 · AMD Newsroom / ServeTheHome / TheStreet · AMD-Meta 6GW Instinct GPU 5년 $600억 계약(2/24 공식 발표). 커스텀 MI450 기반 가속기 공동 설계·Helios 랙 아키텍처. 메타에 성과 연동 주식워런트 1.6억주 발행($600 목표가 연동). 첫 1GW 출하 H2 2026 예정. Rackspace 2026~2028년 30MW 글로벌 DC 배포 계약. DC Q1 $5.8B(+57%)·총매출 $10.3B(+38%)."
+    "h": "메타 6GW Instinct GPU 5년 $600억·주식워런트 1.6억주·1GW H2 2026·Rackspace 30MW·DC Q1 +57%·NVDA CPU 도전 경쟁 심화",
+    "m": "2026-06-23 · AMD Newsroom / ServeTheHome / TheStreet · AMD-Meta 6GW Instinct GPU 5년 $600억. 커스텀 MI450·Helios 랙·성과 연동 주식워런트 1.6억주. 첫 1GW 출하 H2 2026 예정. Rackspace 2026~2028 30MW 글로벌 DC 배포. DC Q1 $5.8B(+57%)·총매출 $10.3B(+38%). YTD +130%. NVIDIA RTX Spark Superchip 가을 출시로 CPU 시장 경쟁 압박 주목."
    },
    {
     "tag": "AVGO",
     "cls": "down",
-    "h": "OpenAI 10GW 커스텀 AI 가속기 딜·chips-only 전략 전환·Q3 AI $16B 가이던스 미달·JPMorgan '공격적 매수'",
-    "m": "2026-06-23 · Broadcom IR / CNBC / Kalkinemedia · 브로드컴-OpenAI 10GW 커스텀 AI 가속기 전략 협력 발표 — OpenAI 설계 가속기 H2 2026 랙 배포 착수·2029년 완성. 기존 완성형 AI 시스템 대신 'chips-only' 전략으로 전환. AI 반도체 Q2 매출 143% YoY($10.8B). Q3 AI 가이던스 $16B(컨센서스 $17.2B 미달)로 6/3 -12.6% 충격. JPMorgan '공격적 매수'·42인 Strong Buy. FY2027 $100B+ AI 매출 재확인."
+    "h": "Broadcom $35B Anthropic 컴퓨팅 파이낸싱·OpenAI 10GW AI 가속기·TSMC-Amkor 패키징·Q3 AI $16B 미달·JPMorgan 매수",
+    "m": "2026-06-23 · CNBC / Broadcom IR / Tom's Hardware · Broadcom $35B 프라이빗 파이낸싱(Anthropic AI 컴퓨팅) 확보·TSMC-Amkor 10년 애리조나 첨단 패키징 협약. OpenAI 10GW 커스텀 AI 가속기 협력(H2 2026~2029). AI 반도체 Q2 +143% YoY($10.8B). Q3 AI 가이던스 $16B(컨센서스 $17.2B 미달) → 6/4 -14% 충격. JPMorgan '공격적 매수'·42인 Strong Buy. FY2027 $100B+ AI 매출."
+   },
+   {
+    "tag": "INTC",
+    "cls": "up",
+    "h": "18A-P 양산·Apple+Alphabet 파운드리·Q2 실적 7/23 예정·주가 $139~$140(YTD +260%)·Mizuho $135 상향",
+    "m": "2026-06-23 · CNBC / Investing.com / HeyGoTrade · 인텔 18A-P 노드 양산(+9%/전력 -18%). 트럼프 6/18 Apple-Intel 파트너십 확인(2027 Q2~Q3). Alphabet 파운드리 선택(6/8). 주가 $139~$140(52주 고점 $141.45 근접·YTD +260%). Q2 실적 발표 7/23 예정. Mizuho 목표가 $128→$135 상향(Neutral). AMD와 함께 2026 AI 가드 체인지 공동 주역."
    },
    {
     "tag": "SPCX",
     "cls": "down",
-    "h": "$200억 채권 투자자 IR 콜 이번 주 진행·주가 $156대(IPO 상장가 $150 붕괴 우려)·머스크 lockup 2027년 6월",
-    "m": "2026-06-23 · TradingKey / CryptoTicker / Yahoo Finance · SpaceX $200억 투자등급 채권(S&P BBB) 투자자 IR 콜 6/23 주간 진행 중 — 2027년 9월 만기 브리지론 차환 목적. 주가 $156대(IPO 상장가 $150 붕괴 우려·ATH $225.64 대비 -31%). 머스크 지분 lockup 2027년 6월까지·내부자 첫 매도 창구 7~8월. 기업가치 $2.05T. Reflection AI DC 컴퓨트 딜 $63억(7/1 개시)."
+    "h": "$200억 채권 후 -16% 급락·소매 3일 연속 반등 시도·8월 20% lockup·8/21·9/10 각 7% unlock·ATH 대비 -27%",
+    "m": "2026-06-23 · Yahoo Finance / MarketBeat / notice.co · SpaceX $200억 채권 발행 후 -16% 급락 후 소매 매수세 3일 연속 반등 시도 중(현재 $165~$169). 브리지론 차환 목적. 내부자 lockup 일정: 8월 20% 해제·$175 달성 시 조건부 10%·8/21·9/10 각 7% unlock. ATH $225.64 대비 -27%+. Reflection AI Colossus DC $63억(7/1 개시). 기업가치 $2T+."
+   },
+   {
+    "tag": "AI·시장",
+    "cls": "new",
+    "h": "NVDA RTX Spark CPU 시장 직접 도전·Broadcom $35B Anthropic 파이낸싱·MU 어닝(6/24) 방향키·AI 슈퍼사이클 강세",
+    "m": "2026-06-23 · MarketsHost / Tom's Hardware / CryptoBriefing · NVIDIA RTX Spark Superchip — 자체 Vera CPU 탑재 AI PC 슈퍼칩 가을 Dell·Lenovo 출시(Intel·AMD CPU 시장 직접 도전). Broadcom $35B Anthropic 파이낸싱·TSMC-Amkor 10년 패키징 협약 — AI 인프라 투자 구조적 확장. MU Q3 어닝 내일(6/24) — 글로벌 HBM 사이클 방향 결정. AI 반도체 섹터 강세 지속."
    }
   ],
   "KR": [
    {
     "tag": "SK하이닉스",
     "cls": "up",
-    "h": "SEC ADR 승인 이번 주(6/22) 예상·나스닥 상장 7~8월·최대 40조 조달·HBM4E 12단 샘플 납품·시총 1위",
-    "m": "2026-06-23 · 파이낸셜뉴스 / 서울신문 / 인베스트조선 · SEC ADR 승인 6/22 주간 예상(파이낸셜뉴스). 빠르면 7월 중순, 공식 계획 8월 나스닥 상장. 최대 40조원(전체 발행주 2.5%) 글로벌 자금 유치 기대. HBM4E 12단 샘플(16Gbps/pin·에너지효율 전 세대比 +20%) 주요 고객 납품 완료. 코스피 시총 2,080조원(삼성 추월·25년 7개월 만). 목표가 노무라 400만·한화 430만원."
+    "h": "Q1 영업이익 37.6조·OPM 72%(창사 최고)·ADR 나스닥 7월 상장 임박·HBM4E 12단 납품·코스피 시총 1위",
+    "m": "2026-06-23 · 디일렉 / DealSite경제TV / 파이낸셜뉴스 · SK하이닉스 Q1 2026: 매출 52.6조·영업이익 37.6조(창사 최고·분기 최초 50조 돌파)·OPM 72%. YoY 매출 +198%·영업이익 +405%. ADR 나스닥 이르면 7월 중순 상장·최대 40조원 유치 기대. HBM4E 12단 샘플(16Gbps·에너지효율 +20%) 납품 완료. 코스피 시총 1위(2,080조). 목표가 노무라 400만·한화 430만원."
    },
    {
     "tag": "삼성전자",
-    "cls": "down",
-    "h": "SK하이닉스 시총 역전 후 2.5% 급락·코스피 9,000선 일시 붕괴·HBM4+AMD 주공급사 불구 단기 매물 압박",
-    "m": "2026-06-23 · MBC뉴스 / KED Global / KB증권 · SK하이닉스에 코스피 시총 1위 내준 오후 1시 이후 삼성전자 주가 2.5% 급락, 코스피 9,000선 일시 붕괴. 지난 1년 SK하이닉스 +1,030% vs 삼성전자 +490% 격차 확대. 단, 2026년 영업이익 전망치는 삼성전자 361조·SK하이닉스 262조로 삼성이 우위. HBM4 업계 최초 양산 출하·AMD HBM4 주공급사·엔비디아 점유율 40% 전망 유효. 목표가 KB 530,000원·노무라 590,000원."
+    "cls": "up",
+    "h": "노사 성과급 합의·파업 해소·HBM4E 샘플 제출 시총 2,000조 돌파·HBM4 AMD 주공급사·Q2 실적 7월",
+    "m": "2026-06-23 · MBC뉴스 / 초이스스탁 / KB증권 · 삼성전자 노·사 성과급 합의(파업 리스크 해소). HBM4E 신제품 샘플 제출로 시총 2,000조 돌파. HBM4 업계 최초 양산·AMD HBM4 주공급사 확정. KB증권: 엔비디아 HBM4 점유율 최대 40% 전망(전년비 2배). 2026 영업이익 컨센서스 361조. Q2 실적 7월 예정. 목표가 KB 530,000원·노무라 590,000원."
    },
    {
     "tag": "한미반도체",
     "cls": "up",
-    "h": "세계 최초 BOC COB 본더 출시·인도 구자라트 공급계약·TC본더 71%·Vera Rubin HBM4 사이클 연장",
-    "m": "2026-06-23 · 알파스퀘어 / The-Stock · 한미반도체 세계 최초 BOC COB 본더 출시·인도 구자라트 글로벌 메모리 고객사 공장 공급계약 체결. TC본더 글로벌 점유율 71% 독점 유지. NVIDIA Vera Rubin H2 2026 출하 확정 → SK하이닉스 HBM4 장비 사이클 추가 연장. SpaceX 지분 500억원 보유."
+    "h": "BOC COB 본더 세계 최초·인도 구자라트 공급계약·TC본더 71%·Vera Rubin HBM4 사이클 연장·2026 슈퍼사이클",
+    "m": "2026-06-23 · 알파스퀘어 / The-Stock · 한미반도체 BOC COB 본더 세계 최초 출시·인도 구자라트 글로벌 메모리 고객 공급계약. TC본더 글로벌 71% 독점. NVIDIA Vera Rubin HBM4 양산으로 장비 사이클 연장. SpaceX 지분 500억 보유. 2026 슈퍼사이클 진입·6월 주가 최대 527,605원 예상."
    },
    {
     "tag": "한화에어로",
     "cls": "down",
-    "h": "[단독] 드리스콜 미 육군장관 \"한화 매우 좋은 모델\" 직접 언급·MTC 자주포 7월 발표 임박·이란 협정 악재",
-    "m": "2026-06-23 · 이투데이(단독) / CBC뉴스 · 미 드리스콜 육군장관 공개 청문회에서 \"한국은 한화와 함께 매우 좋은 모델을 갖고 있다\" 직접 언급 — 라인메탈(독) 대비 경쟁 우위 신호. 선정 이르면 7월·최소 500문·5조원+ 규모. 낙점 시 한국 방산 최초 미국 완성형 무기체계 수출. 이란-미국 협정 방산 과매도+대전공장 폭발(6/1) 중대재해처벌법 이중 악재. 21인 전원 매수·목표가 173만원."
+    "h": "6월 3주차 1,122,000원(-5.63%) 마감·이란 협정 방산 과매도·7월 MTC 자주포 발표 임박·드리스콜 '한화 좋은 모델'",
+    "m": "2026-06-23 · 중앙이코노미뉴스 / 이투데이 · 6월 3주차 고점 1,264,000원(6/17) 후 1,122,000원(-5.63%, 6/19) 마감. 이란-미국 평화협정 방산 과매도+대전공장 폭발 이중 악재. 드리스콜 미 육군장관 '한국은 한화와 함께 매우 좋은 모델' 공개 언급. MTC 자주포 7월 발표 임박(500문·5조원+). 아칸소 탄약공장 $13억 확정. 21인 전원 매수·목표가 173만원."
    },
    {
     "tag": "반도체",
     "cls": "up",
-    "h": "SK하이닉스 1년 +1,030%·삼성 +490%·MU 어닝 내일(6/24) 방향키·삼성 영업이익 361조·SK 262조 전망",
-    "m": "2026-06-23 · 서울신문 / KED Global / IDC · SK하이닉스 코스피 시총 2,080조원 1위(삼성 추월·25년 7개월 만), 지난 1년 +1,030% 폭등. 내일(6/24) 마이크론 Q3 어닝이 글로벌 메모리 사이클 방향 결정. 2026년 영업이익 삼성전자 361조·SK하이닉스 262조 컨센서스. IDC: 2026 DRAM $4,186억(+177%)·HBM $580억(+66%). HBM 공급 부족 3년 이상 지속 전망."
+    "h": "SK하이닉스 OPM 72%·삼성전자 2026 영업이익 컨센서스 361조·MU 어닝 내일(6/24) 방향키·IDC DRAM $4,186억",
+    "m": "2026-06-23 · DealSite경제TV / IDC / KED Global · SK하이닉스 Q1 OPM 72%(영업이익 37.6조 창사 최고)·삼성전자 2026 영업이익 컨센서스 361조(SK하이닉스 262조). MU Q3 어닝 내일(6/24) — 글로벌 HBM 메모리 방향 결정. IDC: 2026 글로벌 DRAM $4,186억(+177%)·HBM $580억(+66%). HBM 공급 부족 3년+ 전망. AI 메모리 슈퍼사이클 강세 유지."
    },
    {
     "tag": "AI·시장",
     "cls": "new",
-    "h": "브로드컴-OpenAI 10GW 딜·AMD·Intel 가드 체인지·WSTS 메모리 $8,039억(+251%)·슈퍼사이클 지속론",
-    "m": "2026-06-23 · Broadcom IR / TheStreet / WSTS · 브로드컴-OpenAI 10GW 커스텀 AI 가속기 전략 협력(H2 2026 배포~2029 완성) 발표 — AI 인프라 수요 구조적 확대 재확인. AMD·Intel이 2026년 AI 가드 체인지 주역 — YTD 각각 +130%·+260%. WSTS: 2026 글로벌 메모리 $8,039억(+251%). AI 버블 경계론 vs HBM 수급 불균형 3년+ 슈퍼사이클 지속론 대립."
+    "h": "브로드컴 $35B Anthropic 컴퓨팅·NVDA RTX Spark CPU 출시 HBM 수요 확대·AI 반도체 강세·WSTS 메모리 $8,039억",
+    "m": "2026-06-23 · Broadcom IR / MarketsHost / WSTS · 브로드컴 $35B 프라이빗 파이낸싱(Anthropic AI 컴퓨팅)·TSMC-Amkor 10년 애리조나 패키징 협약. NVIDIA RTX Spark AI PC 출시 → HBM·LPDDR 수요 동반 확대 기대. AI 반도체 섹터 강세 지속. WSTS 2026 글로벌 메모리 $8,039억(+251%)·HBM 슈퍼사이클 3년+ 전망."
    }
   ]
  }
