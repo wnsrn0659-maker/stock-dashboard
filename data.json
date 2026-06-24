@@ -369,20 +369,20 @@
    {
     "tag": "MU",
     "cls": "up",
-    "h": "Q3 FY2026 어닝 오늘 밤 6시 ET 발표·FactSet 컨센 EPS $20.76·매출 $35.75B·4분기 연속 비트 이력·GP ~81% 최고",
-    "m": "2026-06-24 · Alphastreet / MarketBeat / SEC 8-K · 마이크론 Q3 FY2026 실적 오늘 4:30 PM ET 발표·어닝콜 6 PM ET. FactSet 컨센서스: EPS $20.76·매출 $35.75B(회사 가이던스 $33.5B 대비 +$2.25B 초과 기대). Q2 FY2026은 EPS $12.20으로 컨센 $8.79 대비 38.57% 서프라이즈·4분기 연속 비트·평균 서프라이즈 21.74%. 핵심 관전: Q4 가이던스·HBM4 할당량·$1조 밸류 코멘트. BofA 목표가 상향 완료."
+    "h": "Q3 FY2026 어닝 오늘 4:30 PM ET 발표·HBM4 완전 솔드아웃·컨센 EPS $19.72·매출 $34.52B·GP 81%+ 기대·5분기 연속 비트",
+    "m": "2026-06-24 · Alphastreet / TradingKey / TheStreet · 마이크론 Q3 FY2026 실적 오늘 4:30 PM ET 발표·어닝콜 6 PM ET. 컨센서스 EPS $19.72·매출 $34.52B(회사 가이던스 $33.5B 초과 기대). HBM4 용량 완전 솔드아웃·GP 81%+ 역대 최고 기대. 5분기 연속 컨센 비트·평균 서프라이즈 21.74%. Vera Rubin용 HBM4 12단 볼륨 생산 이상 없음. 27인 전원 Strong Buy."
    },
    {
     "tag": "NVDA",
     "cls": "up",
-    "h": "AGM 완료·Halos for Robotics 공식 출시(Agility Robotics 최초 도입·Amazon·GXO·Toyota 파트너)·주가 $208.65 회복",
-    "m": "2026-06-24 · NVIDIA Newsroom / GuruFocus · NVIDIA 2026 주총 오전 9시 PT 가상 완료. Halos for Robotics 공식 런칭 — 물리AI(로봇·자율주행)용 업계 최초 풀스택 안전시스템. Agility Robotics(Amazon·GXO·Schaeffler·Toyota 공장 인간형 로봇)가 세계 최초 도입. Jensen Huang, Blackwell+Vera Rubin 생산 가속·유럽 AI 슈퍼컴퓨터 35개 발표. 주가 $208.65(어제 $200.04 대비 +4.3% 회복)."
+    "h": "Vera Rubin H2 AWS·Google·MS·OCI 대량 출하 확정·유럽 35개 AI 슈퍼컴퓨터 개발·Halos 로보틱스 출시·주총 완료",
+    "m": "2026-06-24 · NVIDIA Newsroom / ServeTheHome / Tom's Hardware · Jensen Huang, Vera Rubin NVL72(72 GPU·36 CPU·1.6PB/s HBM4 대역폭·Blackwell 대비 5배 성능) H2 2026 AWS·Google Cloud·MS Azure·OCI 첫 배치 확정. 유럽 35개 AI HPC 슈퍼컴퓨터 개발 중·연구자 300만명 인프라 지원. Halos for Robotics(Agility·Amazon·Toyota 최초 도입) 공식 출시. 주총 9 AM PT 완료."
    },
    {
     "tag": "TSLA",
-    "cls": "down",
-    "h": "FSD 연방조사 진행·Q2 어닝 7월 22일 공식화(EPS $0.445·매출 $24.3B)·14인 하향 vs 8인 상향·$382 수준",
-    "m": "2026-06-24 · Yahoo Finance / NHTSA / StockTwits · 미국 연방 당국 테슬라 FSD 치명 사고 조사 지속. Q2 2026 어닝 7월 22일 확정(EPS $0.445·매출 $24.3B 컨센). 지난 90일 분석가 revision: 14인 하향 vs 8인 상향 부정적 불균형. 로보택시 실제 42대(목표 500 대비 91% 미달). 주가 $382.04, 6월 $439→$405→$382 하락 추세. Q2 딜리버리 400~420K 7월 초 발표."
+    "cls": "new",
+    "h": "NatPower 다년간 $15B 배터리 스토리지 파트너십 체결·오스틴 무인 로보택시 운행 중·NHTSA FSD 조사 지속·Q2 어닝 7/22",
+    "m": "2026-06-24 · Satonic / Capital.com / NHTSA · 테슬라, NatPower와 다년간 배터리 에너지 저장 파트너십 체결(예상 매출 $150억 이상). 오스틴 무인 로보택시(FSD, 안전요원 없음) 6/6 개시·운행 중. NHTSA, 휴스턴 인근 FSD 관련 치명 사고 특별조사 지속(76세 사망). Q2 2026 어닝 7/22 확정(EPS $0.445·매출 $24.3B). 주가 $382."
    },
    {
     "tag": "INTC",
@@ -393,8 +393,8 @@
    {
     "tag": "SPCX",
     "cls": "down",
-    "h": "오늘 $154.60(-3.56%)·Reflection AI $6.3B 계약 7/1 개시 확정·$200억 채권 발행·8월 Lock-up 해제 우려",
-    "m": "2026-06-24 · CNBC / TradingKey / Investing.com · SpaceX 오늘 $154.60(-3.56%), 데이 레인지 $147.11~$170.91. ATH $225.64(6/16) 대비 -31.5%. Reflection AI $6.3B 컴퓨팅 파워 계약 7월 1일 개시 확정($150M/월·멤피스 Colossus 데이터센터). $200억 채권 발행 과잉공급 우려. 8월 insider lock-up 해제 float 급증 경계. 분석가 목표가 $187.80·매수 6·매도 1."
+    "h": "$164.64 반등(어제 저점 $147 대비 +12%)·Reflection AI $6.3B 7/1 개시·ATH $225.64 대비 -27%·채권·Lock-up 오버행",
+    "m": "2026-06-24 · CNBC / TradingKey / Investing.com · SpaceX $164.64(어제 저점 $147.11 대비 +12% 반등). ATH $225.64(6/12 IPO) 대비 -27% 조정 지속. Reflection AI $6.3B 컴퓨팅 계약 7/1 개시($150M/월·멤피스 Colossus). $200억 채권 발행 공급 우려·8월 lock-up 해제 float 증가 경계. 분析가 목표가 $187.80·매수 6·매도 1."
    },
    {
     "tag": "AMD",
@@ -405,8 +405,8 @@
    {
     "tag": "AVGO",
     "cls": "up",
-    "h": "SK하이닉스 HBM 루머=마진 스토리(수요 아님) 확인·AI Q3 $16B 가이던스 유지·AI 고객 6인 공개·저점 탈출",
-    "m": "2026-06-24 · FinancialContent / Intellectia.ai · SK하이닉스 HBM 수요 감소 루머 실체: 마진 관리 위해 HBM4 램프 속도 조절일 뿐 실수요 이상 없음(분석가 확인). Broadcom AI Q3 가이던스 $16B(컨센 $17.2B 소폭 하회)에도 6인 핵심 AI 고객(Anthropic·Google·Meta·OpenAI 포함) 유지. Q2 AI $10.8B(+143% YoY). 셀오프 후 저점 탈출 중·42인 Strong Buy."
+    "h": "Q3 AI 가이던스 $16B 유지·배당 $0.65(ex-date 6/22)·6대 AI 고객 유지·HBM 루머=마진 조절 확인·42인 Strong Buy",
+    "m": "2026-06-24 · Yahoo Finance / FinancialContent · Broadcom Q3 AI 매출 가이던스 $16B(컨센 $17.2B 소폭 하회) 유지. 배당 $0.65(ex-date 6/22). AI 6대 고객(Anthropic·Google·Meta·OpenAI 포함) 유지. SK하이닉스 HBM 루머=마진 관리 위한 램프 속도 조절(실수요 이상 없음). Q2 AI $10.8B(+143% YoY). 42인 Strong Buy."
    }
   ],
   "KR": [
@@ -443,8 +443,8 @@
    {
     "tag": "삼성·SK하이닉스",
     "cls": "up",
-    "h": "MU 어닝 오늘 밤 HBM 수요 풍향계·FactSet 컨센 EPS $20.76·매출 $35.75B·호남 500조 클러스터 D-6",
-    "m": "2026-06-24 · 뉴스1 / 머니투데이 · 마이크론 Q3 FY2026 어닝 오늘 밤 — 삼성·SK하이닉스 '풍향계'. FactSet 컨센: EPS $20.76·매출 $35.75B(회사 가이던스 $2.25B 초과 기대). HBM 수요 재확인 시 삼성·SK하이닉스 추가 모멘텀. 최태원 SK 회장 6월 30일(D-6) 광주 500조원 클러스터 공식 발표. 메모리 3사 2026 역대 최대: SK하이닉스 50조원·삼성 메모리 50조원+·마이크론 $20B+."
+    "h": "MU Q3 어닝 오늘 밤 HBM 풍향계·컨센 EPS $19.72·매출 $34.52B·500조 클러스터 D-6·메모리 3사 역대 최대",
+    "m": "2026-06-24 · 뉴스1 / 머니투데이 · 마이크론 Q3 FY2026 어닝 오늘 밤(4:30 PM ET) — 삼성·SK하이닉스 HBM 수요 재확인 '풍향계'. 컨센 EPS $19.72·매출 $34.52B. HBM4 완전 솔드아웃·GP 81%+ 기대. 최태원 SK 회장 6/30(D-6) 광주 500조원 클러스터 공식 발표. 메모리 3사 2026 역대 최대 실적 전망."
    }
   ]
  }
