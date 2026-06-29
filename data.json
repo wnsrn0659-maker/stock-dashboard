@@ -300,8 +300,8 @@
       {
         "tag": "NVDA",
         "cls": "down",
-        "h": "시총 $5조 아래 추락·젠슨 황 중국 AI칩 화웨이에 사실상 양보 공인·B200 임대가 피크 대비 -31%·37인 중 36인 Buy 유지",
-        "m": "2026-06-29 · Yahoo Finance / Motley Fool / Roic.ai · AI 반도체 패닉셀오프 지속 — NVDA 시총 $5조 아래 추락. Jensen Huang 중국 고급 AI칩 시장 화웨이에 사실상 양보 공식 발언. B200 GPU 클라우드 임대가 피크(5/30 $6.11/hr) 대비 -31%(6/21 $4.22/hr)로 하락. Q1 FY2027 $81.6B 역대 최고 실적에도 ATH $235 대비 -18% 조정. 37인 중 36인 Buy·평균 목표가 $275."
+        "h": "Vera Rubin 첫 고객 샘플 출하 개시·DoC 중국 역외법인 수출 루프홀 차단·수출 리스크 최대 $16B·ATH 대비 -17% 조정",
+        "m": "2026-06-29 · NVIDIA Newsroom / JPMorgan / Bernstein · Vera Rubin 아키텍처(Blackwell 후속) 고객 첫 샘플 출하 개시(이번 주). 미 상무부(DoC) 홍콩·싱가포르 역외법인 경유 Rubin·Blackwell 칩 수출 루프홀 차단(6월 초 시행). JPMorgan·Bernstein 수출 규제 누적 영향 $5.5~16B 추산. ATH $236 대비 -17% 조정. 49인 Strong Buy 컨센 유지."
       },
       {
         "tag": "MU",
@@ -322,30 +322,36 @@
         "m": "2026-06-29 · AMD IR / ServeTheHome / DataCenterDynamics · Meta 6GW MI450 파트너십 H2 2026 초도 1GW 납품 개시(EPYC Venice 조합). Q1 2026 데이터센터 매출 $5.8B(+57% YoY). AMD 2030년 서버CPU 시장 $120B 전망 공식 제시. BofA 에이전틱 AI 2030 수혜주 유지."
       },
       {
+        "tag": "TSLA",
+        "cls": "down",
+        "h": "FSD 휴스턴 치사 사고 연방 수사 개시·상원의원 NHTSA 재조사 요청·텍사스 로보택시 42대(목표 500대 대비 8%)·Jefferies '스페이스X 대리주' 경고",
+        "m": "2026-06-23~29 · TheStreet / Jefferies / Texas Filings · 6/23 텍사스 휴스턴 FSD 치사 사고 연방 당국 수사 개시→TSLA -4.5% 급락. Markey·Blumenthal 상원의원 NHTSA에 FSD 안전 데이터 재검증 공식 요청. 텍사스 로보택시 등록 42대(머스크 500대 목표 대비 8%·Waymo 577대 크게 하회). Jefferies TSLA 향후 스페이스X 대리주로 극단적 변동성 경고."
+      },
+      {
         "tag": "INTC",
         "cls": "up",
         "h": "Goldman Sachs 신규 커버 Neutral $150·Google 3M+ TPU 18A-P 2028 발주 확인·Computex 전스택 AI 인프라 포지셔닝",
         "m": "2026-06-29 · VantageMarkets / StocksToTrade · Goldman Sachs 신규 커버리지: Neutral·PT $150(서버 AI 수요 긍정). Google 3M+ TPU 18A-P 인텔 파운드리 발주(2028년 생산) 확인. Computex 2026: Xeon 6+ 18A 기반 AI 인프라 공급자 포지셔닝. CEO H2 2026 파운드리 다수 정식 계약 기대. 종가 $128.32·YTD +240%."
       },
       {
+        "tag": "SPCX",
+        "cls": "down",
+        "h": "IPO 2주 뒤 $250억 투자등급 채권 발행(5트랜치·$900억 초과수요)·주가 $150 붕괴 후 $153 안정화·IPO 고점 -32% 누적",
+        "m": "2026-06-23·29 · CNBC / TradingKey · IPO(6/12·$135 공모) 2주 뒤 6/23 $250억 투자등급 채권 발행(5개 트랜치·2031~2056 만기·금리 5.35~6.65%). $900억 초과수요. 채권 발행 이후 주가 $150 하회→현재 $153대 안정화. IPO 고점 $225.64 대비 -32% 누적. Kalshi Tesla 합병 확률 54% 유지."
+      },
+      {
         "tag": "QCOM",
         "cls": "down",
         "h": "인베스터데이 Dragonfly C1000 Meta 첫 고객 셀더뉴스 -8.4%·Modular AI $39억 인수·2029 DC $15B 목표·칩은 2028년 이후",
         "m": "2026-06-24~26 · TradingKey / DataCenterKnowledge · Investor Day(6/24): Dragonfly C1000 CPU(Meta 첫 고객·2028 양산)·HBC Gen1 AI 가속기(MS Azure 채택) 발표. 2029 데이터센터 $15B 목표에도 아직 출하 없는 칩 우려로 -8.41% 셀더뉴스. Modular AI $39억 전량주식 인수. 1주 낙폭 -16.5%."
-      },
-      {
-        "tag": "SPCX",
-        "cls": "new",
-        "h": "SpaceX-Tesla 합병 Kalshi 54%·SPCX IPO 고점 $225 대비 -32% 조정·머스크 TSLA 의결권 19.9%로 확대",
-        "m": "2026-06-29 · Seeking Alpha / Kalshi / Motley Fool · SPCX IPO 고점 $225.64→$153대(-32%) 조정 지속. Kalshi 합병 확률 54%(Polymarket 39%). Gwynne Shotwell 합병이 머스크 삶 편하게 할 것 재언급. 머스크 TSLA 옵션 3억400만주 행사→의결권 19.9%(25% 목표). SpaceX 시총 $2.44T로 Tesla 초과."
       }
     ],
     "KR": [
       {
         "tag": "코스피",
-        "cls": "down",
-        "h": "6/29 검은 월요일 -9.99%(910포인트 역대 최대 낙폭)·서킷브레이커 5번째·SK하이닉스·삼성전자 각 -12%·반도체 반등 기대",
-        "m": "2026-06-29 · MBC뉴스 / YTN · AI 과잉투자+미금리 우려 복합 충격으로 코스피 -9.99%(910포인트 역대 최대 낙폭·역대 5번째 하락률, 8,200선). 서킷브레이커 발동(올해 5번째). 2026년 사이드카 29회로 2008 금융위기(26회) 초과. SK하이닉스·삼성전자 각각 -12%(금융위기 이후 최대). 전문가 반도체 AI 펀더멘털 훼손 없어 반등 기대."
+        "cls": "up",
+        "h": "전날 -910포인트 역대 최대 낙폭 후 오늘 V자 급반등·반도체 AI 펀더멘털 건재 전문가 의견·공포지수 91 역대 최고",
+        "m": "2026-06-29 · MBC뉴스 / YTN · 전날 코스피 -9.99%(910포인트 역대 최대 낙폭·서킷브레이커 5번째) 충격 후 오늘 사상 최대폭 급반등(8천선 위 복귀). 반도체·AI 펀더멘털 훼손 없다는 전문가 의견이 반등 주도. 공포지수 91 역대 최고치 기록. 삼성전자·SK하이닉스 반등 선도."
       },
       {
         "tag": "SK하이닉스",
