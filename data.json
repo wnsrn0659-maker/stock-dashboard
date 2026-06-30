@@ -300,20 +300,20 @@
       {
         "tag": "SPCX",
         "cls": "up",
-        "h": "나스닥-100 지수 7/7 편입·패시브 펀드 강제 매수 $73억·IPO 15 거래일 만에 최단 편입 기록·QQQ 자동 매수",
-        "m": "2026-06-30 · Seeking Alpha / CNBC / Fast Company · SpaceX(SPCX) 7월 7일 나스닥-100 편입 확정(6/26 발표). IPO(6/12, 공모가 $135·역대 최대 IPO $750억) 후 15 거래일 만에 최단 편입 기록. 인베스코 QQQ 등 나스닥-100 추종 펀드 장 개시 전 최대 $73억 강제 매수 예정. 8월 6일 첫 분기 실적. ATH $225.64 대비 -32% 조정 중."
+        "h": "나스닥-100 7/7 편입(D-7)·사상 첫 회사채 $200억 발행(블룸버그)·패시브 $73억 강제 매수·8/6 첫 실적",
+        "m": "2026-06-30 · CNBC / Bloomberg · SpaceX(SPCX) 7/7 나스닥-100 편입 확정(6/26 발표), QQQ 등 패시브 ETF 최대 $73억 강제 매수 예정. IPO(6/12, 공모가 $135·역대 최대 $750억) 후 15 거래일 최단 편입 기록. Bloomberg: SPCX 사상 첫 회사채 약 $200억 발행 추진 — 팰컨9·스타링크 사업 확장 자금조달 다각화 신호. 현재 $153대(ATH $225.64 대비 -32%). 8/6 첫 분기 실적."
       },
       {
         "tag": "NVDA",
         "cls": "up",
-        "h": "Vera Rubin 플랫폼 H2 2026 AWS·MS 출시·Blackwell 대비 토큰 비용 10배 절감·38인 Strong Buy PT $298.87",
-        "m": "2026-06-30 · NVIDIA Newsroom / ServeTheHome · NVIDIA Vera Rubin 플랫폼 2026년 하반기 AWS·Microsoft 통해 출시 예정 — Blackwell 대비 MoE 추론 토큰 비용 10배 절감, 학습 GPU 4배 효율. GB300 NVL72 풀 프로덕션 지속(AI팩토리 Hopper 대비 50배 출력). 현재 $195대·52주 ATH $236.54 대비 조정 매수 구간. 38인 Strong Buy·PT $298.87."
+        "h": "Vera Rubin 풀 대량생산 확인(GTC타이페이 6/1)·OpenAI·Anthropic·SpaceX 첫 고객·$200대 조정·8/26 실적",
+        "m": "2026-06-30 · NVIDIA Newsroom / Yahoo Finance · GTC 타이페이(6/1) 젠슨황 Vera Rubin 풀 대량생산 공식 확인 — OpenAI·Anthropic·SpaceX 첫 고객·AWS·Google·MS·Oracle H2 배포 예정. Blackwell 대비 MoE 추론 토큰 비용 10배 절감·학습 4배 효율·NVL72 72GPU 클러스터. 현재 $200대(-4.1% 당일·-7.1% 월간 조정) — ATH $236.54 대비 -15% 매수 구간. 8/26 분기 실적 예정·38인 Strong Buy·PT $298.87."
       },
       {
         "tag": "MU",
         "cls": "up",
-        "h": "Anthropic 멀티년 AI 메모리 파트너십(6/22)·Q4 가이던스 $50B·HBM4 대량 출하·배당 $0.15(7/21 지급)",
-        "m": "2026-06-30 · Micron IR / GlobeNewswire / Seeking Alpha · 마이크론 6/22 Anthropic 전략 파트너십 — HBM·DRAM·SSD 멀티년 공급+메모리 공동 설계+Series H 지분 투자, 주가 +5% 반응. Q3 FY2026 매출 $41.46B·EPS $25.11, Q4 가이던스 $50B·GM 86%. HBM4 대량 출하·2026년 HBM 생산 완판. NVDA·삼성·SKH HBM4 Vera Rubin 공급 인증. 분기 배당 $0.15(7/21 지급·7/6 기준일)."
+        "h": "Anthropic 멀티년 파트너십(6/22)·Q4 가이던스 $50B·HBM4 Vera Rubin 공급 인증·배당 $0.15(7/21 지급)",
+        "m": "2026-06-30 · Micron IR / GlobeNewswire / Seeking Alpha · 마이크론 6/22 Anthropic 전략 파트너십 — HBM·DRAM·SSD 멀티년 공급+메모리 공동 설계+Series H 지분 투자, 주가 +5% 반응. Q3 FY2026 매출 $41.46B·EPS $25.11, Q4 가이던스 $50B·GM 86%. HBM4 대량 출하·2026년 HBM 생산 완판. NVDA·삼성·SKH HBM4 Vera Rubin 공급 인증. 배당 $0.15(7/21 지급·7/6 기준일). 6/26 Apple 가격 인상 수요 우려 약세 후 반등 중."
       },
       {
         "tag": "TSLA",
@@ -330,20 +330,20 @@
       {
         "tag": "AMD",
         "cls": "up",
-        "h": "Cantor Fitzgerald PT $700 상향(+40%)·UBS 스트리트 하이·Oracle MI450 5만대 Q3 배포·Q2 가이던스 $11.2B(+46%)",
-        "m": "2026-06-30 · Cantor Fitzgerald / UBS / AMD IR · Cantor Fitzgerald AMD PT $500→$700 상향(+40%). UBS도 스트리트 하이로 PT 추가 상향. Oracle MI450 5만대 클러스터 Q3 배포 진행. Q2 가이던스 $11.2B(+46% YoY). Meta Instinct 6GW 멀티년 계약. Lisa Su '에이전틱 AI 서버CPU 수요 구조적 급증'. 6/22 ATH $551.63 대비 -5.9% 조정 — 기관 저가 매수 구간."
+        "h": "Cantor PT $700(+40%)·Oracle MI450 5만대 Q3 배포·Q2 $11.2B(+46%)·6/26 Apple 수요 우려 MU·INTC와 동반 약세",
+        "m": "2026-06-30 · Cantor Fitzgerald / UBS / TipRanks · Cantor Fitzgerald AMD PT $500→$700(+40%)·UBS 스트리트 하이. Oracle MI450 5만대 Q3 배포 확정·Q2 가이던스 $11.2B(+46% YoY)·Meta Instinct 6GW 멀티년 계약. Lisa Su '에이전틱 AI 서버CPU 수요 구조적 급증'. 6/26 Apple MacBook·iPad 가격 인상(메모리 비용 전가) 소식에 소비자 칩 수요 우려로 MU·INTC와 동반 약세 — ATH $551.63 대비 -5.9% 조정 기관 저가 매수 구간."
       },
       {
         "tag": "INTC",
         "cls": "up",
-        "h": "18A Panther Lake 200+ PC 파트너 디자인·Apple 파운드리 확정·H2 2026 14A 바인딩 결정 2개 이정표",
-        "m": "2026-06-30 · Intel Newsroom / TNW / Nasdaq · 인텔 18A 기반 Panther Lake 파트너 200+ PC 디자인 확정·Computex 2026 발표. CES 2026(1월) Apple과 파운드리 계약 공식화 — 차세대 Mac·iPad용 18A 실리콘 생산. H2 2026 14A 잠재 고객 2개 바인딩 결정 예정 — 파운드리 사업 생존 이정표. BofA 더블업그레이드·PT $160·YTD +162%."
+        "h": "18A Panther Lake 200+ OEM·Kontron 산업용 엣지AI 신규 협력·Apple·구글·NVDA 파운드리 생태계·YTD +162%",
+        "m": "2026-06-30 · Intel Newsroom / Simply Wall St · 인텔 18A Panther Lake 200+ PC OEM 디자인 확정(Computex 2026). Kontron AG와 산업용·방산 엣지AI 신규 협력(Core Ultra Series 3 탑재 온디바이스 AI). Apple 파운드리 확정(CES 2026·Mac·iPad 18A 실리콘)·구글 멀티년 커스텀 ASIC IPU 협력·NVDA 지분 투자. H2 2026 14A 잠재 고객 2개 바인딩 결정 예정. BofA 더블업그레이드 PT $160·YTD +162%·파운드리 흑자 전환 가속."
       },
       {
         "tag": "AI반도체",
         "cls": "up",
-        "h": "BofA 2026 반도체 $1.3T→2030년 $2T·SOXX YTD +73% 유지·하이퍼스케일러 CapEx $7,500억 75% AI",
-        "m": "2026-06-30 · BofA / intellectia.ai / EBC Financial · Bank of America 2026 글로벌 반도체 시장 $1.3T 상향(기존 $1.0T), 2030년 $2T 잠재력. 6/5 AVGO 쇼크로 $1.3조 증발 후에도 SOXX YTD +73% 유지. Amazon·MS·Google·Meta 합산 AI CapEx $7,500억+·75% AI 집중. NVIDIA 훈련 칩 시장점유율 80~90% 견고."
+        "h": "2026 반도체 $1조 돌파 임박(Deloitte·AI칩 $5000억)·SOXX YTD +73%·하이퍼스케일러 CapEx $7,500억",
+        "m": "2026-06-30 · Deloitte / intellectia.ai / BofA · Deloitte: 2026년 글로벌 반도체 시장 AI 주도 $1조 돌파 임박·AI칩 단독 $5,000억 규모. BofA: 2026 반도체 $1.3T→2030년 $2T 잠재력. 6/5 AVGO 쇼크로 $1.3조 증발 후에도 SOXX YTD +73% 유지. Amazon·MS·Google·Meta 합산 AI CapEx $7,500억+·75% AI 집중. NVIDIA AI GPU 시장점유율 80~90% 견고."
       }
     ],
     "KR": [
@@ -356,8 +356,8 @@
       {
         "tag": "삼성전자",
         "cls": "up",
-        "h": "HBM4 세계 최초 양산 출하 확정·2026 HBM 매출 3배 전망·HBM4E H2 2026 샘플·AMD HBM4 주공급사 지명",
-        "m": "2026-06-30 · 삼성반도체 / Press9 / EconomyTribune · 삼성전자 HBM4 세계 최초 상업적 양산 출하 공식 확인(속도·용량·에너지효율 세계 최고). 2026년 HBM 매출 2025년 대비 3배 이상 증가 전망. HBM4E(1-beta 12단) H2 2026 샘플 출하. AMD HBM4 주공급사 지명·Custom HBM 2027년 고객 맞춤 샘플링. 노무라 목표가 670,000원."
+        "h": "시총 2천조원 돌파·HBM4 11.7Gbps 세계 최초 양산·노사 합의(파업 회피)·AMD HBM4 주공급사·목표가 85만원",
+        "m": "2026-06-30 · MBC뉴스 / 삼성반도체 / 뉴스스페이스 · 삼성전자 시가총액 2,000조원 돌파(HBM4E 샘플 호재·6/29 +8.97% V자 반등). HBM4 세계 최초 상업적 양산 확인 — 11.7Gbps 동작속도(JEDEC 표준 8Gbps 대비 +46%·업계 최고). HBM4E(1c나노 12단) H2 2026 샘플 출하. AMD HBM4 주공급사 지명. 노사 임금 교섭 합의(파업 회피, 6/27 조합원 투표 가결). 노무라 목표가 670,000원·월가 일부 850,000원 전망."
       },
       {
         "tag": "한화에어로스페이스",
@@ -386,8 +386,8 @@
       {
         "tag": "코스피",
         "cls": "up",
-        "h": "코스피 시총 7천조 돌파·SK하이닉스 ADR 7/10(D-10) 임박·외국인 저가 매수 전환·반도체 섹터 Q3 랠리 기대",
-        "m": "2026-06-30 · MBC뉴스 · 코스피 시총 사상 첫 7천조원 돌파. SK하이닉스 나스닥 ADR 상장(7/10, D-10) 글로벌 자금 유입 기대. 6/26 사상 최대 낙폭(-9.99%) 이후 V자 반등 안정화. 외국인 연속 순매도→저가 매수 전환. 반도체·AI 섹터 거래대금 상위 28개 종목 반도체 집중(삼성전기·현대차 제외)."
+        "h": "코스피 시총 7천조 돌파·삼성전자 시총 2천조·SK하이닉스 ADR D-10 임박·외국인 저가 매수 전환",
+        "m": "2026-06-30 · MBC뉴스 · 코스피 시총 사상 첫 7천조원 돌파. 삼성전자 단독 시총 2,000조원 돌파(HBM4E 샘플 호재). SK하이닉스 나스닥 ADR 상장(7/10, D-10) 글로벌 자금 유입 기대. 6/26 사상 최대 낙폭(-9.99%) 이후 V자 반등 안정화. 외국인 연속 순매도→저가 매수 전환. 반도체·AI 섹터 거래대금 상위 집중."
       }
     ]
   },
