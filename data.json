@@ -292,8 +292,14 @@
       {
         "tag": "INTC",
         "cls": "up",
-        "h": "Q2 실적 7/23 예정·Cantor PT $90→$150 상향(Neutral)·18A-P 리스크 생산 진입·BofA Buy $135·YTD +256%",
-        "m": "2026-07-01 · StockTitan / Vantagemarkets / BofA · Intel Q2 2026 실적 7/23 발표 예정(EPS 19센트·매출 $144억 전망). 신규: Cantor Fitzgerald PT $90→$150 상향(Neutral 유지). 18A-P 리스크 프로덕션 진입(성능 +9%·전력 -18% vs 18A). Panther Lake: 325개 PC 파트너 디자인·70B 온디바이스 AI 지원. BofA Buy PT $135. 구글 3M AI 칩 딜 여파 지속. YTD +256%."
+        "h": "Apple 파운드리 딜+BofA Buy로 $140 돌파·YTD +270%·18A-P 리스크 생산·Cantor PT $90→$150·Q2 실적 7/23",
+        "m": "2026-07-01 · TradingKey / Intel Newsroom / BofA · Apple 파운드리 딜 논의 본격화+BofA Upgrade(Buy·PT $135) 동시 촉매 — INTC $140 돌파(YTD +270%+). 18A-P 리스크 프로덕션 진입(vs 18A 대비 +9% 성능·-18% 전력). Panther Lake: 325개 PC 파트너 디자인·70B 온디바이스 AI 지원. Cantor Fitzgerald PT $90→$150(Neutral). Q2 실적 7/23(컨센: EPS 19센트·매출 $144억)."
+      },
+      {
+        "tag": "SOX",
+        "cls": "up",
+        "h": "PHLX 반도체지수 2026 상반기 +80% 역사적 랠리·1993년 출범 이후 최고 상반기·AI 수퍼사이클·글로벌 반도체 $9,750억",
+        "m": "2026-07-01 · tickeron.com / fintech.tv / Deloitte · PHLX 반도체지수 2026 상반기 +80% — 1993년 지수 출범 이후 최고 상반기 성적. Deloitte: 2026 글로벌 반도체 시장 $9,750억(+26% YoY) 전망. AI 수퍼사이클 본격화: NVDA·AMD·AVGO·MU·INTC 모두 대폭 상승. BofA: HBM 시장 $54.6B(+58% YoY) 수혜 지속."
       }
     ],
     "KR": [
