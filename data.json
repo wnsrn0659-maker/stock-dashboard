@@ -261,9 +261,9 @@
       },
       {
         "tag": "NVDA",
-        "cls": "up",
-        "h": "Vera Rubin 7월 AWS·Azure·Google·Oracle 초도 배송·Palantir 6/29 정부 AI 파트너십·데이터센터 Q1 $75.2B(+92%)",
-        "m": "2026-07-01 · NVIDIA Newsroom / Investing.com / Digital Watch Observatory · NVDA Vera Rubin(NVL72) 7월 초도 배송: AWS·Google Cloud·Microsoft Azure·Oracle 동시 개시. 신규: Palantir와 6/29 정부 AI 파트너십 — NVIDIA AI플랫폼·Nemotron 오픈모델+Palantir AIP·Foundry 결합, 미 정부·방산 에어갭 AI 주권 환경 배포. 데이터센터 Q1 $75.2B(+92% YoY)·Q2 가이던스 $91B. Q2 실적 8/26."
+        "cls": "new",
+        "h": "B200 GPU 임대료 3주 -31% 급락·하이퍼스케일러 공급 과잉 우려·2026 YTD -18% vs AMD +114%·Vera Rubin 7월 배송 유효·Q2 $91B",
+        "m": "2026-07-01 · InteractiveCrypto / ThunderCompute / TIKR · NVDA B200 GPU 클라우드 임대료: $6.11/hr(5/30) → $4.22/hr(6/21), 3주 만에 -31% 급락 — 하이퍼스케일러 GPU 캐파 확장 속도가 신규 AI 워크로드 흡수 속도를 앞지르는 단기 공급 과잉 신호. 2026 YTD 수익률: NVDA -18%(ATH 대비 -23%) vs AMD +114%·MU 대폭 상회. 긍정: Vera Rubin(NVL72) 7월 AWS·Azure·Google·Oracle 초도 배송 유효, Q2 가이던스 $91B, Palantir 정부 AI 파트너십, 실적 8/26."
       },
       {
         "tag": "MU",
