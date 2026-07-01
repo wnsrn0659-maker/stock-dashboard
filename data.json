@@ -256,8 +256,8 @@
       {
         "tag": "AMD",
         "cls": "up",
-        "h": "7/1 신고가 $579.73·+7%·시총 $1조 초읽기·EPYC Venice 256코어 2nm TSMC 양산 가속·성능 +70%·YTD +130%",
-        "m": "2026-07-01 · AMD Newsroom / Morgan Stanley / Wells Fargo · AMD 7/1 장중 $579.73 신고가(+7%), 시총 $1조 돌파 임박, YTD +130%. EPYC Venice(Zen 6·256코어·TSMC 2nm) 5월 양산 가속 공식 발표 — 성능 +70%·메모리 대역폭 1.6TB/s(현 대비 2.6배). Morgan Stanley: EPYC Venice 2027년 675만대 출하로 NVDA Vera CPU(575만대) 추월 전망. Wells Fargo: 2026F AMD 데이터센터 CPU 매출 $160억(+68% YoY) 대폭 상향. Oracle MI450 5만대 Q3 배포 예정."
+        "h": "7/1 신고가 $579.73·+7%·시총 $834B($1조 20% 남음)·EPYC Venice Q1 DC $5.8B·2030년 서버CPU $120B 전망",
+        "m": "2026-07-01 · AMD IR / Morgan Stanley / DataCenterDynamics · AMD 7/1 장중 $579.73 신고가(+7%), 시총 $834B → $1조 돌파 약 20% 남음, YTD +130%. Q1 2026 데이터센터 매출 $5.8B, 2030년 서버 CPU 매출 $120B 전망 제시. EPYC Venice(Zen 6·256코어·TSMC 2nm) 5월 양산 가속 — 성능 +70%·메모리 대역폭 1.6TB/s. Morgan Stanley: Venice 2027년 675만대 출하로 NVDA Vera CPU(575만대) 추월 전망. 역대 EPYC 세대 중 가장 많은 고객사 플랫폼 검증 진행 중. Oracle MI450 5만대 Q3 배포."
       },
       {
         "tag": "NVDA",
@@ -268,26 +268,26 @@
       {
         "tag": "MU",
         "cls": "up",
-        "h": "Q3 FY2026 사상최대 $41.46B(+346%)·HBM4 2026 전량 완판·16Hi 48GB 고용량 HBM4 샘플 출하·CME 선물 7/27",
-        "m": "2026-07-01 · Micron IR / Yahoo Finance · MU Q3 FY2026 역대 최대: 매출 $41.46B(+346% YoY)·총마진 84.6%·EPS $25.11·Q4 $50B 가이던스. HBM4 2026년 전체 생산량 다년도 계약으로 전량 완판 확인. 신규: 16-high 48GB 고용량 HBM4 스택 고객 샘플 출하(12-high 대비 용량 +33%). NVDA Vera Rubin HBM4 고용량 생산 돌입. 드러켄밀러 Duquesne 13F MU 매수 공시. CME 7/27 단일주식선물. 29인 Buy·PT $1,264."
+        "h": "Q3 FY2026 사상최대 $41.46B(+346%)·HBM4 2026 전량 완판·MU·SK하이닉스 16Hi 48GB HBM4 경쟁·NVDA 3사 모두에 요청",
+        "m": "2026-07-01 · Micron IR / Tweaktown / Yahoo Finance · MU Q3 FY2026 역대 최대: 매출 $41.46B(+346% YoY)·총마진 84.6%·EPS $25.11·Q4 $50B 가이던스. HBM4 2026 전량 완판. MU 16-high 48GB HBM4 샘플 출하(12-high 대비 용량 +33%). SK하이닉스도 16Hi HBM4 48GB·2TB/s 초과 대역폭 Q3 2026 양산 계획 — NVDA가 3사 모두에 16Hi HBM4 공급 요청. 드러켄밀러 Duquesne 13F MU 매수 공시. CME 7/27 선물. 29인 Buy·PT $1,264."
       },
       {
         "tag": "TSLA",
         "cls": "new",
-        "h": "Q2 배달 내일(7/2) 발표·Goldman 420K vs 컨센 406K·Cantor 397K 미스 경고·에너지저장 13.8GWh·Q2 재무 7/22",
-        "m": "2026-07-01 · Electrek / TechTimes / Investing.com · Tesla Q2 2026 배달 보고서 내일(7/2) 발표 예정. 컨센서스 406,024대(22개사). Goldman Sachs 유럽 등록 +85~90% YoY 근거로 420K 상향. Cantor Fitzgerald 397,414대 미스 경고 — YoY 성장 부재 시 수요 우려 부각. 에너지저장 Q2 13.8GWh(+36% QoQ) 기대. 420K 이상이면 역대 최강 수요 회복 신호·390K 이하면 재고 우려. Q2 재무(매출·마진·EPS) 7/22."
+        "h": "Q2 배달 내일(7/2)·Goldman 420K vs Bloomberg 396K vs 컨센 406K·Cantor 397K 미스 경고·420K 이상 시 역대 최강",
+        "m": "2026-07-01 · Electrek / TechTimes / Investing.com · Tesla Q2 2026 배달 보고서 내일(7/2) 발표 예정. Goldman Sachs 420K(유럽 등록 +85~90% YoY), Bloomberg 컨센 396K, 회사 집계 컨센 406K, Cantor 397K 미스 경고 — 추정치 편차 24K. 420K 이상이면 역대 최강 수요 회복 신호·390K 이하면 재고 우려 재부각. Q2 재무 7/22."
       },
       {
         "tag": "SPCX",
         "cls": "up",
-        "h": "Nasdaq-100 D-6(7/7 발효)·JPM+FTSE Russell $73억 패시브 강제매수·8/6 첫 실적·CME 선물 7/27·애널리스트 평균 PT $187",
-        "m": "2026-07-01 · Seeking Alpha / MarketBeat / CME · SpaceX Nasdaq-100 7/6 마감 후 편입 발효(7/7). IPO(6/12, $135) 15거래일 만에 역대 최단 편입. JPM($43억)+FTSE Russell($30억) 합산 $73억 패시브 강제매수 예상. ATH $225.64(6/16) 대비 현재 $164.19(-27% 조정). 애널리스트 12개월 평균 PT $187.80(최고 $310·Buy 6인). 8/6 첫 분기 실적. CME 7/27 선물 런칭."
+        "h": "Nasdaq-100 D-6(7/7 발효)·$73억 패시브 강제매수·8/6 첫 분기 실적·IPO 밸류에이션 112x P/S 부담 부각",
+        "m": "2026-07-01 · Seeking Alpha / SpotGamma / CNN · SpaceX Nasdaq-100 7/7 발효. JPM($43억)+FTSE Russell($30억) $73억 패시브 강제매수 예상. ATH $225.64(6/16) 대비 현재 -27% 조정. 8/6 첫 분기 실적 발표 예정. 주의: 2025 매출 대비 112배·2026 포워드 54배 P/S 밸류에이션 논란 지속. 애널리스트 평균 PT $187(최고 $310·Buy 6인). CME 7/27 선물."
       },
       {
         "tag": "AVGO",
         "cls": "up",
-        "h": "Jalapeño 기가와트급 데이터센터 연말 배포 확정·Q3 AI $160억(+200%+ YoY)·6개 ASIC 고객·FY2027 AI $100B·백로그 $73B",
-        "m": "2026-07-01 · CNBC / AVGO IR / BetaNews · Broadcom·OpenAI Jalapeño(6/24 공개): 최초 LLM 추론 특화 ASIC, 9개월 최단 개발. 연말 기가와트급 데이터센터 초도 배포·2027~2028 양산 본격화. Q3 AI 가이던스 $160억(+43% QoQ·+200%+ YoY). 6개 핵심 ASIC 고객(Anthropic·Google·Meta·OpenAI+2). FY2027 AI $100B 재확인. 백로그 $73B. 26인 Buy."
+        "h": "Jalapeño 기가와트급 데이터센터 연말 배포 확정·Q3 AI $160억(추정 미달 조정 흡수 후 반등)·FY2027 AI $100B·백로그 $73B",
+        "m": "2026-07-01 · CNBC / AVGO IR · Broadcom·OpenAI Jalapeño(6/24 공개): 최초 LLM 추론 특화 ASIC, 9개월 최단 개발, 연말 기가와트급 데이터센터 초도 배포. Q3 AI 가이던스 $160억 — 추정치 $172억 대비 미달로 한차례 -12.6% 급락 후 회복 중. 6개 핵심 ASIC 고객(Anthropic·Google·Meta·OpenAI+2). FY2027 AI $100B 재확인. 백로그 $73B. 26인 Buy."
       },
       {
         "tag": "INTC",
@@ -300,14 +300,14 @@
       {
         "tag": "SK하이닉스",
         "cls": "up",
-        "h": "ADR 나스닥 D-9(7/10)·수요예측 D-5(7/6)·45조원 조달·NVDA HBM4 60~70% 독점·용인 클러스터·EUV 투자",
-        "m": "2026-07-01 · YTN / Investing.com / TradingKey · SK하이닉스 Nasdaq ADR 상장 D-9(7/10). 신주 1,779만주·최대 45조 4,500억원($294억) 조달. 7/6 수요예측(D-5). BofA·Citi·Goldman·JPM 공동 주관. NVDA Vera Rubin HBM4 60~70% 공급 압도적 1위(Jensen Huang 확인). 조달 자금: 용인 클러스터 1단계 웨이퍼 팹·청주 P&T7 첨단패키징·EUV 장비 투자. iM증권 350만원·노무라 500만원."
+        "h": "ADR 나스닥 D-9(7/10)·45조원 조달·NVDA HBM4 60~70% 독점·16Hi HBM4 48GB 2TB/s 초과 Q3 양산 계획·용인 클러스터",
+        "m": "2026-07-01 · YTN / Tweaktown / TradingKey · SK하이닉스 Nasdaq ADR 7/10 상장(D-9). 신주 1,779만주·최대 45조 4,500억원($294억) 조달. 7/6 수요예측(D-5). NVDA Vera Rubin HBM4 60~70% 공급 압도적 1위. 신규: 16-Hi HBM4 48GB·2TB/s 초과 대역폭 Q3 2026 양산 계획 발표 — NVDA의 16Hi HBM4 공급 요청 3사 중 선도 예상. 조달 자금: 용인 클러스터 팹·청주 첨단패키징·EUV 장비. iM증권 350만원·노무라 500만원."
       },
       {
         "tag": "삼성전자",
         "cls": "up",
         "h": "평택 P5 Fab2 이달 착공 공식화·HBM4E 12단 세계최초 샘플 출하·AMD HBM4 주공급사·Q2 실적 7/23",
-        "m": "2026-07-01 · Newsspace / 초이스스탁US / Samsung IR · 삼성전자 평택 P5 Fab 2 착공 시점을 7월로 기존 대비 6개월 조기 착공 결정(2029년 상업가동 목표, 투자 60조원). HBM4E(12단·1c나노) 세계 최초 샘플 출하 성공 — 속도 +20%·용량 +30%·에너지효율 +16%. AMD HBM4 주공급사 지명으로 추가 물량 기대. Q2 FY2026 실적 7/23(2026F 영업이익 +325% YoY 전망). Goldman 45만원·노무라 67만원."
+        "m": "2026-07-01 · Newsspace / Samsung IR · 삼성전자 평택 P5 Fab 2 착공 시점을 7월로 6개월 조기 결정(2029년 상업가동·투자 60조원). HBM4E(12단·1c나노) 세계 최초 샘플 출하 성공 — 속도 +20%·용량 +30%·에너지효율 +16%. AMD HBM4 주공급사 지명. Q2 FY2026 실적 7/23. Goldman 45만원·노무라 67만원."
       },
       {
         "tag": "삼성·SK하이닉스",
@@ -324,14 +324,14 @@
       {
         "tag": "한미반도체",
         "cls": "up",
-        "h": "TC본더 4.5(그리핀) SK하이닉스 442억 수주·삼성 추가 논의·글로벌 71% 독점·Vera Rubin 3사 HBM4 풀가동 수혜",
-        "m": "2026-07-01 · 아시아타임즈 / Alphabiz · 한미반도체 TC본더 4.5(그리핀) SK하이닉스 442억원 수주 확인. 삼성전자-한미 HBM4 TC본더 추가 공급 논의 진행 중. TC본더 글로벌 71% 독점. NVDA Vera Rubin 3사 HBM4 풀가동으로 TC본더 수요 구조적 급증. 800조원 클러스터 추가 확정으로 하반기 발주 사이클 재개 기대."
+        "h": "TC본더 4.5(그리핀) SK하이닉스 442억 수주·삼성 추가 논의·글로벌 71% 독점·SK하이닉스 16Hi HBM4 Q3 양산→발주 가시화",
+        "m": "2026-07-01 · 아시아타임즈 / Alphabiz · 한미반도체 TC본더 4.5(그리핀) SK하이닉스 442억원 수주 확인. 삼성전자-한미 HBM4 TC본더 추가 공급 논의 진행 중. TC본더 글로벌 71% 독점. SK하이닉스 16Hi HBM4 48GB Q3 2026 양산 계획 → TC본더 추가 발주 가시화. NVDA Vera Rubin 3사 HBM4 풀가동으로 TC본더 수요 구조적 급증."
       },
       {
         "tag": "HBM",
         "cls": "new",
-        "h": "2026 시장 $54.6B(+58% YoY)·3사 전량 완판·MU 16Hi 48GB 고용량 샘플 출하·공급 부족 2027년까지",
-        "m": "2026-07-01 · BofA / Micron IR / Jensen Huang · BofA: 2026 HBM 시장 $54.6B(+58% YoY). 3사 HBM4 2026 전량 다년도 계약으로 완판. MU 신규: 16-high 48GB 고용량 HBM4 고객 샘플 출하(12-high 대비 용량 +33%). NVDA Vera Rubin HBM4 공급: SK하이닉스 60~70%·삼성 25~30%·MU 나머지. 가격 +22% YoY. Goldman: ASIC용 HBM 수요 2026 +82% 전망. 공급 부족 구조 2027년까지 지속."
+        "h": "2026 시장 $54.6B(+58% YoY)·3사 전량 완판·16Hi HBM4 경쟁(SK하이닉스 Q3 양산·MU 샘플 출하·삼성 준비 중)·공급 부족 2027년까지",
+        "m": "2026-07-01 · BofA / Tweaktown / Micron IR / Digitimes · BofA: 2026 HBM 시장 $54.6B(+58% YoY). 3사 HBM4 2026 전량 완판. 16Hi HBM4(48GB) 3사 경쟁: SK하이닉스 2TB/s 초과 Q3 양산 계획, MU 48GB 샘플 이미 출하(12Hi 대비 용량 +33%), 삼성 대응 준비 중 — NVDA가 3사 모두에 16Hi 공급 요청. 가격 +22% YoY. 공급 부족 구조 2027년까지 지속."
       },
       {
         "tag": "코스피",
