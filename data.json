@@ -256,58 +256,58 @@
       {
         "tag": "TSLA",
         "cls": "new",
-        "h": "Q2 2026 배달 보고서 오늘 발표·Goldman 420K 상향·컨센 406K·BYD Q2 BEV 557K 재차 압도·에너지저장 13.8GWh",
-        "m": "2026-07-02 · Tesla IR / Goldman Sachs / Electrek · Tesla Q2 2026 배달 보고서 7/2 오늘 공식 발표. Goldman Sachs 420K 상향(컨센 22인 406,024대·중앙값 408,609). 에너지저장 13.8GWh(+57% QoQ). BYD Q2 순수전기차 557K로 재차 Tesla 압도. 420K+ 달성 시 수요 회복 확인, 390K 이하 시 재고 우려 재부각. Q2 재무보고 7/22."
+        "h": "Q2 2026 배달 보고서 오늘 발표·컨센 406,024대·에너지저장 13.8GWh·BYD BEV 557K 재차 압도·Q2 재무보고 7/22",
+        "m": "2026-07-02 · Tesla IR / Electrek / TechTimes · Tesla Q2 2026 배달 보고서 7/2 공식 발표. 컨센서스 22인 평균 406,024대(중앙값 408,609)·Goldman 420K 상향·Bloomberg 396,466. 에너지저장 13.8GWh(+57% QoQ, Shanghai Megafactory 풀가동). BYD Q2 순수전기차 557K로 재차 Tesla 압도. 420K+ 달성 시 수요 회복 신호, 390K 이하 시 재고 우려 재부각. 유럽 YoY +85~90%·미국 YoY -15% 대조. Q2 재무보고 7/22."
       },
       {
         "tag": "SOX",
         "cls": "down",
-        "h": "Q2 MU+AMD+INTC 합산 $2T 랠리 후 이틀째 조정·BofA 버블 지수 SOX 0.91·AMD -5.2%·NVDA -1.5%",
-        "m": "2026-07-02 · TipRanks / BofA / Yahoo Finance · Q2 2026 MU +240%·AMD +186%·INTC +216% — 3사 합산 $2T 시총 랠리 후 7/1~7/2 이틀 연속 차익실현. BofA 버블 리스크 지수 SOX 0.91(고위험)·테크 0.82 경보. AMD $550.72(-5.2%), NVDA $197.08(-1.5%), MU·INTC -3~9% 동반. AVGO Q3 AI 가이던스 $16B 미달 여진 지속. AI 수퍼사이클 펀더멘털 훼손 없음."
+        "h": "H2 2026 개막 경계심·Q2 $2T 랠리 후 이틀째 차익실현·MU -7%·AMD -5.7%·BofA 버블 SOX 0.91",
+        "m": "2026-07-02 · 24/7 Wall St. / Yahoo Finance / BofA · Nasdaq H2 2026 개막 경계심 속 반도체 조정 이틀째. Q2 2026 MU +240%·AMD +186%·INTC +216% — 3사 합산 $2T 시총 랠리 이후 7/1~7/2 이틀 연속 차익실현 매물. MU -7%·AMD -5.7%·NVDA -2%·AVGO -2.5%. BofA 버블 리스크 지수 SOX 0.91(고위험)·테크 0.82. RSI 과매수(AMD 75배 PER). AI 수퍼사이클 펀더멘털 훼손 없음."
+      },
+      {
+        "tag": "NVDA",
+        "cls": "new",
+        "h": "ISC 2026 Rubin 플랫폼 6칩 발표·추론비용 Blackwell 대비 1/10·Vera Rubin NVL72 7월 4대 CSP 초도 배송·실적 8/26",
+        "m": "2026-07-02 · NVIDIA Newsroom / CNBC · NVIDIA, ISC High Performance 2026에서 Rubin 플랫폼(Vera CPU·Rubin GPU·NVLink 6·ConnectX-9·BlueField-4·Spectrum-6) 공개 — Blackwell 대비 추론 토큰 비용 최대 1/10, MoE 모델 학습 GPU 수 1/4 감소. Rubin 풀 프로덕션 진입, H2 2026 파트너 출하. Vera Rubin(NVL72) 7월 AWS·Azure·Google·OCI 4사 초도 배송 시작. AI 가속기 시장점유율 85~92% 유지. Q2 가이던스 $91B. 실적 8/26."
       },
       {
         "tag": "INTC",
         "cls": "up",
         "h": "Trump Apple 18A 파운드리 딜 공식 확인·18A-P 리스크 생산 개시·BofA Buy $160·YTD +250%·Q2 실적 7/23",
-        "m": "2026-07-02 · TheStreet / Intel Newsroom / BofA · Trump 대통령 Apple이 Intel과 미국 내 칩 설계·생산 협력 공식 확인 후 INTC 6~8% 급등. Intel 18A-P 리스크 생산 개시(18A 대비 성능 +9%·전력 -18%·열저항 +20~40%). BofA Buy $160(6/25 상향). YTD +250%. Panther Lake 325개 PC 파트너. Q2 실적 7/23(컨센 EPS 19센트·매출 $144억)."
-      },
-      {
-        "tag": "NVDA",
-        "cls": "new",
-        "h": "$197대 횡보·Vera Rubin NVL72 7월 AWS·Azure·Google·Oracle 초도 배송 시작·Q2 $91B·실적 8/26",
-        "m": "2026-07-02 · CNBC / ThunderCompute / NVDA IR · NVDA $197.08(-1.5%). Vera Rubin(NVL72) 7월 AWS·Azure·Google·Oracle 4사 초도 배송 시작. B200 GPU 클라우드 임대료 $6.11(5/30)→$4.22(6/21) — 단기 공급 과잉 신호. Q2 가이던스 $91B. BofA 버블 지수 0.91 경고 속 저가 매수 vs 차익실현 공방. 실적 8/26."
+        "m": "2026-07-02 · TheStreet / Intel Newsroom / BofA · Trump 대통령 Apple이 Intel과 미국 내 칩 설계·생산 협력 공식 확인 후 INTC 6~8% 급등. Intel 18A-P 리스크 생산 개시(18A 대비 성능 +9%·전력 -18%·열저항 +20~40%). BofA Buy $160(6/25 상향). YTD +250%. Panther Lake 325개 PC 파트너. Q2 실적 7/23(컨센 EPS 19센트·매출 $144억). Apple 18A-P M7칩 2027 후반 양산 목표."
       },
       {
         "tag": "AMD",
         "cls": "down",
-        "h": "ATH $579.73(7/1) 후 7/2 -5.2% 차익실현·Q2 가이던스 $11.2B(+46% YoY)·Oracle MI450 5만대 Q3 배포·UBS $670",
-        "m": "2026-07-02 · TradingKey / Wells Fargo / UBS · AMD 7/2 $550.72(-5.2%) 차익실현 — 전일 ATH $579.73(+7%) 달성 후 이익실현 매물. Q2 가이던스 $11.2B(+46% YoY). Oracle MI450 5만대 Q3 배포 확정. Wells Fargo: 2026 서버CPU 매출 $16B·AMD YoY +68% 전망. OpenAI 6GW·Meta 6GW MI450 이중 수주 유효. UBS $670."
+        "h": "ATH $579.73(7/1) 후 7/2 이틀째 차익실현·YTD +100%·Q2 가이던스 $11.2B(+46%)·Oracle MI450 5만대 Q3·UBS $670",
+        "m": "2026-07-02 · TradingKey / Wells Fargo / UBS · AMD 7/1 ATH $579.73(+7%) 달성 후 7/2 $550.72(-5.2%) 이틀째 차익실현. YTD +100% 이상·PER 75배 과매수 부담. Q2 가이던스 $11.2B(+46% YoY). Oracle MI450 5만대 Q3 배포 확정. Wells Fargo: 2026 서버CPU 매출 $16B·YoY +68% 전망. OpenAI 6GW·Meta 6GW MI450 이중 수주 유효. UBS $670."
       },
       {
         "tag": "AVGO",
-        "cls": "up",
-        "h": "Jalapeño 연말 기가와트급 배포 재확인·Q2 AI +143% YoY $10.8B·FY2027 $100B·백로그 $73B·26인 Buy",
-        "m": "2026-07-02 · CNBC / AVGO IR / GuruFocus · Broadcom Q2 FY2026 AI 매출 +143% YoY $10.8B 기록. Jalapeño(OpenAI 첫 LLM 추론 ASIC) 연말 GW급 배포 재확인. FY2027 AI $100B 유지. 백로그 $73B. Q3 AI 가이던스 $16B(추정 $17.2B 미달) 충격 소화 후 기관 저가 매수. 26인 Buy."
+        "cls": "new",
+        "h": "Q3 총매출 $29.4B(+84% YoY) 가이던스·AI $16B·Jalapeño GW급 배포·월간 -16.5%·NVDA와 $100B AI 경쟁",
+        "m": "2026-07-02 · AVGO IR / SimplyWallSt / 24/7 Wall St. · Broadcom Q3 FY2026 총매출 가이던스 $29.4B(+84% YoY). AI 반도체 $16B(추정 $17.2B 미달 충격 소화 중). Q2 AI $10.8B(+143% YoY). Jalapeño(OpenAI 첫 LLM ASIC) 연말 GW급 배포. FY2027 AI $100B·백로그 $73B. NVDA와 AI 칩 $100B 경쟁 본격화. 월간 -16.5%(Q3 AI 가이던스 미달 여진). 26인 Buy."
       },
       {
         "tag": "MU",
-        "cls": "new",
-        "h": "Q2 +240% YoY 시총 랠리 후 조정·HBM4 16Hi 48GB 샘플 출하·Q4 $50B·HBM 전량 완판·29인 Buy·PT $1,264",
-        "m": "2026-07-02 · Blockonomi / Micron IR · MU Q2 2026 +240% 시총 랠리(Q2 최대 수혜) 후 7/2 반도체 조정에 동반 하락. 펀더멘털 훼손 없음 — HBM4 16Hi(48GB·용량 +33%) 샘플 출하 완료. Q4 $50B 가이던스 유효. HBM 전량 완판. CEO '수요 50~67%만 공급 가능'. NVDA 3사 동시 16Hi 공급 요청. 29인 Buy·PT $1,264."
+        "cls": "down",
+        "h": "7/2 -7% 차익실현·Q2 YTD +240% 후 반도체 조정 동반·HBM4 16Hi 48GB 샘플 출하·Q4 $50B·29인 Buy·PT $1,264",
+        "m": "2026-07-02 · Blockonomi / Yahoo Finance / Micron IR · MU 7/2 -7% 차익실현 — Q2 2026 YTD +240% 시총 랠리 후 반도체 섹터 조정 동반. 연간 기준 YTD +300% 육박. 펀더멘털 훼손 없음 — HBM4 16Hi(48GB·용량 +33%) 샘플 출하 완료. Q4 $50B 가이던스 유효. HBM 전량 완판. CEO '수요 50~67%만 공급 가능'. NVDA·AMD·Samsung 동시 16Hi 공급 요청. 29인 Buy·PT $1,264."
       },
       {
         "tag": "SPCX",
         "cls": "up",
-        "h": "Wedbush 신규 Outperform·PT $190·나스닥100 7/7 편입 D-5·SpaceX-Charter 모바일 파트너십·CME 선물 7/27",
-        "m": "2026-07-02 · Seeking Alpha / MarketBeat · Wedbush 신규 Outperform·PT $190(현재가 $170.86 대비 +11.2%). 나스닥100 편입 7/7 발효(D-5) — 패시브 $73억 강제매수 임박. SpaceX·Charter Communications 모바일 파트너십 논의 진행. CME 단일주선물 7/27 출시 예정. ATH $225.64(6/16) 대비 조정 후 편입 수급 기대."
+        "h": "나스닥100 7/7 편입 D-5·패시브 $43억 강제매수·Wedbush Outperform $190·CME 선물 7/27·시총 $2.25조",
+        "m": "2026-07-02 · Motley Fool / Seeking Alpha / MarketBeat · SPCX 나스닥100 편입 7/7 발효(D-5) — 패시브 $43억(일부 $73억 추정) 강제매수 임박. Wedbush 신규 Outperform·PT $190(AI 인프라 가치). 시총 $2.25조. CME 단일주선물 7/27 출시 예정. SpaceX·Charter Communications 모바일 파트너십 논의. ATH $225.64(6/16) 대비 조정 후 편입 수급 기대."
       }
     ],
     "KR": [
       {
         "tag": "SK하이닉스",
         "cls": "up",
-        "h": "ADR 나스닥 7/10 상장 D-8·F-1 수정 재제출(6/30)·공모가 미확정·Q1 영업이익률 72%(NVDA 65% 상회)·최대 45.4조원",
-        "m": "2026-07-02 · YTN / TradingKey / Samsung Securities · SK하이닉스 ADR 나스닥 7/10 상장(D-8). 6/30 F-1 수정 제출 — 공모가·ADS 물량·환산비율 미확정. 최대 45.4조원($29.4B) 조달(BoA·Citi·GS·JPM 주관). Q1 2026 매출 +198% YoY·영업이익 +405% YoY·영업이익률 72%(NVDA 65% 상회). Goldman 목표가 350만원·'Higher for Longer' HBM 업황. ADR 수요예측 7/6."
+        "h": "ADR 나스닥 7/10 상장 D-8·수요예측 7/6 D-4·최대 45.4조원·Q1 영업이익률 72%·HBM 점유율 58~62%",
+        "m": "2026-07-02 · YTN / TradingKey / 뉴데일리 · SK하이닉스 ADR 나스닥 7/10 상장(D-8)·수요예측 7/6(D-4). 6/30 F-1 수정 제출 — 공모가·ADS 물량·환산비율 미확정. 최대 45.4조원($29.4B) 조달(BoA·Citi·GS·JPM 주관). Q1 2026 매출 +198% YoY·영업이익 +405% YoY·영업이익률 72%(NVDA 65% 상회). HBM 시장점유율 58~62% 1위 유지. Goldman 목표가 350만원."
       },
       {
         "tag": "삼성전자",
@@ -324,14 +324,14 @@
       {
         "tag": "코스피",
         "cls": "down",
-        "h": "미국발 반도체 조정 이틀째·BofA 버블 경고 파급·삼성전자 KOSPI 시총 1위 반납·상반기 급등 후 차익실현",
-        "m": "2026-07-02 · MBC뉴스 / Investing.com · 미국발 BofA 버블 리스크 지수(SOX 0.91) 경고 이틀째 파급. 삼성전자 코스피 시총 1위 SK하이닉스에 내줌 — '코스피 고점 신호?' 우려. 상반기 반도체 투톱 급등(SKH +280% YTD) 후 차익실현 압박 지속. HBM 공급 부족 구조 펀더멘털 훼손 없음."
+        "h": "미국발 반도체 조정 이틀째 파급·삼성·SKH 동반 하락·KOSPI 하반기 개막 경계·상반기 역대급 급등 후 차익실현",
+        "m": "2026-07-02 · JoongAng Daily / Investing.com · 미국 반도체 H2 2026 개막 차익실현 파급. 삼성전자·SK하이닉스 동반 하락으로 KOSPI 압박. BofA 버블 리스크 지수(SOX 0.91) 이틀째 경고. 상반기 반도체 투톱 급등(SKH YTD +280%, 삼성 +60%+) 후 차익실현 압박 지속. KOSPI 올해 역대 최장 연속 상승 기록 후 숨 고르기. HBM 공급 부족 구조 펀더멘털 훼손 없음."
       },
       {
         "tag": "한미반도체",
         "cls": "up",
-        "h": "SKH 16Hi HBM4 Q3 양산 확정→TC본더 추가 발주 가시화·삼성 공급 논의·글로벌 71% 독점·한미USA 설립",
-        "m": "2026-07-02 · Alphabiz / 아시아타임즈 · SK하이닉스 16Hi HBM4 48GB Q3 양산 확정 → TC본더 추가 발주 가시화. 삼성전자-한미반도체 HBM4 TC본더 추가 공급 논의 진행. NVDA 3사 모두 16Hi 동시 요청. 글로벌 71% 독점 유지. 2026년 말 한미USA 미국 법인 설립 예정."
+        "h": "SKH TC본더 4.5 그리핀 442억원 발주(6/8)·16Hi HBM4 Q3 양산·삼성 공급 논의·글로벌 71% 독점",
+        "m": "2026-07-02 · 비즈한국 / 뉴스핌 / 디일렉 · SK하이닉스, 한미반도체에 HBM4 제조용 TC본더 4.5 그리핀(GRIFFIN) 442억원 발주 확정(6/8, ~9/2 납기). 16Hi HBM4(48GB) Q3 양산 확정으로 추가 발주 가시화. 삼성전자-한미반도체 TC본더 추가 공급 논의 병행 진행. NVDA·AMD·Samsung 동시 16Hi 요청. 글로벌 TC본더 71% 독점 유지. 2026년 말 한미USA 미국 법인 설립."
       },
       {
         "tag": "HBM",
