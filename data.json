@@ -256,50 +256,50 @@
       {
         "tag": "NVDA",
         "cls": "down",
-        "h": "마이클 버리 NVDA $198.09 공매도 공개(6/30)·AI 버블 경고·SOX 200일선 65% 상회·62인 Strong Buy PT $299 유지",
-        "m": "2026-07-02 · Benzinga / Yahoo Finance / TradingKey · 마이클 버리(빅쇼트) 6/30 Substack: NVDA $198.09·TSLA $416.22·AMAT $729.40·SOXX ETF 공매도 확인. '한국 AI 칩 지출=끝의 시작' 경고. SOX 200일선 65% 상회=닷컴 버블 수준. 62인 분석가 Strong Buy·PT $299 유지. Vera Rubin 풀 프로덕션·7월 AWS·Azure·Google 초도 배송 펀더멘털 훼손 없음."
+        "h": "마이클 버리 공매도 $198.09·7/2 프리마켓 $193~$200 범위 진입가 아래 하락·AI 버블 경고 이틀째·SOX 200일선 65% 상회",
+        "m": "2026-07-02 · Benzinga / Yahoo Finance · 마이클 버리(빅쇼트) 6/30 NVDA $198.09 공매도. 7/2 프리마켓 $193.45~$199.85 범위로 Burry 진입가($198.09) 아래 구간 진입. '한국 AI 칩 지출=끝의 시작' 경고 이틀째. SOX 200일선 65% 상회 = 닷컴 버블 수준. 62인 Strong Buy·PT $299·Vera Rubin 7월 AWS·Azure 초도 배송 펀더멘털 훼손 없음."
       },
       {
         "tag": "TSLA",
-        "cls": "down",
-        "h": "Q2 배달 결과 7/2 발표·Bloomberg 컨센 396K vs IR 컨센 406K 미달 가능성·Cantor '에이전틱 AI·로보틱스 변혁 2026 유효'·BYD 순전기 557K·재무결과 7/22",
-        "m": "2026-07-02 · Yahoo Finance / Cantor Fitzgerald / Electrek · Tesla Q2 2026 배달 결과 7/2 공개. Bloomberg 컨센 396,466대·Tesla IR 컨센 406,024대 미달 가능성(Cantor 397K·UBS 405K). Cantor Fitzgerald: Q2 미달이어도 에이전틱 AI·로보틱스·칩 사업이 '변혁적 2026' 견인할 것. BYD 순수전기차 Q2 557K로 재압도. 에너지저장 13.8GWh(+57% QoQ). 재무결과 7/22."
+        "cls": "new",
+        "h": "Q2 배달 7/2 발표 진행 중·Goldman Sachs 420K 낙관적 상향·Bloomberg 396K·IR 컨센 406K·BYD 순전기 Q2 557K 재압도",
+        "m": "2026-07-02 · Goldman Sachs / Electrek / Yahoo Finance · Tesla Q2 2026 배달 결과 7/2 발표. Goldman Sachs 배달 추정치 405K→420K 상향(유럽·아시아 수요 회복 강세). Tesla IR 컨센 406K·Bloomberg 컨센 396K 간 괴리. BYD 순수전기차 Q2 557K로 Tesla 재압도. Cantor: Q2 미달이어도 에이전틱 AI·로보틱스·칩 사업 '변혁 2026' 유효. 재무결과 7/22."
       },
       {
         "tag": "MU",
         "cls": "up",
-        "h": "GM 전장 메모리 장기 공급협약 체결(7/1)·배당 $0.15 ex-date 7/6·HBM4 16Hi 샘플 완료·주가 -6.9%",
-        "m": "2026-07-02 · StockTitan / Investing.com · Micron·GM 장기 전략 공급협약(SCA) 7/1 체결 — 차량용 LPDRAM·NOR·UFS NAND 공급·버지니아 Manassas $20억 팹 현대화 연계. 배당 $0.15 ex-date 7/6·지급일 7/21. HBM4 16Hi(48GB) 샘플 출하 완료·NVDA·AMD·삼성 동시 공급 요청. 주가 -6.9% 차익실현 지속."
+        "h": "GM 전장 메모리 장기 공급협약 체결(7/1)·배당 $0.15 ex-date 7/6·HBM4 16Hi 샘플 완료·ATH 대비 -6.9%",
+        "m": "2026-07-02 · StockTitan / Investing.com · Micron·GM 장기 전략 공급협약(SCA) 7/1 체결 — 차량용 LPDRAM·NOR·UFS NAND 공급·버지니아 Manassas $20억 팹 현대화 연계. 배당 $0.15 ex-date 7/6·지급일 7/21. HBM4 16Hi(48GB) 샘플 출하 완료·NVDA·AMD·삼성 동시 공급 요청. ATH $1,213.56(6/25) 대비 -6.9% 차익실현 지속."
       },
       {
         "tag": "AMD",
         "cls": "down",
-        "h": "Wells Fargo PT $615 상향(from $505·6/30)·7/2 -4.46% $555·ATH $579.73·EPYC 서버CPU+에이전틱 AI 강세",
-        "m": "2026-07-02 · Wells Fargo / TradingKey · Wells Fargo 6/30 AMD PT $505→$615 상향 — EPYC 서버CPU 강세·에이전틱 AI 수요 추가 모멘텀. 7/2 $555.01(-4.46%) — ATH $579.73(7/1) 후 H2 반도체 섹터 조정. Q2 매출 $11.2B(+46% YoY) 가이던스·Oracle MI450 5만대 Q3 배포·UBS PT $670."
+        "h": "7/2 프리마켓 $557.86(-3.97%)·ATH $579.73(7/1) 이틀 연속 조정·Wells Fargo PT $615·EPYC 서버CPU 모멘텀 유효",
+        "m": "2026-07-02 · Wells Fargo / Investing.com · Wells Fargo 6/30 AMD PT $505→$615 상향. AMD 7/1 ATH $579.73 신고가 달성 후 7/2 프리마켓 $557.86(-3.97%) 이틀 연속 차익실현. H2 반도체 로테이션 + Burry AI 버블 경고 심리 압박. Oracle MI450 5만대 Q3 배포·Q2 매출 $11.2B(+46% YoY)·UBS PT $670 펀더멘털 훼손 없음."
       },
       {
         "tag": "AVGO",
         "cls": "down",
-        "h": "Anthropic AI 인프라 공급자 신규 선정·Google TPU9 탈락 소화 중·주가 -1.9%·Q3 AI $16B·백로그 $73B",
-        "m": "2026-07-02 · Investing.com / Perplexity Finance · Broadcom Anthropic AI 모델 인프라 공급자로 선정(7/2). 직전 Google TPU9 'Triggerfish' 파트너 MediaTek 탈락 충격 소화 중. 주가 -1.9% 하락. OpenAI Jalapeño GW급 배포·Q3 AI $16B·백로그 $73B·FY2027 AI $100B 유효. 48인 Strong Buy·PT $524."
+        "h": "Google+Anthropic 멀티기가와트 AI 칩 장기 계약 확장(2031년까지)·OpenAI Jalapeño GW배포·Q3 AI $16B·백로그 $73B",
+        "m": "2026-07-02 · CNBC / Anthropic / Seeking Alpha · Broadcom Google TPU + Anthropic AI 인프라 3.5GW 규모 멀티기가와트 장기 공급 계약 확장(2031년까지). Anthropic 연간 런레이트 $300억 돌파·2027년 3GW 수요 예상. OpenAI Jalapeño GW급 배포·Q3 AI $16B·백로그 $73B·FY2027 AI $100B 유효. 주가 H2 반도체 로테이션 속 -1.9%. 48인 Strong Buy·PT $524."
       },
       {
         "tag": "SPCX",
         "cls": "new",
-        "h": "나스닥100 편입 D-5(7/7)·JPMorgan $43억 패시브 강제매수 확정·락업 만료 물량 압박 리스크 부각·ATH $225.64 대비 -27%",
-        "m": "2026-07-02 · Money Morning / Seeking Alpha / Wedbush · SPCX 나스닥100 편입 7/7(D-5). IPO(6/12·$135) 후 15거래일 최속 편입. JPMorgan $43억 패시브 강제매수 확정. 단, 락업 만료 물량 압박 리스크 부각 — 편입 기대 매수 vs. 초기 투자자 차익실현 경쟁. ATH $225.64(6/16) 대비 -27% 조정 중($164.19). Wedbush PT $190·CME 선물 7/27."
+        "h": "나스닥100 편입 D-5(7/7)·JPMorgan $43억 패시브 강제매수·락업 만료 물량 압박 리스크·ATH $225.64 대비 -27%",
+        "m": "2026-07-02 · Money Morning / Seeking Alpha / Wedbush · SPCX 나스닥100 편입 7/7(D-5). IPO(6/12·$135) 후 15거래일 최속 편입 기록. JPMorgan $43억 패시브 강제매수 확정. 락업 만료 물량 압박 리스크 부각 — 편입 기대 매수 vs. 초기 투자자 차익실현 경쟁. ATH $225.64(6/16) 대비 -27% 조정 중($164.19). Wedbush PT $190·CME 선물 7/27."
       },
       {
         "tag": "SOX",
         "cls": "down",
-        "h": "H2 반도체 섹터 로테이션 이틀째·Burry AI 버블 경고 겹침·AMD -4.5%·MU -6.9%·BofA 버블지수 0.91",
-        "m": "2026-07-02 · Yahoo Finance / BofA · H2 2026 개막 후 반도체→헬스케어·금융 로테이션 이틀째. AMD -4.46%·MU -6.92%·NVDA -1.5%. 마이클 버리 AI 버블 경고 심리 압박 가중. BofA 버블 리스크 지수 SOX 0.91(극도 고위험 근접). Q2 MU +240%·AMD +100%+·INTC +250% 랠리 후 차익실현. AI 수퍼사이클 펀더멘털 훼손 없음."
+        "h": "7/2 프리마켓 AMD -3.97%·NVDA $197 범위·반도체→헬스케어 로테이션 이틀째·BofA 버블지수 0.91·AI 수퍼사이클 펀더멘털 유효",
+        "m": "2026-07-02 · Yahoo Finance / BofA · 7/2 프리마켓: AMD $557.86(-3.97%)·NVDA $193~$200·MU 차익실현 지속. H2 개막 반도체→헬스케어·금융 로테이션 이틀째. 마이클 버리 AI 버블 경고 심리 가중. BofA 버블 리스크 지수 SOX 0.91(극도 고위험 근접). Q2 랠리(MU +240%·AMD +156%·INTC +250% YTD) 후 대규모 차익실현. AI 수퍼사이클 펀더멘털 훼손 없음."
       },
       {
         "tag": "INTC",
         "cls": "up",
-        "h": "BofA 더블업그레이드(Underperform→Buy·$135)·Apple 18A-P 협력 공식 확인·YTD +250%·Q2 실적 7/23",
-        "m": "2026-07-02 · BofA / TradingKey · BofA 이례적 '더블업그레이드' — Underperform→Buy 2단계 상향·PT $135. Apple-Intel 18A-P 미국 내 칩 협력 공식 확인. 18A-P 리스크 생산 개시(6/16) — 성능 +9%·전력 -18%. Apple M7칩 18A-P 기반 2027 후반 양산. YTD +250%. Q2 실적 7/23."
+        "h": "BofA 더블업그레이드(Underperform→Buy·PT $135)·Apple 18A-P 협력 공식 확인·18A-P 리스크 생산 개시(6/16)·YTD +250%",
+        "m": "2026-07-02 · BofA / CNBC / TradingKey · BofA 이례적 '더블업그레이드' — Underperform→Buy 2단계 상향·PT $135. Apple-Intel 18A-P 미국 내 칩 협력 공식 확인(트럼프 6/18 발표). 18A-P 리스크 생산 개시(6/16) — 성능 +9%·전력 -18%. Apple M7칩 18A-P 기반 2027 후반 양산. YTD +250%(약 $128). Q2 실적 7/23."
       }
     ],
     "KR": [
