@@ -261,9 +261,9 @@
       },
       {
         "tag": "TSLA",
-        "cls": "new",
-        "h": "Q2 배달 보고서 7/2 공개·주가 $420.60(+2%)·컨센 406K·Goldman 420K·미국 -15%·유럽 +90%·BYD 557K",
-        "m": "2026-07-02 · Tesla IR / FX Leaders / Electrek · Tesla Q2 2026 배달 보고서 7/2 공개. 주가 $420.60(+2.1% 기대감). 컨센 22인 평균 406,024대·Goldman 420K·TroyTeslike 466K. 유럽 +85~90% 강세·미국 -15% 역성장 대조. BYD 순수전기차 Q2 557K로 재압도. 에너지저장 13.8GWh(+57% QoQ). 재무결과 7/22."
+        "cls": "down",
+        "h": "Q2 배달 결과 7/2 발표·Bloomberg 컨센 396K vs IR 컨센 406K 미달 가능성·Cantor '에이전틱 AI·로보틱스 변혁 2026 유효'·BYD 순전기 557K·재무결과 7/22",
+        "m": "2026-07-02 · Yahoo Finance / Cantor Fitzgerald / Electrek · Tesla Q2 2026 배달 결과 7/2 공개. Bloomberg 컨센 396,466대·Tesla IR 컨센 406,024대 미달 가능성(Cantor 397K·UBS 405K). Cantor Fitzgerald: Q2 미달이어도 에이전틱 AI·로보틱스·칩 사업이 '변혁적 2026' 견인할 것. BYD 순수전기차 Q2 557K로 재압도. 에너지저장 13.8GWh(+57% QoQ). 재무결과 7/22."
       },
       {
         "tag": "MU",
@@ -286,8 +286,8 @@
       {
         "tag": "SPCX",
         "cls": "new",
-        "h": "나스닥100 편입 D-5(7/7)·Wedbush $190 Outperform 개시·주가 $170.86(ATH $225.64 대비 조정)·$43억 패시브",
-        "m": "2026-07-02 · Seeking Alpha / Wedbush · SPCX 나스닥100 편입 7/7(D-5). IPO(6/12·$135) 후 15거래일 최속 편입. Wedbush Outperform·PT $190 신규 개시. ATH $225.64(6/16) 대비 조정 후 $170.86 회복 구간. JPMorgan $43억 패시브 강제매수 임박. CME 선물 7/27. 사업부: Starlink·Falcon9·xAI Grok."
+        "h": "나스닥100 편입 D-5(7/7)·JPMorgan $43억 패시브 강제매수 확정·락업 만료 물량 압박 리스크 부각·ATH $225.64 대비 -27%",
+        "m": "2026-07-02 · Money Morning / Seeking Alpha / Wedbush · SPCX 나스닥100 편입 7/7(D-5). IPO(6/12·$135) 후 15거래일 최속 편입. JPMorgan $43억 패시브 강제매수 확정. 단, 락업 만료 물량 압박 리스크 부각 — 편입 기대 매수 vs. 초기 투자자 차익실현 경쟁. ATH $225.64(6/16) 대비 -27% 조정 중($164.19). Wedbush PT $190·CME 선물 7/27."
       },
       {
         "tag": "SOX",
