@@ -300,14 +300,14 @@
       {
         "tag": "SPCX",
         "cls": "up",
-        "h": "D-1·7/7 재개장 즉시 Nasdaq-100 편입 효력·7/3 독립기념일 대체휴장(7/4 토→7/3 목)·QQQ 강제매수 $43억+ 즉시 집행·31% 쇼트스퀴즈·$157.54·Q2 실적 7/11",
-        "m": "2026-07-03 · Motley Fool / Nasdaq / 247WallSt · 미국 독립기념일(7/4 토요일 대체) 휴장으로 7/3 거래 없음. 7/7(월) 재개장과 동시에 Nasdaq-100 편입 효력 발생 — QQQ·QQQM 등 인덱스 ETF 개장 전 $4.3B 강제 매수 집행. 6/12 IPO 후 15거래일 만에 편입, 역대 최단 신기록(Nasdaq 신규칙). 7/2 종가 $157.54(ATH $225.64 대비 -30%). 유통주식 31% 공매도(Ortex). 쇼트스퀴즈+패시브 유입 이중 동력. Q2 실적 7/11·락업 일부 7/12."
+        "h": "7/7 Nasdaq-100 편입 D-0·QQQ $4.3B 강제매수 즉시 집행·Wedbush $190 신규 개시 '메이저 하이퍼스케일러'·31% 쇼트스퀴즈·Q2 실적 7/11",
+        "m": "2026-07-03 · Motley Fool / Benzinga / Wedbush · 미국 독립기념일 대체휴장(7/4 토→7/3 목)으로 7/3 거래 없음. 7/7(월) 재개장과 동시에 Nasdaq-100 편입 효력 — QQQ·QQQM 개장 전 $4.3B 강제 매수 집행. 6/12 IPO 후 15거래일 편입, 역대 최단 신기록. Wedbush 신규 Outperform·PT $190 개시 — 'SpaceX는 단순 우주기업이 아닌 메이저 하이퍼스케일러'로 규정. 유통주식 31% 공매도(Ortex). 쇼트스퀴즈+패시브 이중 동력. Q2 실적 7/11·락업 일부 7/12."
       },
       {
         "tag": "NVDA",
         "cls": "up",
-        "h": "Palantir 주권 AI 협력 발표·AI 스타트업 컴퓨트↔수익분배 프로그램·FY2026 매출 $2159억(+65% YoY)·61인 Strong Buy·PT $301·$194.28",
-        "m": "2026-07-02/03 · NVIDIA Newsroom / CNBC / Yahoo Finance · NVIDIA-Palantir 주권 AI 인프라 협력: 소버린 환경에서 NVIDIA AI·Nemotron 모델 실행 솔루션 공동 발표. AI 클라우드 스타트업 대상 컴퓨팅 자원 ↔ 미래 수익분배 교환 프로그램 신규 도입. FY2026 매출 $215.94B(+65.5% YoY)·순이익 $120.07B(+64.8%). 7/2 종가 $194.28. 61인 Strong Buy·평균 PT $301.62. AI GPU 시장 70~80% 점유 유지."
+        "h": "Nicholas Parker(MS 전 EVP) 신임 현장총괄 EVP 선임·$4,000만 보상패키지·Palantir 주권AI 협력·FY2026 매출 $2159억·61인 Strong Buy·PT $301",
+        "m": "2026-06-28~07-02 · NVIDIA IR / SEC / GeekWire / TipRanks · NVIDIA가 Microsoft 26년 현장영업총괄(Worldwide Sales) Nick Parker를 EVP Worldwide Field Operations 수장으로 선임(8/24 효력). 보상: 연봉 $100만+사이닝보너스 $500만+RSU $3,500만 = 총 $4,000만+. 전임 Ajay Puri(26년 공로)는 선임 고문 전환. 동시에 Palantir 주권AI 인프라 협력·AI 스타트업 컴퓨트↔수익분배 프로그램 발표. FY2026 매출 $215.94B(+65.5% YoY). 61인 Strong Buy·PT $301.62. 7/7 재개장 예정."
       },
       {
         "tag": "MU",
@@ -330,14 +330,14 @@
       {
         "tag": "INTC",
         "cls": "up",
-        "h": "18A-P 위험 양산 진입·Google TPU 300만·Apple 18A-P 검토·Q2 YTD +216% 후 BofA 경보 -7% 급락·HSBC $200·14A 2027",
-        "m": "2026-06-21 / 07-01 · CNBC / Intel Newsroom / HSBC · Intel 18A-P 공정 위험양산(Risk Production) 진입. Google 멀티연간 데이터센터 칩 협력·TPU 300만개(2028 납기) 수주, Apple 18A-P 검토 진행. Q2 2026 YTD +216% 급등 후 7/1 BofA 버블경보로 -7% 급락. 14A 노드 2027년 말 출시. HSBC $200 목표가. 18A GAA+백사이드 전력(PowerVia), TSMC N2 대비 경쟁력 확보."
+        "h": "Apple-Intel 18A-P 파운드리 예비계약 확정·iPad Pro·맥북에어 2027 첫 납품·18A-P 위험양산 진입·TSMC 외 첫 Apple 칩 생산·HSBC $200·YTD +216%",
+        "m": "2026-05~07-02 · TechPowerUp / EE Times / CNBC / HSBC · Apple이 Intel Foundry Services와 18A-P 노드 파운드리 예비계약 확정 — Apple 자체 칩 도입(2020) 이후 TSMC 의존 탈피 첫 사례. 초도 납품 대상: iPad Pro·엔트리 맥북에어(2027년 Q2/Q3). Intel 18A GAA+PowerVia 백사이드 전력, TSMC N2급 경쟁력 확보 주장. 계약 규모 미공개. Google TPU 300만개 수주(2028 납기). 14A 2027년 출시. HSBC $200 목표가. YTD +216%."
       },
       {
-        "tag": "AVGO",
-        "cls": "down",
-        "h": "Q2 AI $10.8B +143%에도 Q3 $16B 가이던스 컨센 미달 -12.6%·OpenAI Jalapeño ASIC·FY27 AI $100B·백로그 $73B·48인 Strong Buy",
-        "m": "2026-06-03 / 07-02 · Broadcom IR / CNBC · Broadcom Q2 AI 반도체 $10.8B(+143% YoY). Q3 가이던스 $16B(컨센 $17.2B 대비 $1.2B 미달) — 1월 이후 최대 -12.6% 급락. OpenAI Jalapeño ASIC 수주·Anthropic 3.5GW 장기계약·백로그 $73B·FY27 AI $100B 유지. 48인 Strong Buy·PT $523.73. 7/7 재개장 낙폭 회복 여부 주목."
+        "tag": "AgenticAI",
+        "cls": "new",
+        "h": "BofA 에이전틱AI 서버CPU 시장 $170B 전망·AMD·ARM·INTC·NVDA 4사 수혜·AI 지출 'stronger for longer'·SOX H1 +108% 후 조정 속 탑픽 유지",
+        "m": "2026-07-02 · BofA / Yahoo Finance · BofA, 에이전틱 AI(자율 AI 에이전트) 확산이 서버 CPU 시장을 $170B 규모로 확대할 것이라 전망. 복잡한 추론 워크로드 증가로 CPU 연산 수요 구조적 급증 → AMD·ARM·INTC·NVDA 4사 동시 수혜. BofA는 반도체 버블위험지수 0.91 경보를 발령하면서도 AI 지출 'stronger and more sustained'로 4사 탑픽 유지 — 밸류에이션 경계와 AI 성장 확신의 이중 신호. 글로벌 AI 칩 시장 2026년 $5,000억 전망."
       },
       {
         "tag": "BofA",
@@ -356,8 +356,8 @@
       {
         "tag": "삼성전자",
         "cls": "up",
-        "h": "Q2 잠정실적 D-4(7/7)·영업이익 82~89조 역대 최대 전망·HBM4E 샘플 제출·교보 목표가 50만·노무라 67만·시총 2천조 돌파",
-        "m": "2026-07-03 · 이코노미트리뷴 / 교보증권 / 노무라 · 삼성전자 Q2 2026 잠정실적 D-4(7/7 발표 예정). 신한투자 82.1조·현대차 81.3조·키움 89.3조 영업이익 전망. HBM4E 1c나노 12단 샘플 제출 완료·AMD HBM4 주공급사 지명. 시총 2천조원 돌파. 7/3 +9% 강반등. 교보증권 목표가 33만→50만 상향(7/2)·노무라 670,000원. NVIDIA 베라 루빈 HBM 공식 요청."
+        "h": "Q2 잠정실적 D-4(7/7)·하나증권 영업이익 92조 최고 전망·역대 최대·HBM4E 1c나노 샘플 완료·교보 50만·노무라 67만·7/3 +9%",
+        "m": "2026-07-03 · 한국경제 / 하나증권 / 교보증권 / 노무라 · 삼성전자 Q2 2026 잠정실적 D-4(7/7 발표). 하나증권 92조원 영업이익 전망(역대 최대, 분기 100조 첫 돌파 가능성)·신한 82.1조·현대차 81.3조·키움 89.3조 — 컨센서스 상향 행진. HBM4E 1c나노 12단 샘플 완료·AMD HBM4 주공급사 지명. 시총 2,000조원 돌파. 7/3 코스피 급반등 동반 +9% 강세. 교보증권 33만→50만 상향(7/2)·노무라 670,000원."
       },
       {
         "tag": "코스피",
