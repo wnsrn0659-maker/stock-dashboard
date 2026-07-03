@@ -305,15 +305,15 @@
       },
       {
         "tag": "NVDA",
-        "cls": "new",
-        "h": "아마존 Trainium AI 칩 직판 계획(6/18)으로 경쟁 격화·BioNeMo Agent Toolkit 출시·유럽 35개 AI HPC·$119B 공급 약정·주가 $194 최근 1개월 -12%",
-        "m": "2026-06-18/07-02 · TechCrunch / NVIDIA Newsroom / DailyForex · 아마존이 Trainium AI 칩을 AWS 외부 데이터센터에 직판 계획(TechCrunch 6/18 보도) — NVIDIA GPU 시장 직접 잠식 첫 신호. NVIDIA 반격: BioNeMo Agent Toolkit 출시(생명과학 AI 에이전트용 PhD급 과학 도구), 유럽 35개 AI HPC 슈퍼컴퓨터 구축(ISC High Performance 2026) 발표. Jensen Huang '역사상 최대 인프라 확장' 공언·공급 약정 $1,190억. 주가 $194, 최근 1개월 -12%."
+        "cls": "up",
+        "h": "韓 반도체 895조 메가클러스터·삼성·SKH 빅테크 장기계약 AI 수요 재확인·AI 칩주 반등 랠리·CME NVDA 단일주식 선물 7/27 출시",
+        "m": "2026-07-03 · TradingKey / Seeking Alpha / CME · 삼성전자·SK하이닉스가 NVIDIA 베라 루빈·MS·Google·Amazon과 HBM·SSD 장기공급계약 체결 — AI GPU 수요 구조 재확인. NVDA·AMD·INTC가 AVGO 쇼크 낙폭 회복 반등 랠리 주도(Seeking Alpha). SOXX 2026년 YTD 거의 2배·공급 약정 $1,190억·Jensen Huang '역사상 최대 인프라 확장'. CME 7/27 NVDA·MU·SPCX 포함 단일주식 선물 50개+ 출시 — 기관 헤징 수단 확대."
       },
       {
         "tag": "MU",
         "cls": "up",
-        "h": "GM 전략공급협약(SCA) 체결(7/1)·LPDRAM·NOR·NAND 장기공급·16개 파트너십 공개·매나사스 공장 $20억 현대화",
-        "m": "2026-07-01 · GlobeNewswire / Semiconductor Digest / Interesting Engineering · 마이크론과 General Motors가 전략적 고객 협약(SCA) 체결(7/1): LPDRAM·NOR·UFS NAND 메모리 장기 공급 확보. 소프트웨어 정의 차량(SDV) 플랫폼·AI 통합 자동차 아키텍처 공동 개발. Q3 FY26 어닝콜에서 유사 장기파트너십 총 16개 공개. 버지니아 매나사스 공장 $20억 현대화 착수(미국 내 차량용 반도체 생산 확대)."
+        "h": "GM 전략공급협약 체결(7/1)·6월 NFP 57K 쇼크로 금리인하 기대 재점화·HBM4E Q4 $50B 가이던스·AI 메모리 전량완판",
+        "m": "2026-07-01/02 · GlobeNewswire / NBC News · 마이크론-GM 전략적 고객 협약(SCA) 체결(7/1): LPDRAM·NOR·UFS NAND 장기 공급·SDV 공동 개발, 버지니아 매나사스 $20억 현대화. 6월 NFP 57,000명(예상 110,000명의 절반) — 실업률 4.2%, Fed 금리인하 기대 재강화. MU Q4 FY2026 $50B 가이던스, CEO '수요 50~67%만 공급 가능' — HBM 전량완판 구조 훼손 없음."
       },
       {
         "tag": "AVGO",
@@ -323,9 +323,9 @@
       },
       {
         "tag": "AMD",
-        "cls": "down",
-        "h": "AVGO 쇼크 전이 -10.86%($466.38)·INTC -11.28%·MU -7% 동반 급락·낙폭 과대 인식에 손실 일부 회복",
-        "m": "2026-07-01/02 · Yahoo Finance / Kavout / StockTwits · AMD 주가 AVGO AI 가이던스 쇼크 전이로 -10.86%($466.38 마감). Intel(-11.28%)·MU(-7%)·NVDA(-3~9%) 등 반도체 전반 2일 연속 동반 급락. VanEck SMH ETF -5%·SOXX -5%. 낙폭 과대 분석에 일부 손실 회복 중. Oracle MI450 5만대 배포·Wells Fargo CPU 매출 2028 $25B 등 펀더멘털 훼손 없음."
+        "cls": "up",
+        "h": "AVGO 쇼크 낙폭(-10.86%) 전 구간 반등·AI 칩주 랠리 SOX +3.83% 주도·2026년 YTD +150%+ 신고가 경신·기관 자금 NVDA→AMD 이동",
+        "m": "2026-07-03 · Yahoo Finance / Seeking Alpha / BeinCrypto · AMD 주가 7/1~2 AVGO 쇼크 전이(-10.86%, $466.38 저점) 이후 급반등, AI 칩주 랠리 주도. 2026년 YTD +150%+ 신고가 경신 — 기관 자금이 NVDA에서 AMD로 이동 중(BeinCrypto). NVDA·AMD·INTC가 SOX +3.83% 공동 상승(Yahoo Finance). Oracle MI450 5만대 Q3 배포·Wells Fargo CPU 2028 매출 $25B·Lisa Su 에이전틱 AI 수요 구조적 급증 — 펀더멘털 견고."
       },
       {
         "tag": "INTC",
@@ -335,9 +335,15 @@
       },
       {
         "tag": "SPCX",
-        "cls": "up",
-        "h": "Nasdaq-100 편입 D-4(7/7)·$170.86(6/30 +4.1%)·xAI 데이터센터용 Tesla Megapacks $269M 구매 공개·Q2 실적 7/11",
-        "m": "2026-06-30 · GuruFocus / Yahoo Finance / CNBC · SpaceX(SPCX) 6/30 +4.1% 상승 $170.86 마감. Nasdaq-100 편입 7/7(D-4) 패시브 매수 수요 유입 임박($4.3B~$10B 추산). IPO 파일링 공개: SpaceX가 4월 xAI 데이터센터(테네시 멤피스) 전력비 절감용 Tesla Megapacks $269M 매입 — TSLA-SPCX 생태계 시너지 확인. 6/30 Tesla +2.1%·SpaceX +4.1% 연동. Q2 재무실적 7/11 추가 촉매."
+        "cls": "new",
+        "h": "CME 단일주식 선물 7/27 출시(SPCX·NVDA·MU 50개+ 포함)·나스닥100 편입 D-4(7/7)·$157.54(6/30 $170.86 대비 -7.8%)·평균 PT $188",
+        "m": "2026-06-30/07-01 · TradingKey / Finbold · CME가 7/27 단일주식 선물 출시, 첫 배치에 SPCX·NVDA·MU 등 50개+ 포함 — 기관 헤징·레버리지 수단 확대로 유동성 개선 기대. 주가 $157.54(7/2 기준), 6/30 $170.86 대비 -7.8% 조정. 나스닥100 편입 7/7(D-4) 패시브 매수 임박. 7/11 Q2 실적 추가 촉매. 애널리스트 7인 Buy·평균 PT $188(현가 대비 +20% 업사이드). xAI 데이터센터 Tesla Megapacks $269M 구매 — TSLA-SPCX 시너지 확인."
+      },
+      {
+        "tag": "시장",
+        "cls": "new",
+        "h": "6월 NFP +57K·예상 110K 대비 반토막·실업률 4.2%·Fed 9월 금리인하 기대 재점화·Dow 7/2 ATH·미 증시 7/3 독립기념일 휴장",
+        "m": "2026-07-02 · NBC News / Schwab / TheStreet · 미 6월 비농업 고용(NFP) 57,000명 — 예상 110,000명 대비 절반 수준(NBC News). 실업률 4.2%(-0.1%p), 시간당 임금 +0.3%(월)·+3.5%(연). 경기 둔화 신호에 Fed 9월 금리인하 기대 재강화. Dow존스 7/2 사상 최고치 경신(채권 매수·금리인하 베팅). AI 반도체는 경기 둔화 우려 단기 압력 vs 금리인하 수혜 구조 충돌. 미 증시·채권시장 7/3 독립기념일로 휴장, 다음 거래일 7/7."
       }
     ],
     "KR": [
