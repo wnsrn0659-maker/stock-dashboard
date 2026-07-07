@@ -298,90 +298,90 @@
   "NEWS": {
     "US": [
       {
-        "tag": "AMD",
-        "cls": "up",
-        "h": "Goldman Sachs PT $450→$640 배증·+7.5% 급등·Citi catalyst watch 등재·Turing AI 워크로드 NVDA→AMD 마이그레이션",
-        "m": "2026-07-07 · Investing.com / Yahoo Finance / TheStreet · Goldman Sachs AMD 목표가 $450→$640으로 배증 상향, Buy 유지. Citi upside catalyst watch list 추가. 일본 자율주행 스타트업 Turing, AMD GPU로 AI 학습 워크로드 10% 마이그레이션(NVDA 대체). 7/22~23 'Advancing AI 2026' 서밋 신규 고객 발표 임박. Oracle MI450 5만대 Q3 배포 확정."
+        "tag": "NVDA",
+        "cls": "down",
+        "h": "YTD +3.2%로 SOXX +85.7% 대비 'Black Sheep'·Vera Rubin Q3 풀프로덕션 확정·AWS·Google·Azure 초도 배포",
+        "m": "2026-07-07 · 24/7 Wall St. / NVIDIA Newsroom / WCCFTech · NVDA YTD +3.2%로 iShares SOXX ETF +85.7% 대비 반도체 섹터 최하위 낙오, 'Black Sheep' 지목. 반면 Vera Rubin NVL72 Q3 풀프로덕션 돌입·Q4 물량 확대 확정. 초도 클라우드 배포: AWS·Google Cloud·Azure·Oracle·CoreWeave 확인. VR200 NVL72, GB300 대비 추론 3.3배·토큰 비용 1/10. TSMC 실적(7/17)·자체 실적(8월 말)이 다음 카탈리스트."
       },
       {
-        "tag": "NVDA",
+        "tag": "AMD",
         "cls": "up",
-        "h": "Kyber 지연설 공식 부인 +1% 반등·AI compute 신흥 클라우드 파트너십 7/4 발표·PT $301(+54%)",
-        "m": "2026-07-07 · Yahoo Finance / GuruFocus · NVDA, Kyber NVL144 2028년 지연설을 공식 부인하며 +1% 반등. 7/4 신흥 클라우드 기업 AI칩 도입 지원 파트너십 발표. 61인 평균 PT $301.62(+54%). Q1 데이터센터 $75.2B(+92% YoY)·총매출 $81.6B. AI칩 시장 점유율 81% 유지."
+        "h": "Goldman Sachs PT $450→$640 배증·+8.2%·Turing AI GPU 10% 마이그레이션(NVDA 대체)·7/22 서밋 Citi catalyst watch",
+        "m": "2026-07-07 · GuruFocus / Motley Fool / FinancialContent · Goldman Sachs AMD 목표가 $450→$640 배증, Buy 유지. 일본 자율주행 Turing, AMD GPU로 AI 학습 워크로드 10% 마이그레이션(NVDA 대체). Citi, 7/22~23 'Advancing AI 2026' 서밋을 catalyst watch 등재. Oracle MI450 5만대 Q3 배포 확정. ATH 갱신 후 다음 저항선 부재."
       },
       {
         "tag": "TSLA",
         "cls": "up",
-        "h": "Q2 납품 48만대(+25% YoY) 어닝 서프라이즈 확정·마이애미 로보택시 런치·NHTSA 급제동 조사 종결",
-        "m": "2026-07-07 · StocksToTrade / CNBC / Motley Fool · Q2 납품 480,126대(Wall Street 예상 40.6만 대비 +18% 초과달성). 에너지 13.5GWh 분기 기록. 마이애미 무감독 로보택시(플로리다, 세 번째 주) 런치. NHTSA 2022년 급제동 조사(69.5만대) 소프트웨어 수정으로 공식 종결. 7/22 Q2 실적."
+        "h": "마이애미 로보택시 랠리 후 하룻밤 냉각·Q2 매출 $22.4B·GP마진 21.1%·Morgan Stanley 2030년 3만대 플릿 전망",
+        "m": "2026-07-07 · StockTwits / StocksToTrade / FX Leaders · 7/6 마이애미 로보택시 런치(플로리다, 3번째 주) 후 +6.7% 급등 이후 하룻밤 냉각 조정. Q2 납품 480,126대·매출 $22.4B·GP마진 21.1%로 개선. Morgan Stanley, 2030년까지 자율주행 플릿 3만대 확장 전망. 7/22 Q2 상세 실적 발표 예정."
       },
       {
         "tag": "AVGO",
-        "cls": "up",
-        "h": "Apple ASIC 2031 확정·Meta AI 2029·OpenAI 추론칩 개발 3중 AI 파트너십·주가 +4%",
-        "m": "2026-07-07 · Seeking Alpha / Motley Fool / Yahoo Finance · Apple ASIC 2031 연장 확정(매출 비중 20% 고정). Meta AI 데이터센터 인프라 파트너십 2029. OpenAI 전용 추론칩 공동 개발. 3중 AI 파트너십으로 중기 수익 가시성 확보. Q3 AI 가이던스 $16B 유지·연 $100B+ 목표."
+        "cls": "down",
+        "h": "Google 차세대 추론칩 TPUv9 'Triggerfish' MediaTek 공동설계로 이탈·YTD +4.15%로 SOXX 극단 언더퍼폼",
+        "m": "2026-07-07 · Barchart / Seeking Alpha / 24/7 Wall St. · Google이 차세대 데이터센터 추론칩 TPUv9 'Triggerfish'를 Broadcom 대신 MediaTek과 공동설계 추진. 최대 AI 고객 이탈 위험. Apple 5년 ASIC 확장 계약(2031) 발표로 일부 상쇄·+4% 반등. YTD +4.15%로 SOXX +85.7% 대비 극단적 언더퍼폼. Q3 AI 가이던스 $16B 유지."
       },
       {
         "tag": "SPCX",
-        "cls": "up",
-        "h": "Nasdaq-100 첫 거래일·Starlink 1,000만 구독자 돌파·AI compute Anthropic $1.25B/월·Google $920M/월 계약 공개",
-        "m": "2026-07-07 · Seeking Alpha / Motley Fool / Money Morning · Nasdaq-100 편입 첫 거래일(7/7). QQQ $43억 패시브 강제매수. Q1 매출 $4.7B. Starlink 1,000만 구독자 돌파. AI compute 계약: Anthropic $1.25B/월, Google $920M/월(2029까지). Q2 실적(7/11)·락업(7/12) 이중 이벤트 임박. '편입 후 페이드' 경계."
+        "cls": "new",
+        "h": "Nasdaq-100 첫 거래일 QQQ $43억 강제매수 실행·공매도 31% 숏스퀴즈 여부 주목·역대 편입 첫날 평균 -1.13% 페이드 경고",
+        "m": "2026-07-07 · Money Morning / Seeking Alpha / CoinDesk · 개장 전 QQQ/QQQM $43억 패시브 강제매수 실행. 유통주식 31% 공매도(숏스퀴즈 가능). 단, 역대 나스닥100 신규 편입 평균 첫날 -1.13%·5일 후 -3.41% 페이드 패턴 경고(팔란티어·스트래티지 사례). Q2 실적(7/11)·락업 해제(7/12) 이중 이벤트 D-4."
       },
       {
         "tag": "MU",
         "cls": "up",
-        "h": "UBS Q3 DRAM 계약가 +32% QoQ 예상·공급 부족 2028까지·PT $1,563 Strong Buy 29인",
-        "m": "2026-07-07 · TipRanks / Yahoo Finance / UBS · UBS Q3 DDR 계약가 QoQ +32% 상향 예상 발표. DRAM 공급 부족 최소 2028년 2분기까지 지속 전망. 29인 Buy 1인 Hold, 평균 PT $1,563(+51%). Q4 가이던스 $49~51B. HBM4 12-Hi Vera Rubin용 출하 개시."
+        "h": "UBS Q3 DRAM 계약가 +32% QoQ·공급 부족 2028 Q2까지·MU·AMD·INTC Q2 합산 시총 +$2T·PT $1,563",
+        "m": "2026-07-07 · TipRanks / UBS / Yahoo Finance · UBS Q3 DDR 계약가 QoQ +32% 상향 예상. DRAM 공급 부족 최소 2028 Q2까지 지속 전망. Citi, Micron upside catalyst watch 추가. 29인 Buy 1인 Hold, 평균 PT $1,563(+51%). Q2 반도체 랠리: MU·AMD·INTC 합산 시총 +$2T. HBM4 12-Hi Vera Rubin용 출하 개시."
       },
       {
         "tag": "INTC",
         "cls": "up",
-        "h": "+4.1% 반도체 섹터 반등·YTD +216%·UBS DRAM 공급 부족 2028 수혜·Xeon 가격 인상 지속",
-        "m": "2026-07-07 · Yahoo Finance / TipRanks · Intel, 7/6 반도체 섹터 반등에 +4.1% 동참. YTD +216% 유지. UBS DRAM 공급 부족 '최소 2028년 2분기까지' 전망으로 Intel DCAI 사업 수혜 부각. HSBC PT $200 유지. Xeon 고성능 서버CPU $1,000+ 가격 인상 유효."
+        "h": "+4.9% 반등·YTD +216%·Q2 실적(7/23) 카탈리스트 임박·HSBC PT $100→$200 배증·Xeon $1,000+ 가격 인상",
+        "m": "2026-07-07 · TradingKey / Yahoo Finance · Intel 7/6 +4.9% 반등, 반도체 섹터 강세 동참. YTD +216% 유지. 7/23 Q2 실적이 다음 핵심 카탈리스트(Xeon 서버 가격 인상 효과 반영 기대). HSBC PT $100→$200 배증·인텔 파운드리 장기 가치 공식 편입. 고급형 Xeon 서버CPU $1,000+ 가격 인상 실행 확인."
       }
     ],
     "KR": [
       {
+        "tag": "삼성전자·SK하이닉스",
+        "cls": "down",
+        "h": "7/7 장중 7%대 동반 급락·ADR 수요예측 기간 국내 차익실현 압박·펀더멘털 훼손 없음",
+        "m": "2026-07-07 · 머니투데이 · 삼성전자·SK하이닉스 7월 7일 장중 7%대 동반 하락. SKHY ADR 수요예측(7/6~9) 기간 국내 차익실현 매물 출회 추정. 삼성 Q2 89.4조 어닝 서프라이즈 발표 후 '소문에 사서 뉴스에 팔기' 패턴. HBM·파운드리 펀더멘털 훼손 없어 단기 조정으로 해석."
+      },
+      {
         "tag": "SK하이닉스",
-        "cls": "up",
-        "h": "SKHY ADR 7/10 나스닥 상장 D-3·역대 최대 외국기업 ADR $294억·공모가 7/9 확정",
-        "m": "2026-07-07 · 머니투데이 / 뉴스핌 / practicalknowledgeweb · SKHY 수요예측 7/6 개시, 공모가 7/9 확정, 7/10 나스닥 상장 D-3. 발행 규모 $294억(45.4조원)으로 알리바바($250억, 2014)·아람코($256억, 2019) 경신, 외국기업 역대 최대 ADR. 조달 자금: 용인 팹·청주 P&T7 첨단 패키징 공장. BofA·Goldman·Citi·JPM 공동 주관."
+        "cls": "new",
+        "h": "SKHY ADR 공모 43조원으로 조정·7/10 나스닥 거래 시작·공모가 7/9 확정·외국기업 ADR 역대 최대",
+        "m": "2026-07-07 · 뉴스핌 / 네이트뉴스 · SK하이닉스 ADR 모집총액 45.4조→43.1조원으로 약 2.3조원 축소 조정(주당 참고 모집가 255.5만→242.5만원). 7/6~9 해외 기관 로드쇼, 7/9 공모가 확정, 7/10 나스닥 거래 시작. 알리바바($250억)·아람코($256억) 경신, 외국기업 ADR 역대 최대 규모."
       },
       {
         "tag": "삼성전자",
         "cls": "up",
-        "h": "Q2 영업이익 89.4조 서프라이즈·앤트로픽 2nm 파운드리 협상·교보증권 목표가 50만원",
-        "m": "2026-07-07 · Tech42 / 파이낸셜뉴스 / Investing.com · Q2 잠정실적: 영업이익 89.4조원·매출 171조원(EPS +20.6% 서프라이즈). 앤트로픽, 자체 AI 칩 개발 파트너로 삼성 2nm 파운드리 협의 중. 교보증권 목표가 33만→50만 상향. HBM4E 1c나노 12단 샘플 완료·AMD HBM4 주공급사 지명."
+        "h": "이재용 회장 선밸리 콘퍼런스 7/7~11·팀쿡·저커버그·올트먼과 회동·60조 영남 AI클러스터 발표",
+        "m": "2026-07-07 · 머니투데이 / Threads · 이재용 삼성전자 회장, 7/7~11 미국 선밸리 콘퍼런스 참석. 팀 쿡(Apple)·마크 저커버그(Meta)·샘 올트먼(OpenAI) CEO와 회동 예정. 삼성그룹 영남권 60조원 AI 제조 클러스터 구축 발표. 앤트로픽, 자체 AI 칩 삼성 2nm 파운드리 생산 협의 진행 중. Q2 89.4조 어닝 서프라이즈(7/6 발표) 이후 기관 재평가 초입."
       },
       {
         "tag": "반도체수출",
         "cls": "up",
-        "h": "6월 반도체 수출 +199.5% YoY·$448억 역대 최고·AI·HBM 폭증 견인",
+        "h": "6월 반도체 수출 $448.2억·역대 최고·+199.5% YoY·AI·HBM 폭증 견인·연간 최대 경신 경로",
         "m": "2026-07-07 · 머니투데이 / 파이낸셜뉴스 · 6월 반도체 수출 $448.2억(+199.5% YoY), 월간 역대 최고. AI·HBM 폭증 수요가 삼성·SK하이닉스 메모리 수출 견인. iM증권, 삼성 2026F 영업이익 340조·SK하이닉스 261조 전망. 2026년 전체 반도체 수출 역대 최대 경신 경로."
       },
       {
         "tag": "한미반도체",
         "cls": "up",
-        "h": "TC본더 71% 독점·SK하이닉스 ADR 7/10 상장 외국인 수급 기대·HBM4E 추가 발주 임박",
-        "m": "2026-07-07 · ZDNet Korea / Newspim · TC본더 글로벌 71% 독점 유지. SKHY ADR 7/10 나스닥 상장 후 외국인 매수 확대 시 TC본더 벤더 동반 수급 개선 기대. TC본더 4.5 그리핀 442억원 발주(6/8, 납기 9/2) 이행 중. Q2 89.4조 어닝 서프라이즈로 HBM 슈퍼사이클 가속 → HBM4E TC본더 추가 발주 기대."
+        "h": "TC본더 71% 독점·SKHY ADR 7/10 상장 외국인 수급 기대·삼성 89.4조로 HBM4E 추가 발주 임박",
+        "m": "2026-07-07 · ZDNet Korea / Newspim · TC본더 글로벌 71% 독점 유지. SKHY ADR 7/10 나스닥 상장 후 외국인 매수 확대 시 TC본더 벤더 동반 수급 개선 기대. 삼성전자 Q2 89.4조 어닝 서프라이즈로 HBM 슈퍼사이클 가속→HBM4E TC본더 추가 발주 기대. TC본더 4.5 그리핀 442억원 발주(6/8, 납기 9/2) 이행 중."
       },
       {
         "tag": "한화에어로스페이스",
         "cls": "up",
-        "h": "AFAS K9MH 7월 선정 임박·미 육군장관 한화 언급·K9 이집트 2026년 전력화 개시·천궁-2 수출",
-        "m": "2026-07-07 · 이투데이 / gungsireong.com · 미 육군 AFAS(차륜형 자주포) 7월 선정 임박. 댄 드리스콜 미 육군장관 하원 청문회서 한화디펜스USA 직접 언급. K9 패키지 2026년 1분기부터 이집트군 순차 인도·전력화 개시. 아칸소 탄약공장 $1.3B 투자로 통합 포병 솔루션 경쟁력 강화."
-      },
-      {
-        "tag": "HBM시장",
-        "cls": "up",
-        "h": "2026 HBM 시장 $54.6B(+58%)·HBM4 스택당 $500·SK하이닉스-NVDA 공동 설계·2026 전량 매진",
-        "m": "2026-07-07 · BofA / Silicon Analysts / SK하이닉스뉴스룸 · BofA 2026 HBM 시장 $54.6B(+58% YoY) 전망. HBM4 스택당 ~$500(HBM3E $300). SK하이닉스-NVDA 6/6 다년간 HBM 공동 설계 협약 체결. MU HBM 2026 전량 매진 확인. 2026년 전체 메모리 시장 $594.7B(+163% YoY) 전망."
+        "h": "K9MH AFAS 7월 선정 임박·미 육군 500문 5조+ 수주 기대·아칸소 탄약공장 $1.3B·수주잔고 39.7조 역대 최대",
+        "m": "2026-07-07 · 이투데이 · 미 육군 AFAS(차륜형 자주포) 7월 내 선정 임박. K9MH vs 라인메탈 최종 2파전. 500문 이상·MRO·탄약 패키지 포함 시 10조+ 수주 가능. 아칸소 탄약공장 $1.3B 투자로 통합 포병 솔루션 경쟁력 강화. 현재 수주잔고 39.7조원(역대 최대)·AFAS 확정 시 추가 급등 기대."
       },
       {
         "tag": "DRAM담합",
         "cls": "down",
-        "h": "삼성·SKH·MU 美 DRAM 담합 집단소송·700% 가격 인상 혐의·반독점 조사 확대 리스크",
-        "m": "2026-07-07 · AI타임스 / ZDNet Korea · 6/25 미 캘리포니아 북부연방지방법원 삼성·SK하이닉스·마이크론 DRAM 담합 집단소송 제기. 혐의: HBM 전환 명목 DDR4 생산 인위적 제한 → 2022년 이후 DRAM 가격 700% 인상. 반독점 조사 확대 시 메모리 3사 동반 리스크."
+        "h": "삼성·SKH·MU 美 DRAM 담합 집단소송·700% 가격 인상 혐의·7/7 삼성·SKH 7% 급락 복합 악재",
+        "m": "2026-07-07 · AI타임스 / ZDNet Korea · 6/25 미 캘리포니아 북부연방지방법원 삼성·SK하이닉스·마이크론 DRAM 담합 집단소송 제기. HBM 전환 명목 DDR4 생산 인위적 제한→2022년 이후 DRAM 가격 700% 인상 혐의. 7/7 삼성·SKH 7% 동반 급락과 복합 악재로 작용."
       }
     ]
   },
