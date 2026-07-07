@@ -300,8 +300,8 @@
       {
         "tag": "NVDA",
         "cls": "down",
-        "h": "Kyber NVL144 랙 2028년 지연 논란·PCB 78층 미드플레인 수율 문제·NVIDIA '로드맵 이상 없다' 반박·YTD +3.2% SOXX 대비 최하위",
-        "m": "2026-07-07 · CNBC / Tom's Hardware / Yahoo Finance · SemiAnalysis: Kyber NVL144 랙 시스템 78층 PCB 미드플레인 수율 문제로 2028년까지 1년+ 지연. NVL576도 물량 한정 가능성. NVIDIA 대변인 즉각 반박 '로드맵은 이상 없다' — 반박 후 +1% 반등. Vera Rubin NVL72 Q3 양산은 차질 없음 확인. YTD +3.2%로 SOXX +85%+ 대비 반도체 섹터 최하위 유지. 다음 촉매: TSMC 실적(7/17)·자체 실적(8월 말)."
+        "h": "Kyber NVL144 랙 2028년 지연 논란·NVIDIA '로드맵 이상 없다' 반박·Goldman 5성 애널 '밸류에이션 매력적'·YTD +5% SOXX Q2 +87.8% 대비 최하위",
+        "m": "2026-07-07 · CNBC / Gurufocus / Yahoo Finance · SemiAnalysis: Kyber NVL144 랙 78층 PCB 미드플레인 수율 문제로 2028년 1년+ 지연. NVL576 물량 한정 가능성. NVIDIA '로드맵은 이상 없다' 반박 후 +1% 반등. Goldman Sachs 5성 애널리스트 '현재 밸류에이션은 상당히 매력적(quite compelling)' 발언. Vera Rubin NVL72 Q3 양산 차질 없음 확인. YTD +5%로 SOXX Q2 +87.8% 대비 반도체 섹터 최하위."
       },
       {
         "tag": "AMD",
@@ -318,14 +318,14 @@
       {
         "tag": "AVGO",
         "cls": "up",
-        "h": "Apple 맞춤 ASIC 2031년까지 5년 공급계약 연장 확정·AVGO +6%·Q3 AI칩 매출 $160억 가이던스 유지",
-        "m": "2026-07-07 · Yahoo Finance / Benzinga / Seeking Alpha · Broadcom, Apple 맞춤 ASIC 칩 공급계약 2031년까지 5년 연장 확정. Apple은 AVGO 연매출의 약 20% 비중, 최대 고객 이탈 우려 해소. 주가 +3.7~6% 급반등 — 반도체 섹터 전반 반등 촉매. Google TPUv9 MediaTek 공동설계 이탈 우려는 Apple 계약으로 일부 상쇄. Q3 AI 반도체 매출 가이던스 $160억 유지."
+        "h": "Apple 맞춤 ASIC 2031년까지 5년 공급계약 확정·+6%·Q2 매출 $221.9억(+47.9% YoY)·Q3 AI칩 매출 $160억 가이던스",
+        "m": "2026-07-07 · Yahoo Finance / Benzinga / 247wallst · Broadcom, Apple 맞춤 ASIC 칩 공급계약 2031년까지 5년 연장 확정. Apple은 AVGO 연매출의 약 20% 비중, 최대 고객 이탈 우려 해소. 주가 +6% 급반등 — 반도체 섹터 전반 반등 촉매. Q2 FY2026 매출 $22.19B(+47.9% YoY)·AI반도체 매출 $108억. Q3 AI반도체 가이던스 $160억(YoY +200%+) 제시."
       },
       {
         "tag": "SPCX",
         "cls": "new",
-        "h": "Nasdaq-100 첫 거래일·QQQ $43억 강제매수·스타링크 구독자 1,000만·AI 컴퓨트 연 $278억 계약·Q2 실적 7/11",
-        "m": "2026-07-07 · Motley Fool / Barchart / TradingKey · 7/7 Nasdaq-100 첫 거래일. QQQ·QQQM 개장 전 약 $43억 패시브 강제매수 집행. Q1 매출 $47억·스타링크 구독자 1,000만 돌파. AI 컴퓨트: Anthropic $12.5억/월·Google $9.2억/월(2029까지) 포함 연간 $278억 계약. 유통주식 31% 공매도(숏스퀴즈 가능). Q2 실적(7/11)·락업 첫 해제(7/12) 이중 이벤트 대기."
+        "h": "Nasdaq-100 편입 첫 거래 진행 중·QQQ $43억 패시브 매수·IPO 후 15거래일 편입 신기록·Q2 실적 7/11·락업 7/12",
+        "m": "2026-07-07 · Motley Fool / ETF.com / CoinDesk · 7/7 오늘 Nasdaq-100 편입 첫 거래 진행 중. QQQ·QQQM $43억 패시브 강제매수 집행. IPO 후 15거래일 만에 편입(최단 신기록). 편입 당일 평균 -1.13% 역사적 패턴 주의. ATH 대비 -28% 조정 상태에서 편입. 유통 31% 공매도로 숏스퀴즈 촉발 가능. Q2 실적(7/11)·락업 첫 해제(7/12) 이중 이벤트."
       },
       {
         "tag": "MU",
@@ -344,14 +344,14 @@
       {
         "tag": "SK하이닉스",
         "cls": "new",
-        "h": "ADR(SKHY) $290억 외국기업 역대 최대 상장·7/9 공모가 확정·7/10 나스닥·용인클러스터+청주 P&T7 팹 $200억+ 투자",
-        "m": "2026-07-07 · Roic.ai / Yahoo Finance / TechTimes · SK하이닉스 SKHY ADR $290억(외국기업 ADR 역대 최대, 알리바바 $218억 경신). 7/9 공모가 확정·7/10 나스닥 정식 거래 시작. 조달금액 용도: 용인 반도체 클러스터 1번 팹 ₩31조+청주 P&T7 첨단패키징팹 ₩19조+EUV 장비 ₩12조. 총 ₩62조 투자 집행 예정. 패시브 유입 $7.3B 기대."
+        "h": "SKHY ADR 수요예측 진행 중·코너스톤 Baillie Gifford·Coatue·SAP $70억 확약·7/9 공모가·7/10 나스닥 상장",
+        "m": "2026-07-07 · CNBC / GuruFocus / Indmoney · SKHY ADR 수요예측 진행 중(7/6 개시). 코너스톤 투자자 Baillie Gifford Overseas·Coatue Management·Situational Awareness Partners 합산 최대 $70억 인수 확약 완료. SK하이닉스 시총 ₩1,200조로 삼성전자 추월 달성. 7/9 공모가 확정(예상 ₩242,500/ADS)·7/10 나스닥 상장. 조달금액: 용인 팹 ₩31조+청주 P&T7 ₩19조+EUV ₩12조 집행 예정."
       },
       {
         "tag": "삼성전자·SK하이닉스",
         "cls": "down",
-        "h": "7/7 국내 반도체 동반 급락·ADR 수요예측 차익실현+DRAM 담합 복합 악재·CNBC '월가발 반도체 급락 확산'",
-        "m": "2026-07-07 · CNBC / Daum Finance · 삼성전자·SK하이닉스 7/7 장중 동반 급락. CNBC 'chip rout spreads from Wall Street' 보도. SKHY ADR 수요예측 기간 차익실현+DRAM 담합 소송 복합 악재 작용. '소문에 사서 뉴스에 팔기' 패턴. HBM·파운드리 펀더멘털 훼손 없는 단기 조정으로 해석."
+        "h": "7/7 삼성전자 297,000원(-6.6%)·Q2 어닝 서프라이즈 후 차익실현 출회·DRAM 담합 복합 악재·'소문에 사고 뉴스에 팔기'",
+        "m": "2026-07-07 · Investing.com / 머니투데이 / Daum Finance · 삼성전자 7/7 장중 297,000원(-6.6%, 7/6 종가 318,000원 대비). Q2 89.4조 어닝 서프라이즈(7/6 발표) 이후 '소문에 사고 뉴스에 팔기' 차익실현 출회. SK하이닉스도 동반 약세. DRAM 담합 집단소송+SKHY ADR 수요예측 기간 차익실현 복합 악재. HBM·파운드리 펀더멘털 훼손 없는 단기 조정으로 해석."
       },
       {
         "tag": "삼성전자",
