@@ -298,10 +298,10 @@
   "NEWS": {
     "US": [
       {
-        "tag": "AI반도체",
-        "cls": "down",
-        "h": "버리, NVDA·MU·AMD·AMAT·SOXX 일제 공매도 공개·반도체 PER 74배 vs AI캐펙스 기업 실적 괴리·MU 진입가 $1,051.87",
-        "m": "2026-07-07 공개 · Motley Fool/Yahoo Finance/NAI500 · 마이클 버리(Scion), 6/30 기준 NVDA·AMAT·SOXX ETF 공매도 포지션 공개 후 7/2 MU 신규 쇼트($1,051.87 진입) 추가 발표. 논지: '반도체 섹터 선행 PER 74.3배(나스닥100 2배)—AI 캐펙스 최대 집행 기업들 정작 실적 부진, UBS 조사 60% AI 지출 삭감 계획.' 반론: Goldman·Cantor AI 인프라 2027 $1조 유지, UBS 트레이딩 데스크 '공황 아닌 질서있는 리스크 축소.' 버리 쇼트 공개가 7/7~8 급락 심리 가중—반등 국면에서도 약세론 잔존."
+        "tag": "BofA",
+        "cls": "up",
+        "h": "BofA NVDA PT $320·MU PT $950 상향·AI '더 오래·더 강하게(stronger for longer)'·NVDA·AMD 최선호주 재확인",
+        "m": "2026-07-09 · TipRanks/Seeking Alpha · BofA 비벡 아리야 NVDA 목표가 $300→$320, MU 목표가 $500→$950(+90%)으로 상향. '하이퍼스케일러 AI 지출이 예상보다 더 오래·더 강하게(stronger for longer) 지속'—AI 인프라 사이클 2026~2028 확장 전망. 7/7~8 이틀 셀오프 후 7/9 반등 국면에서 섹터 전반 재평가 근거 제시. NVDA·AMD 여전히 BofA 최선호 칩주."
       },
       {
         "tag": "SKHY",
@@ -324,26 +324,26 @@
       {
         "tag": "AMD",
         "cls": "up",
-        "h": "이틀 -15% 급락 후 7/9 반등 전환·Wells Fargo PT $615·Cantor PT $700·7/22 Q2 실적 카탈리스트",
-        "m": "2026-07-09 · Yahoo Finance/Wells Fargo/Cantor · AMD 7/7~8 이틀간 -15%+ 급락 후 7/9 반등 전환. Wells Fargo PT $505→$615(Overweight 유지), Cantor PT $500→$700—'AI 빌드아웃 세대적 사이클.' Q1 데이터센터 매출 $5.8B(+250% YoY)·인텔 최초 추월 펀더멘털 훼손 없음. Cathie Wood ARK 셀오프 속 일부 포지션 축소. 7/22 Q2 실적이 반전 핵심 카탈리스트."
+        "h": "7/9 AMD +9.3% 급반등 마감·Wells Fargo PT $615·Cantor PT $700·7/22 Q2 실적 카탈리스트",
+        "m": "2026-07-09 마감 · Yahoo Finance/Wells Fargo/Cantor/Benzinga · AMD 7/7~8 이틀간 -15%+ 급락 후 7/9 +9.3% 급반등 마감. Wells Fargo PT $505→$615(Overweight 유지), Cantor PT $500→$700—'AI 빌드아웃 세대적 사이클.' Q1 데이터센터 매출 $5.8B(+250% YoY)·인텔 최초 추월 펀더멘털 훼손 없음. BofA도 AMD 최선호주 재확인. 7/22 Q2 실적이 반전 핵심 카탈리스트."
       },
       {
         "tag": "MU",
         "cls": "up",
-        "h": "Anthropic 다년 AI메모리 파트너십·$22B 비취소 계약·HBM 전량 품절·Cantor PT $2,000·7/9 반등",
-        "m": "2026-07-09 · Yahoo Finance/Benzinga/Cantor · Micron, Anthropic과 다년 AI 메모리 공급 파트너십 공식 체결. 비취소 계약 $22B—수요 가시성 최고 수준. 2026년 HBM3E+HBM4 전량 고정가 계약 완료(품절). Q3 EPS $25.11·Q4 가이던스 $50B. 최고가 $984 대비 -22% 조정 구간. Cantor PT $2,000—'피크 아님, 저가 매수' 진단. 7/9 반등 전환 확인."
+        "h": "Anthropic 다년 AI메모리 파트너십·$22B 비취소 계약·HBM 전량 품절·7/9 +3.4%·BofA PT $950·Cantor PT $2,000",
+        "m": "2026-07-09 · Yahoo Finance/Benzinga/TipRanks · Micron, Anthropic과 다년 AI 메모리 공급 파트너십 공식 체결. 비취소 계약 $22B—수요 가시성 최고 수준. 2026년 HBM3E+HBM4 전량 고정가 계약 완료(품절). Q3 EPS $25.11·Q4 가이던스 $50B. 7/9 +3.4% 반등, 상승 추세선 지지선 $934 반등 확인. BofA PT $500→$950(+90%) 대폭 상향, Cantor PT $2,000—'피크 아님, 저가 매수' 진단."
       },
       {
         "tag": "AVGO",
         "cls": "new",
-        "h": "브로드컴 Apple 2031 커스텀칩 계약 확정·Q3 AI 가이던스 $160억(컨센서스 소폭 미달)·CEO $1,000억 목표 유지",
-        "m": "2026-07-09 · 247WallSt/Yahoo Finance/CNBC · Broadcom, Apple과 AI 커스텀칩 공급 계약(2031년까지) 확정—Apple이 AVGO 연매출 20% 기여. Q2 AI 매출 $108억(+143% YoY) 역대 최대. Q3 AI 매출 가이던스 $160억(컨센서스 $163.6억 소폭 미달). CEO 호크 탄 '2027년 AI칩 매출 $1,000억 목표 유지.' 7/9 반도체 섹터 반등에 동반 회복."
+        "h": "브로드컴 Apple 2031 커스텀칩 계약 확정·Q3 AI 가이던스 $160억(컨센서스 미달 전일 -12.6%)·7/9 +3.8% 반등",
+        "m": "2026-07-09 · 247WallSt/Yahoo Finance/Bloomberg · Broadcom, Apple과 AI 커스텀칩 공급 계약(2031년까지) 확정—Apple이 AVGO 연매출 20% 기여. Q2 AI 매출 $108억(+143% YoY) 역대 최대. Q3 AI 매출 가이던스 $160억(컨센서스 $163.6억 미달)—전일 -12.6% 급락(Bloomberg '16개월 만에 최대 하락'). CEO 호크 탄 '2027년 AI칩 매출 $1,000억 목표 유지.' 7/9 섹터 반등 동참 +3.8% 회복."
       },
       {
-        "tag": "SPCX",
-        "cls": "down",
-        "h": "SPCX Colossus 2 가스터빈 소송·$45B Anthropic 계약 리스크 부각·IPO 데뷔 일주일 만에 상장가 이하 추락",
-        "m": "2026-07-07 · TradingKey/Yahoo Finance · 스페이스X 텍사스 Colossus 2 데이터센터 가스터빈 허가 위반 소송 제기. 코로서스2에서 Anthropic에 NVIDIA GPU 325,000개 제공 중(월 $12.5억·2029년 5월까지 총 $45B). 계약 초기 3개월 후 90일 통보로 양측 해지 가능—소송 장기화 시 Anthropic 해지 리스크. SPCX 7/7 $150.85(-5.4%), IPO 상장가 이하 12% 하락. 뮬 CEO '현재 Colossus 계약은 6개월 한정' 발언으로 계약 안정성 우려 가중. $149 지지선 붕괴 여부 주목."
+        "tag": "반도체섹터",
+        "cls": "up",
+        "h": "7/9 반도체 섹터 V자 반등 마감: AMD +9.3%·MU +3.4%·AVGO +3.8%·Nasdaq 100 +1.5%·SKHY 상장 D-1 기대감 주도",
+        "m": "2026-07-09 마감 · Benzinga/Yahoo Finance · 7/9 반도체 섹터 이틀간 급락 딛고 V자 반등 마감. AMD +9.3%·MU +3.4%·NVDA +0.9%·AVGO +3.8%·Nasdaq 100 +1.5%(약 29,753pt). SK하이닉스 SKHY 내일(7/10) 나스닥 첫 거래 기대감이 반등 심리 주도. BofA·Wells Fargo·Cantor 목표가 동반 상향. '공황 아닌 조정' 인식 확산하며 기관 매수 재개."
       }
     ],
     "KR": [
@@ -388,6 +388,12 @@
         "cls": "up",
         "h": "HBM 전품목 2026년 품절 확인·HBM4E 2027 1-감마 램프 확정·피크 논란에도 장기 강세 구조 유지",
         "m": "2026-07-09 · iM증권/SPGlobal · HBM3E+HBM4 2026년 전량 고정가 계약 완료(품절). HBM4E 2027년 1-감마(1γ) 노드 램프 공식 확정. iM증권 삼성·SK하이닉스 합산 영업이익 600조+ 전망. 서버DRAM·NAND까지 AI 수요 확산 구조로 모건스탠리 단기 피크 경고에도 장기 강세 구조 유지 의견 우세."
+      },
+      {
+        "tag": "BofA",
+        "cls": "up",
+        "h": "BofA MU PT $500→$950 대폭 상향·HBM AI '더 오래·더 강하게'·SK하이닉스·삼성전자 글로벌 재평가 강화",
+        "m": "2026-07-09 · TipRanks/Seeking Alpha · BofA 비벡 아리야 MU 목표가 $500→$950(+90%) 대폭 상향—'AI HBM 수요가 예상보다 더 오래·더 강하게 지속.' HBM3E+HBM4 전량 고정가 계약 완료 재확인. SK하이닉스·삼성전자 HBM 공급사 글로벌 밸류에이션 재평가 근거 강화. SKHY 7/10 나스닥 상장과 맞물려 한국 메모리 섹터 글로벌 재평가 흐름 가속 기대."
       }
     ]
   },
