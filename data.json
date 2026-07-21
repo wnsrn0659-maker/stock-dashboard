@@ -300,44 +300,44 @@
       {
         "tag": "AMD",
         "cls": "up",
-        "h": "Advancing AI 2026 내일(7/22) 개막·Zen 6 Venice 2nm EPYC 상용 런칭 확정·MI455X Helios 랙스케일 공개·Lisa Su+Meta·MS·OpenAI·xAI 총출동·Q2 실적 8/4",
-        "m": "2026-07-21 · AMD/Guru3D/Tweaktown · AMD Advancing AI 2026(샌프란시스코 모스콘 센터) 내일(7/22~23) 개최. Lisa Su 기조연설—Zen 6 Venice EPYC(TSMC 2nm·256코어·+70% 성능) 상용 출시 공식 런칭. AMD Instinct MI455X GPU·Helios 랙스케일 AI 시스템 세부 공개·ROCm 업데이트. Meta·OpenAI·xAI·Oracle·MS·Cohere·Red Hat 파트너 연사 총출동. Microsoft Azure AMD Helios 배포 공식 확정(7/20). Q2 실적 8/4(컨센 $11.2B·+46% YoY)·YTD +150%."
+        "h": "Advancing AI 2026 내일(7/22) 개막·Zen 6 Venice 256코어 TSMC 2nm·PCIe Gen 6·1.6TB/s 대역폭·MI455X 432GB HBM Helios·Meta·MS·OpenAI 총출동·Q2 실적 8/4",
+        "m": "2026-07-21 · AMD/VideoCardz/TechSpot/Tweaktown · AMD Advancing AI 2026(샌프란시스코 모스콘 센터) 내일(7/22~23) 개최. Zen 6 EPYC Venice 상용 런칭: TSMC 2nm·256코어(Turin 대비 +33%)·PCIe Gen 6·16채널 DDR5(1.6TB/s)·AI 성능 +1.7배·CPU 성능+효율 +70%+. AMD Instinct MI455X GPU(432GB HBM)·Helios 랙스케일 AI 시스템 세부 공개. Meta·OpenAI·xAI·Oracle·MS·Cohere·Red Hat 파트너 연사 총출동. Microsoft Azure Helios 배포 확정(7/20). Q2 실적 8/4(컨센 $11.2B·+46% YoY)·YTD +150%."
       },
       {
         "tag": "NVDA",
-        "cls": "down",
-        "h": "아시아 고객 절반+ 수출 컴플라이언스 탈락·6월 고점 대비 -18%·$195 지지선·DeepSeek 자체 칩 개발 착수·MS·아마존 $1조 수요 약정 불변",
-        "m": "2026-07-21 · TradingKey/Gurufocus/Yahoo Finance · NVIDIA 아시아 AI칩 고객 절반 이상 컴플라이언스 심사 탈락—중국 우회 차단 강화(BIS 5/31 지침). 주가 $195 내외·6월 고점 대비 -18%, 칩 그룹 내 2026 최하위 성과. DeepSeek, 자체 AI 칩 개발 착수—NVDA 독립 가속 최신 우려. 다만 MS·아마존·구글·Meta의 $1조 AI 칩 수요 실제 구매 약정 확인. FY27 Q2(8월 말) 실적 컨센 $200B+ 복귀 촉매 대기."
+        "cls": "new",
+        "h": "H20 중국 수출 라이선스 재개 호재·아시아 고객 절반+ 컴플라이언스 탈락 악재 혼조·$195 지지선·DeepSeek 자체 칩 개발·MS·아마존 $1조 수요 불변",
+        "m": "2026-07-21 · Yahoo Finance/Cryptopolitan/TradingKey/Gurufocus · 미 정부, 엔비디아 H20 AI칩 중국 판매 라이선스 재발급—차단됐던 중국 시장 재개방(Yahoo Finance 7/21). 반면 아시아 AI칩 고객 절반 이상 컴플라이언스 심사 탈락(BIS 5/31 지침 강화)—긍정·부정 신호 혼조. 주가 $195 내외·6월 고점 대비 -18%, 칩 그룹 내 2026 최하위 성과. DeepSeek 자체 AI칩 개발 착수. MS·아마존·구글·Meta $1조 AI 칩 수요 약정 불변. FY27 Q2(8월 말) 실적 반등 촉매 대기."
       },
       {
         "tag": "TSLA",
         "cls": "new",
-        "h": "Q2 실적 내일(7/22 4:30PM CT)·480K 역대 최고 납품·자동차 마진 회복·Cybercab 13개 주 목표·AI CAPEX $6.7B·YTD -17% 회복 관건",
-        "m": "2026-07-21 · Yahoo Finance/247WallSt/Moomoo · TSLA Q2 실적 내일(7/22 4:30PM CT). 납품 480,126대(역대 최고·+25% YoY). 컨센 매출 $25.8B·비-GAAP EPS $0.54. AI 인프라 CAPEX $6.7B로 FCF 적자 -$3.25B 예상. 핵심 관전: ①자동차 총마진 회복 ②Cybercab 13개 주 로보택시 서비스 목표 ③FSD 유료 전환율 ④에너지 스토리지 13.5GWh(+40%). 소매 투자자 로보택시 달성 여부 집중 추궁. 7.6% 옵션 스윙 기대. YTD -17%."
+        "h": "Q2 실적 내일(7/22 4:30PM CT)·480K 역대 최고 납품에도 매출 YoY -3% 우려($25.7B)·자동차 마진 회복이 핵심 관전·Cybercab·AI CAPEX $6.7B",
+        "m": "2026-07-21 · Yahoo Finance/IG/GoodCarBadCar · TSLA Q2 실적 내일(7/22 4:30PM CT). 납품 480,126대(역대 최고·+25% YoY)에도 매출 ~$25.7B로 전년비 -3% 전망—가격 인하 압박 반영. 컨센 EPS $0.47~$0.54. AI 인프라 CAPEX $6.7B, FCF 적자 예상. 핵심 관전: ①자동차 총마진 회복 여부 ②Cybercab 13개 주 로보택시 목표 ③FSD 유료 전환율 ④에너지 스토리지 13.5GWh(+40%). 7.6% 옵션 스윙 기대. YTD -17%."
       },
       {
         "tag": "INTC",
         "cls": "up",
-        "h": "Q2 실적 모레(7/23 장마감 후)·컨센 EPS $0.21·매출 $14.42B·18A 수율 85%↑·Apple·MS 파운드리 파트너·YTD +163%·12% 옵션 스윙 대기",
-        "m": "2026-07-21 · TradingKey/MarketBeat/Alphastreet · INTC Q2 실적 모레(7/23 장마감 후). 컨센 EPS $0.21·매출 $14.42B(+12% YoY, 가이던스 $13.8B~$14.8B). 18A-P 수율 85%(전분기 65% → +20%p 개선). Apple·Microsoft 18A 파운드리 파트너십 공식 확인. CEO 추가 파운드리 고객 발표 예고—숏커버 기대. YTD +163% 대형칩주 최강·12% 옵션 스윙 기대."
+        "h": "Q2 실적 모레(7/23 장마감 후)·컨센 EPS $0.21·매출 $14.42B·18A 수율 85%↑·Apple·MS 파운드리 파트너·파운드리 추가 고객 공개 예고·YTD +163%",
+        "m": "2026-07-21 · TradingKey/Alphastreet/Blockonomi · INTC Q2 실적 모레(7/23 장마감 후). 컨센 EPS $0.21·매출 $14.42B(+12% YoY, 가이던스 $13.8B~$14.8B). 18A-P 수율 85%(전분기 65%→+20%p 개선). Apple·Microsoft 18A 파운드리 파트너십 공식 확인. CEO 추가 파운드리 고객 공개 예고—숏커버 기대. YTD +163% 대형칩주 최강·15% 옵션 스윙 기대."
       },
       {
         "tag": "MU",
         "cls": "up",
-        "h": "미국 內 투자 $2500억으로 확대(블룸버그 7/9)·HBM 2026~2027 완판·FQ4 가이던스 $50B 불변·AI 메모리 슈퍼사이클·수요·공급 모두 타이트",
-        "m": "2026-07-09~21 · Bloomberg/FXLeaders/Tickeron · MU, 미국 내 신규 팹 투자 $2,500억으로 확대(블룸버그 7/9)—AI 메모리 전례 없는 수요 대응. HBM 2026~2027 전량 완판—NVDA·AMD·하이퍼스케일러 장기 공급 계약 집중. FQ3 매출 $10.85B(+37% YoY)·GAAP EPS $2.52·비-GAAP 총마진 41.3%. FQ4 가이던스 $50B±$1B 불변. HBM·DRAM·NAND 전 품목 공급 부족 2026+ 지속. KeyBanc·Citi PT $1,400~$1,750."
+        "h": "FXLeaders 7/21 'AI 메모리 수요 고성장 내러티브 불변'·반도체 셀오프 후 반등 모멘텀·FQ4 $50B 가이던스·PSMC 대만 팹 인수 완료·HBM 완판",
+        "m": "2026-07-21 · FXLeaders(7/21)/Bloomberg/Gurufocus/Micron · MU, 반도체 섹터 셀오프 후 반등 모멘텀—FXLeaders 7/21 'AI 메모리 수요 고성장 내러티브 불변·HBM·DRAM 수요 견고'. PSMC Tongluo P5 대만 팹 인수 완료($1.8B)·뉴욕 메가팹($100B) 착공—AI DRAM CAPA 확장. Q3 매출 $10.85B(+37% YoY)·비-GAAP 총마진 41.3%. FQ4 가이던스 $50B±$1B·HBM 2026~2027 전량 완판. KeyBanc·Citi PT $1,400~$1,750."
       },
       {
         "tag": "AVGO",
         "cls": "new",
-        "h": "Standard Chartered 54개국 AI 클라우드 파트너십·Q3 AI $16B(+200% YoY)·FY27 AI $1,000억 목표·Apple 2031 계약·46인 Strong Buy PT $545",
-        "m": "2026-07-21 · Yahoo Finance/StockTitan · AVGO, Standard Chartered와 54개 시장 AI·클라우드 서비스 강화 파트너십 체결. Q2 AI 매출 $10.8B(+143% YoY)·총매출 $22.19B 상회. Q3 가이던스 AI $16B(+200% YoY)·총매출 $29.4B—기대치 소폭 하회로 셀오프 후 반등 시도. FY26 $56B·FY27 AI $1,000억+ 목표. Apple 공급계약 2031 연장. Meta·Google·ByteDance ASIC 성장 구조 불변. 46인 Strong Buy PT $545(+47%)."
+        "h": "Standard Chartered 54개국 AI 클라우드 파트너십·Q3 AI $16B(+200% YoY) 가이던스·FY27 AI $1,000억 목표·Apple 2031 계약·46인 Strong Buy PT $545",
+        "m": "2026-07-21 · Yahoo Finance/StockTitan · AVGO, Standard Chartered와 54개 시장 AI·클라우드 서비스 강화 파트너십 체결. Q2 AI 매출 $10.8B(+143% YoY)·총매출 $22.19B. Q3 가이던스 AI $16B(+200% YoY)·총매출 $29.4B—기대치 소폭 하회로 셀오프 후 반등 시도. FY27 AI $1,000억+ 목표. Apple 공급계약 2031 연장. Meta·Google·ByteDance ASIC 멀티이어 성장 구조 불변. 46인 Strong Buy PT $545(+47%)."
       },
       {
         "tag": "SPCX",
-        "cls": "new",
-        "h": "Starship Flight 13 이틀 후(7/23 22:45 UTC)·Raptor 2기 교체 완료·Starlink V3 20기 탑재·성공 시 첫 V3 서브오비탈 배치·Q2 실적 8/6",
-        "m": "2026-07-21 · Space.com/SpaceX/RocketLaunch.Live · Starship Flight 13: 이틀 후(7/23, 목) 22:45 UTC(5:45 PM CT) 발사, 90분 윈도우. 7/16 T-0 Raptor 3 엔진 이상으로 중단 후 Booster 20에서 Raptor 2기 교체 완료. Starlink V3 위성 20기 탑재—성공 시 첫 V3 서브오비탈 배치. 인도양 스플래시다운 목표. Q2 실적 8/6(D-16). 공매도 31% 숏스퀴즈 잠재력."
+        "cls": "down",
+        "h": "7/21 장중 신저점 $119.64·종가 $120.30·IPO가($135) 대비 -11%·공매도 31%·Starship Flight 13 이틀 후(7/23)·Q2 실적 8/6",
+        "m": "2026-07-21 · Motley Fool/TipRanks/Yahoo Finance · SpaceX(SPCX) 7/21 장중 $119.64 신저점 경신—7/18 종가 $123.99에서 추가 하락, IPO가($135) 대비 -11.4%. 종가 $120.30. Starship Flight 13: 7/16 Raptor 이상 중단 후 7/23(목) 재시도 확정(22:45 UTC, Starlink V3 위성 20기 탑재). 공매도 31%(Ortex) 숏스퀴즈 잠재력. Q2 실적 8/6(D-16). 락업 해제 매물 압박+IPO 모멘텀 소진 하락 압력."
       }
     ],
     "KR": [
@@ -350,8 +350,8 @@
       {
         "tag": "삼성전자",
         "cls": "up",
-        "h": "종가 260,000원·LS증권 '고점比 -34.8%·PER 4.42배 역사적 저평가·저가매수 유효'·Anthropic 2nm ASIC 계약 임박·Q2 세부 실적 7/30",
-        "m": "2026-07-21 · 파이낸셜뉴스/LS증권 · 삼성전자 종가 260,000원(전일 244,000원 대비 +6.6%). LS증권 오늘 보고서: '삼성전자 고점 대비 -34.8% 하락, 12개월 선행 PER 4.42배—역사적 저평가, 저가매수 전략 유효'. Anthropic 2nm AI ASIC 파운드리 계약 공식 발표 임박. Q2 세부 실적 7/30(잠정 OP 89.4조 역대 최고 기확인). 교보 50만·노무라 67만 목표가 불변."
+        "h": "Anthropic 2nm 파운드리 계약 확정 보도(7/14)·Meta 2nm MTIA $6.5B 주문 임박·수주잔고 50조 돌파·TSMC 2nm 풀북 반사이익·Q2 세부 실적 7/30",
+        "m": "2026-07-21 · WCCFTech(7/14)/Seoul Economic Daily(7/4)/TipRanks · 삼성전자 파운드리, Anthropic 2nm AI ASIC 생산 계약 복수 언론 확정 보도(WCCFTech·Sammy Fans 7/14). Meta, TSMC 대신 삼성 2nm 선택—3세대 MTIA AI칩 $6.5B(10조원) 수주 임박. 삼성 파운드리 수주잔고 50조원 돌파(Tesla·Meta·Anthropic 계약). TSMC 2nm 풀북(2028~2029)·삼성 테일러 2nm H2 2026 양산 반사이익. Q2 세부 실적 7/30(잠정 OP 89.4조 역대 최고). 교보 50만·노무라 67만 목표가 불변."
       },
       {
         "tag": "SK하이닉스",
@@ -368,8 +368,8 @@
       {
         "tag": "한화에어로스페이스",
         "cls": "up",
-        "h": "미 육군 MTC 이번 주 시제품 선정 임박·K9MH 최종 경쟁 관문·앨라배마 $2억 공장 확보·낙찰 시 방산 완제품 첫 美 수출·수주잔고 39.7조",
-        "m": "2026-07-21 · Etoday/파이낸셜뉴스/아시아투데이 · 미 육군 MTC(차세대 차륜형 자주포·10조원) 시제품 선정 이번 주 발표 임박. 한화에어로스페이스 K9MH(완전 자동화 포탑)—독일 Rheinmetall·영국 BAE·이스라엘 Elbit·미국 GD와 경쟁. 앨라배마 오펠라이카 공장($2억) 확보—전공정 현지 생산 전략. 낙찰 시 방산 완제품 미국 수출 최초(5조원+). Q2 방산 매출 +80% YoY·수주잔고 39.7조 역대 최대."
+        "h": "미 육군 MTC 이번 주 시제품 선정 임박·K9MH vs 독일 Rheinmetall 최종 경쟁·앨라배마 $2억 공장+아칸소 탄약공장 $13억·낙찰 시 방산 완제품 첫 美 수출",
+        "m": "2026-07-21 · Etoday/파이낸셜뉴스/BusinessPost · 미 육군 MTC(차세대 차륜형 자주포·10조원) 시제품 선정 이번 주 결과 임박. 한화에어로스페이스 K9MH(완전 자동화 포탑)—독일 Rheinmetall·영국 BAE·이스라엘 Elbit·미국 GD와 최종 경쟁. 앨라배마 오펠라이카 공장($2억) 확보+아칸소 탄약공장($13억) 신설 검토—전 공정 현지 생산 전략. 미 육군장관이 한화 K9 직접 언급. 낙찰 시 방산 완제품 미국 수출 최초(5조원+). 수주잔고 39.7조 역대 최대."
       },
       {
         "tag": "시총역전",
