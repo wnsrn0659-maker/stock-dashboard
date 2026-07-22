@@ -298,90 +298,90 @@
   "NEWS": {
     "US": [
       {
+        "tag": "INTC",
+        "cls": "up",
+        "h": "18A 수율 85%·NVDA·OpenAI·AMD·Apple·Marvell 파운드리 설계수주 공식화·Q2 내일(7/23)·KeyBanc PT $155·옵션 13.59% 스윙·YTD +163%",
+        "m": "2026-07-22 · TradingKey/WCCFTech/BigGo Finance · Intel 18A 수율 85%(+20%p) 확인—NVDA·OpenAI·AMD·Marvell·Microsoft·Apple까지 파운드리 설계수주 공식화(WCCFTech). 기존 Apple+Microsoft 외 NVDA·OpenAI·AMD 18A 고객 확대 확인. EMIB 패키징 수율 98% 달성. Q2 실적 내일(7/23) 장마감 후—컨센 $14.42B·비갭 EPS $0.21·옵션 13.59% 스윙. KeyBanc PT $155(기존 $100) 상향. YTD +163%."
+      },
+      {
         "tag": "AMD",
         "cls": "up",
-        "h": "Advancing AI 2026 진행 중·Zen 6 Venice+MI455X Helios 런칭 완료·Azure ND MI455X v7(72GPU·31TB HBM4·2.9엑사플롭스) 배포 확정·Meta·OpenAI·Oracle 채택 공식",
-        "m": "2026-07-22 · AMD Newsroom/WindowsNews · AMD Advancing AI 2026(샌프란 모스콘) 현재 진행 중(7/22~23). Zen 6 EPYC Venice(TSMC 2nm·256코어·PCIe 6.0) + MI455X(HBM4 432GB·Helios 랙스케일) 공식 런칭 완료. Azure ND MI455X v7 VM 배포 확정: 1랙당 72 MI455X GPU·HBM4 31TB·2.9 엑사플롭스(FP4)—Azure AI 인프라 NVDA 독점 구조 분산. Meta·OpenAI·xAI·Oracle·Cohere 채택 공식 발표. Q2 실적 8/4(D-13)."
+        "h": "Advancing AI 2026 완료·MI455X HBM4 2026 전량 하이퍼스케일러 할당·양산 Q2 2027·Azure·Meta·OpenAI·Oracle 채택·Q2 실적 8/4",
+        "m": "2026-07-22 · WCCFTech/TechTimes/NextPlatform · AMD Advancing AI 2026(샌프란 모스콘) 진행 중. Zen 6 EPYC Venice(TSMC 2nm·256코어)+MI455X(HBM4 432GB·CDNA5) 공식 런칭. Azure ND MI455X v7(72GPU·31TB HBM4·2.9엑사플롭스) 배포 확정. 단, HBM4 2026 전량 하이퍼스케일러 선점 완료—대중 양산 Q2 2027 전망. MS·Meta·OpenAI·Oracle·Cohere 채택. Q2 실적 8/4(D-13)."
+      },
+      {
+        "tag": "AVGO",
+        "cls": "down",
+        "h": "Q3 AI 가이던스 $16B·컨센 $16.36B 소폭 하회·칩 섹터 이틀 연속 약세 요인·Q2 AI +143% YoY·Apple 2031·Hock Tan 2027 AI $100B 불변",
+        "m": "2026-07-22 · TradingKey/Phemex/Motley Fool · AVGO Q3 AI 칩 가이던스 $16B—컨센 $16.36B 하회로 칩 섹터 이틀 연속 약세 유발. Q2 FY26 AI 매출 $10.8B(+143% YoY). CEO Hock Tan '2027 AI $100B 초과' 불변. Apple 칩 공급 2031 연장. Google·Meta·OpenAI·ByteDance ASIC 멀티이어 성장 구조 유지. 46인 Strong Buy PT $545. Q4 FY26 실적(~10월)이 다음 촉매."
       },
       {
         "tag": "TSLA",
         "cls": "new",
-        "h": "Q2 실적 오늘 장마감 후(5:30PM ET)·납품 480K 역대 최고(+25%)·컨센 매출 $26.4B·비갭 EPS $0.55·자동차 총마진 19.5%·Cybercab 가이던스 핵심 관전",
-        "m": "2026-07-22 · Electrek/TradingKey/Alphastreet · TSLA Q2 실적 오늘 장마감 후 발표(컨퍼런스콜 5:30PM ET). 납품 480,126대(역대 최고·+25% YoY·2년 만의 첫 YoY 성장 분기). 에너지 13.5GWh(+40%). 컨센 매출 $26.4B(+17% YoY)·비갭 EPS $0.55·GAAP EPS $0.36. 핵심 관전: ①자동차 총마진(19.5% 컨센) ②Cybercab 로보택시 가이던스 ③FSD 유료 전환율. 옵션 7.6% 스윙. YTD -17%."
+        "h": "Q2 실적 오늘 장마감(5:30PM ET)·납품 480K 역대 최고(+25%)·컨센 매출 $26.4B·마진 19.5%·Cybercab 로보택시 가이던스 핵심 관전",
+        "m": "2026-07-22 · Electrek/TradingKey/Moomoo · TSLA Q2 실적 오늘 장마감 후(컨퍼런스콜 5:30PM ET). 납품 480,126대(역대 최고·+25% YoY·2년 만 첫 YoY 성장). 에너지 13.5GWh(+40%). 컨센 매출 $26.4B(+17% YoY)·비갭 EPS $0.55·GAAP EPS $0.36·자동차 총마진 19.5%. 핵심 관전: ①자동차 총마진 ②Cybercab 로보택시 가이던스 ③FSD 유료 전환율. 옵션 7.6% 스윙."
       },
       {
         "tag": "GOOGL",
         "cls": "new",
-        "h": "Alphabet Q2 오늘 발표(4:30PM PT)·컨센 매출 $116.84B(+21%)·EPS $2.89(+25%)·구글 클라우드 +63% YoY·수주잔고 $462B·AI 설비투자 $190B 마진 영향",
-        "m": "2026-07-22 · Alphastreet/IG/Yahoo Finance · Alphabet Q2 실적 오늘 발표(4:30 PM PT). 컨센 매출 $116.84B(+21% YoY)·EPS $2.89(+25%). 구글 클라우드 Q1 +63% YoY($20B)·수주잔고 $462B—Q2 지속 여부 핵심 관전. $190B AI 설비투자 단기 마진 압박. TSLA와 동일일 발표—빅테크 AI 인프라 수요 이중 확인. 반도체·HBM 수요 추가 확인 촉매."
-      },
-      {
-        "tag": "INTC",
-        "cls": "up",
-        "h": "Q2 내일(7/23)·컨센 $14.42B·비갭 EPS $0.21·옵션 13.59% 스윙·KeyBanc PT $155 상향·18A 수율 85%·파운드리 추가 고객 공개 예고·YTD +163%",
-        "m": "2026-07-22 · TipRanks/TradingKey/Alphastreet · INTC Q2 실적 내일(7/23) 장마감 후. 컨센 매출 $14.42B(가이던스 $13.8~14.8B)·비갭 EPS $0.21. KeyBanc $155(기존 $100) 상향·Susquehanna $115(기존 $80) 상향—서버 CPU 강세+PC 빌드 개선. 옵션 13.59% 스윙(평균 12.4% 상회). 18A-P 수율 85%(+20%p). CEO 파운드리 추가 고객 공개 예고. Apple·Microsoft 18A 파트너십 유지. YTD +163%."
+        "h": "Alphabet Q2 오늘(4:30PM PT)·컨센 $116.84B(+21%)·클라우드 +63% 지속 여부·수주잔고 $462B·$190B AI CapEx 마진 부담",
+        "m": "2026-07-22 · InsiderFinance/IG/TradingKey · Alphabet Q2 오늘 장마감 후(4:30PM PT). 컨센 매출 $116.84B(+21% YoY)·EPS $2.86~2.95. 핵심 관전: 구글 클라우드 +63% YoY 지속 여부·수주잔고 $460B+ 유지. $190B AI CapEx 단기 마진 압박. TSLA와 같은 날—AI 인프라 수요 이중 확인. 반도체·HBM 수요 추가 확인 촉매."
       },
       {
         "tag": "MU",
         "cls": "up",
         "h": "일본 히가시히로시마 $9.3B HBM 공장 첫 웨이퍼 생산(7/4)·BofA PT $1,550(+83%)·FQ3 매출 $41.5B(+346% YoY)·CXMT $8.5B IPO 리스크 부각",
-        "m": "2026-07-22 · Yahoo Finance/ad-hoc-news/TradingKey · MU 일본 히가시히로시마 $9.3B HBM 전용 공장 첫 웨이퍼 생산(7/4, 일 정부 $3.3B 보조금). BofA 강력 Buy PT $1,550(+83%). FQ3 2026 매출 $41.5B(+346% YoY)·비갭 EPS $25.11(컨센 +24%)·비갭 마진 84.9%. HBM 2026~2027 전량 완판. CXMT $8.5B IPO(중국 DRAM 자급화) 리스크 시장 우려 부각."
-      },
-      {
-        "tag": "NVDA",
-        "cls": "new",
-        "h": "AMD Advancing AI로 AI 칩 경쟁 심화(YTD AMD +150% vs NVDA +13%)·H200 중국 출하 제한 유지·$207 지지선 안정·FQ2 $91B 가이던스 불변",
-        "m": "2026-07-22 · CNBC/Intellectia.ai · AMD MI455X Azure 대규모 배포로 AI 칩 경쟁 심화—YTD AMD +150% vs NVDA +13% 격차 확대. 미 상무부 H200 중국 출하 'trivial 수준' 공식 확인. $207 지지선 안정. FQ2 가이던스 $91B(±2%)·총마진 ~75% 불변. Noetra AI 팩토리 13,750 Vera CPU+27,500 Rubin GPU(7/16). FQ2 실적 8월 말. NVL72 Vera Rubin 수요 훼손 없음."
+        "m": "2026-07-22 · Yahoo Finance/ad-hoc-news/TradingKey · MU 일본 히가시히로시마 $9.3B HBM 전용 공장 첫 웨이퍼 생산(7/4, 일 정부 $3.3B 보조금). BofA 강력 Buy PT $1,550(+83%). FQ3 2026 매출 $41.5B(+346% YoY)·비갭 EPS $25.11·비갭 마진 84.9%. HBM 2026~2027 전량 완판. CXMT $8.5B IPO(중국 DRAM 자급화) 리스크 부각."
       },
       {
         "tag": "SPCX",
         "cls": "new",
-        "h": "Starship Flight 13 내일(7/23) 6:45PM EDT 확정·Starlink V3 20기 서브오비탈 탑재·Raptor 3 2기 교체 완료·Q2 실적 8/6·공매도 31% 숏스퀴즈",
-        "m": "2026-07-22 · Space.com/Yahoo News · Starship Flight 13: 내일(7/23) 6:45 PM EDT(22:45 GMT) 90분 윈도우 확정. 7/16 Raptor 3 4기 이상으로 중단 후 2기 교체 완료. Starlink V3 위성 20기 최초 서브오비탈 배치 시도—성공 시 고용량 레이저 통신 위성망 첫 운용 이정표. Q2 실적 8/6(D-15). 공매도 31%(Ortex) 숏스퀴즈 잠재력."
+        "h": "Starship Flight 13 내일(7/23) 6:45PM EDT·Raptor 2기 교체 완료·Starlink V3 20기 서브오비탈 배치 시도·Q2 실적 8/6·공매도 31%",
+        "m": "2026-07-22 · Space.com/SpaceLaunchSchedule · SpaceX Starship Flight 13: 내일(7/23) 6:45PM EDT 90분 윈도우 확정. 7/16 T-0 Raptor 엔진 이상 중단 후 2기 교체 완료. Starlink V3 20기 최초 서브오비탈 배치 시도—성공 시 고용량 위성망 첫 이정표. 부스터 귀환(멕시코만)·상단 인도양 착수. Q2 실적 8/6(D-15). 공매도 31% 숏스퀴즈 잠재력."
       }
     ],
     "KR": [
       {
-        "tag": "SK하이닉스",
-        "cls": "up",
-        "h": "ADR SKHY NASDAQ 상장(7/10) 완료·$29.4B 조달 역대 최대·HBM 60% 점유율 글로벌 부각·용인 팹+청주 P&T7 투자 재원 확보·Q2(7/29·D-7) OP 64조",
-        "m": "2026-07-22 · TechTimes/CNBC/SK Hynix Newsroom · SK하이닉스 ADR SKHY NASDAQ 상장(7/10) 완료. ADR 1억7,790만 주($165.26/주)·총 $29.4B 조달—글로벌 최대 규모 ADR 상장 중 하나. HBM 시장 60% 점유율·2026~2027 전량 완판 구조 글로벌 투자자 부각. 용인 반도체 클러스터 M17 팹·청주 P&T7 첨단 패키징 투자 재원 확보. Q2 실적 7/29(D-7) OP 64조 역대 최대 컨센."
-      },
-      {
         "tag": "삼성전자",
         "cls": "up",
-        "h": "미 반도체 훈풍 +5%대 급반등·기관 순매수 유입·시총 1위 반도체 주도·Q2(7/30·D-8) OP 100조 컨센·Anthropic 2nm 파운드리 계약 임박",
-        "m": "2026-07-22 · 뉴스핌/WCCFTech/Bloomberg · AMD Advancing AI 2026 훈풍+미 반도체 반등으로 삼성전자 +5%대 급반등. 기관 순매수 유입—시총 1위 반도체 주도. Anthropic 2nm AI ASIC 파운드리 계약 공식 발표 임박(WCCFTech). Q2 세부 실적 7/30(D-8) OP 100조원 돌파 컨센서스. $646B 팹 투자 패키지(팹 2기 담당) 진행 중."
+        "h": "갤럭시 언팩 2026 런던 오늘·Z Fold 8 Ultra+Z Flip 8+AI 글래스 공개·반도체 +5% 급반등 동시 진행·Q2(7/30·D-8) OP 100조 컨센",
+        "m": "2026-07-22 · AndroidCentral/Samsung Newsroom/뉴스핌 · 삼성전자 갤럭시 언팩 2026 런던 올드 빌링스게이트 오늘 개최(14:00 BST=21:00 KST). Galaxy Z Fold 8 Ultra·Z Fold 8·Z Flip 8·Galaxy AI 글래스 공개. 새 와이드폼팩터 폴더블 추가. AMD Advancing AI 훈풍+미 반도체 반등으로 국내 주가 +5%대 급반등 동시 진행. Q2 세부 실적(7/30·D-8) OP 100조원 컨센."
+      },
+      {
+        "tag": "SK하이닉스",
+        "cls": "up",
+        "h": "ADR SKHY NASDAQ 상장(7/10)·$29.4B 역대 최대·HBM 60% 점유율·AMD HBM4 2026 전량 할당 재확인·Q2(7/29·D-7) OP 64조 역대 최대",
+        "m": "2026-07-22 · TechTimes/SK Hynix Newsroom/CNBC · SK하이닉스 ADR SKHY NASDAQ 상장(7/10) $29.4B 조달—역대 최대 ADR. HBM 60% 점유율·2026~2027 완판 불변. AMD Advancing AI 2026에서 MI455X HBM4 공급 재확인—HBM4 2026 전량 하이퍼스케일러 선점 완료. Q2(7/29·D-7) OP 64조 역대 최대 컨센. Barclays PT $330(+71%)."
       },
       {
         "tag": "한미반도체",
         "cls": "up",
-        "h": "제8공장 건설 추진(창사 이후 최대 규모)·AMD MI455X Azure 배포로 TC본더 추가 수주 기대·Q2 마진 51.9% 역대 최대·TC본더 71.2% 글로벌 점유율",
-        "m": "2026-07-22 · SPTA Times Korea/BusinessPost · 한미반도체 인천 본사 제8공장(창사 이후 최대 규모) 건설 추진 발표(7/20). AI 반도체 TC본더 수요 급증 대응. AMD MI455X Azure ND MI455X v7(31TB HBM4) 배포로 SK하이닉스 HBM4 패키징 물량 증가→TC본더 추가 발주 기대. Q2 매출 2511억(+39.5%)·OP 1303억(+51%)·마진 51.9% 역대 최대."
+        "h": "제8공장 건설(창사 최대 규모)·AMD MI455X HBM4 전량 할당→TC본더 추가 수주 기대·Q2 마진 51.9% 역대 최대·TC본더 71.2% 글로벌 점유율",
+        "m": "2026-07-22 · SPTA Times Korea/BusinessPost · 한미반도체 인천 제8공장(창사 이후 최대 규모) 건설 추진 발표(7/20). AMD Advancing AI 2026 MI455X HBM4 SK하이닉스 전량 할당 확인→TC본더 추가 발주 기대. Q2 매출 2511억(+39.5%)·OP 1303억(+51%)·마진 51.9% 역대 최대. TC본더 글로벌 점유율 71.2%."
       },
       {
         "tag": "반도체시장",
-        "cls": "up",
-        "h": "AMD Advancing AI 2026 진행 중·알파벳 Q2 오늘(클라우드 +63%)·TSLA Q2 오늘·HBM 수요 재확인·삼성 +5%·SKH +8% 급반등",
-        "m": "2026-07-22 · AMD Newsroom/뉴스핌/CNBC · AMD Advancing AI 2026 현재 진행 중(7/22~23). Zen 6 Venice+MI455X Helios 런칭·Azure ND MI455X v7(31TB HBM4) 배포→KR HBM 수요 재확인. 알파벳 Q2 오늘(클라우드 +63% YoY 지속 여부)·TSLA Q2 오늘—AI 인프라 수요 이중 확인. 삼성전자 +5%·SK하이닉스 +8%대 미 반도체 훈풍 동조 급반등."
+        "cls": "down",
+        "h": "AVGO Q3 AI 가이던스 하회로 이틀 연속 약세 후 반등·SOX +5.21%·GOOGL+TSLA 실적 오늘·INTC 내일·삼성 +5%·SKH +8%",
+        "m": "2026-07-22 · 이투데이/뉴스핌/CNBC · AVGO Q3 AI 가이던스($16B vs $16.36B 컨센) 하회로 이틀 연속 칩 섹터 약세 후 AMD Advancing AI 반등 트리거. SOX +5.21% 이틀 연속 상승. 실적 릴레이: ①GOOGL Q2 오늘(클라우드 +63% 지속 여부) ②TSLA Q2 오늘(480K 역대 최고) ③INTC Q2 내일(7/23) ④SKH Q2(7/29·D-7). 삼성 +5%·SK하이닉스 +8% 동반 급반등."
       },
       {
         "tag": "한화에어로스페이스",
         "cls": "new",
         "h": "AFAS MTC 이달 최종 선정 임박·미 육군장관 한화 직접 언급·K9MH vs Rheinmetall 2파전·앨라배마+아칸소 현지 생산·낙찰 시 첫 美 방산 수출 5조원+",
-        "m": "2026-07-22 · 이투데이/아시아투데이/BusinessPost · 미 육군 MTC(차세대 차륜형 자주포·10조원 규모) 이달 시제품 제작·시험평가 업체 선정 임박. 미 육군장관 공식 발표에서 한화 직접 언급—K9MH vs 독일 Rheinmetall 2파전 최종 단계. 한화디펜스USA 앨라배마 오펠라이카 공장+아칸소 $1.3B 탄약공장 미국 현지 생산 전략. 낙찰 시 방산 완제품 첫 미국 수출(5조원+). 수주잔고 39.7조원 역대 최대."
+        "m": "2026-07-22 · 이투데이/아시아투데이/파이낸셜뉴스 · 미 육군 MTC(차세대 차륜형 자주포·10조원 규모) 시제품 제작 업체 이달 선정 임박. 미 육군장관 공식 발표서 한화 직접 언급—K9MH vs 독일 Rheinmetall 2파전 최종 단계. 한화디펜스USA 앨라배마 오펠라이카+아칸소 $1.3B 탄약공장 현지 생산 전략. 낙찰 시 방산 완제품 첫 美 수출(5조원+). 수주잔고 39.7조원 역대 최대."
       },
       {
         "tag": "코스피",
         "cls": "new",
-        "h": "삼성 +5%·SKH +8% 급반등·알파벳·TSLA Q2 오늘·INTC Q2 내일·SKH 7/29·삼성 7/30 AI 실적 릴레이·AFAS 방산 이벤트 병행",
-        "m": "2026-07-22 · 뉴스핌/연합뉴스 · 미 반도체 훈풍 동조—삼성전자 +5%·SK하이닉스 +8%대 급반등. AI 수요 확인 릴레이: ①AMD Advancing AI 진행 중 ②알파벳 Q2 오늘(4:30PM PT) ③TSLA Q2 오늘(5:30PM ET) ④INTC Q2 내일(7/23) ⑤SKH Q2(7/29·D-7) ⑥삼성 Q2(7/30·D-8). AFAS 이달 방산 선정 이벤트 병행."
+        "h": "삼성 +5%·SKH +8% 급반등·갤럭시 언팩 2026+반도체 실적 릴레이 이중 촉매·AFAS 방산 이벤트 병행",
+        "m": "2026-07-22 · 뉴스핌/연합뉴스 · AVGO 가이던스 하회 이틀 연속 약세 후 AMD Advancing AI 반등. 삼성전자 +5%·SK하이닉스 +8% 동반 급반등. 실적 릴레이: GOOGL·TSLA 오늘·INTC 내일·SKH(7/29)·삼성(7/30). 삼성 갤럭시 언팩 2026 런던(오늘 21:00 KST)·AFAS 방산 선정 이벤트 병행—이중 촉매."
       },
       {
         "tag": "고려아연",
         "cls": "up",
-        "h": "갈륨 공장(연산 15.5t·557억) 온산 2028H1 가동·게르마늄 공장(연산 12t·1400억) 병행·AMD AI 반도체 런칭 갈륨·게르마늄 수요 재확인·7월 급등 지속",
-        "m": "2026-07-22 · 디지털타임스/고려아연 · 고려아연 온산제련소 갈륨 회수 공장(557억원·연산 15.5톤·부산물 인듐 16톤+) 2028년 상반기 상업 가동 목표. 게르마늄 공장(1,400억원·연산 12톤) 병행 추진. AMD Advancing AI 2026 행사 진행 중—AI 반도체 대규모 생산 가속→갈륨(반도체·LED)·게르마늄(광섬유·반도체) 수요 재확인. 7월 급등(갈륨+27.8%·게르마늄+25.4%) 지속."
+        "h": "갈륨 공장(연산 15.5t·557억) 온산 2028H1 가동·게르마늄 공장(연산 12t·1400억) 병행·AMD AI 반도체 런칭 갈륨·게르마늄 수요 재확인",
+        "m": "2026-07-22 · 디지털타임스/고려아연 · 고려아연 온산제련소 갈륨 회수 공장(557억원·연산 15.5톤) 2028년 상반기 상업 가동 목표. 게르마늄 공장(1,400억원·연산 12톤) 병행 추진. AMD Advancing AI 2026 MI455X HBM4 대규모 생산 확인→갈륨(반도체·LED)·게르마늄(광섬유·반도체) 수요 재확인. 7월 급등(갈륨+27.8%·게르마늄+25.4%) 지속."
       }
     ]
   },
