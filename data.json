@@ -312,8 +312,8 @@
       {
         "tag": "AMD",
         "cls": "up",
-        "h": "Advancing AI 2026(7/22~23) 개막·Zen 6 EPYC Venice+MI455X HBM4 공식 런칭·Azure ND MI455X v7 72GPU 2.9엑사플롭스·Q2 실적 8/4",
-        "m": "2026-07-22 · WCCFTech/Microsoft Blog/NextPlatform · AMD Advancing AI 2026(샌프란 모스콘, 7/22~23) 개막. Zen 6 EPYC Venice(TSMC 2nm·256코어)+MI455X(HBM4 432GB·CDNA5) 공식 런칭. Microsoft 공식 블로그: Azure ND MI455X v7(72GPU·31TB HBM4·2.9엑사플롭스) 스케일 배포 확정. HBM4 2026 전량 하이퍼스케일러 선점 완료—대중 양산 Q2 2027. Meta·OpenAI·Oracle·Cohere 채택. Q2 실적 8/4(D-13)."
+        "h": "Advancing AI 2026 키노트 완료·DOE 슈퍼컴 EPYC Venice+MI430X 선정·OpenAI·Meta '기가와트급' MI455X 배포 확정·MI500 2027 첫 공개·Q2 실적 8/4",
+        "m": "2026-07-22 · TechPowerUp/TechnoSports/WCCFTech · AMD Advancing AI 2026(샌프란 모스콘, 7/22~23) 키노트 완료. Zen 6 EPYC Venice(TSMC 2nm·256코어)+MI455X(HBM4 432GB·CDNA5·40PFLOPs FP4) 공식 런칭. 미 에너지부(DOE) 차세대 슈퍼컴퓨터 EPYC Venice+MI430X 선정—정부 AI 인프라 AMD 전면 채택. OpenAI·Meta 기가와트(GW) 규모 MI455X 배포 확정 공개—역대 최대 AI 인프라 위탁. Oracle AI 클라우드 MI450 파트너십 확정. Helios 랙스케일(72 GPU·31TB HBM4·2.9 엑사플롭스) 양산 선언. MI500 시리즈 2027 출시 첫 미리보기 공개. Q2 실적 8/4(D-13)."
       },
       {
         "tag": "INTC",
@@ -380,8 +380,8 @@
       {
         "tag": "코스피",
         "cls": "new",
-        "h": "삼성 갤럭시 언팩+AMD Advancing AI 이중 촉매·삼성 +5.60% 27만3500원·SKH +8.88% 199만9000원·TSLA 어닝 훈풍",
-        "m": "2026-07-22 · 뉴스핌/연합뉴스 · 삼성 갤럭시 언팩 2026 런던 완료(Z Fold 8 Ultra·Fold 8 Wide·Flip 8·스마트글래스 공개)·AMD Advancing AI 2026 이중 촉매로 삼성전자 +5.60% 27만3500원·SK하이닉스 +8.88% 199만9000원 동반 급반등. TSLA Q2 어닝 서프라이즈 시간외 훈풍. 실적 릴레이: GOOGL 오늘·INTC 내일·SKH(7/29)·삼성(7/30)."
+        "h": "코스피 마감 6797.70(+0.74%)·장중 7052(+4.51%) 급등 출발 후 오후 상승폭 대폭 반납·삼성 +5.60%·SKH +8.88% 강세 마감",
+        "m": "2026-07-22 · 이투데이/뉴스핌 · 코스피 22일 전 거래일 대비 49.75포인트(+0.74%) 오른 6797.70에 마감. 장 초반 304.14포인트(+4.51%) 급등 7052.09까지 치솟았으나 오후 매도세 유입으로 상승폭 대폭 반납—종가 6800선 하회. 삼성전자 +5.60% 27만3500원·SK하이닉스 +8.88% 199만9000원 동반 강세 마감. AMD Advancing AI 키노트 완료(DOE 슈퍼컴 선정·MI500 2027 공개)·TSLA Q2 어닝 훈풍 지속. 실적 릴레이: GOOGL 오늘 발표·INTC 내일(7/23)·SKH(7/29)·삼성(7/30)."
       },
       {
         "tag": "고려아연",
