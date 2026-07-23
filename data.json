@@ -257,43 +257,43 @@
         "tag": "GOOGL",
         "cls": "up",
         "h": "Alphabet Q2 매출 $119.8B 어닝 비트·CapEx $195-205B 상향($180-190B 대비)·AI 인프라 '공급 부족 환경' 확인·반도체 섹터 급등",
-        "m": "2026-07-23 · CNBC/Yahoo Finance · Alphabet Q2 2026(7/22 AH): 매출 $119.80B(컨센 $116.93B 비트, 클라우드 +82%)·EPS $2.85. 2026년 CapEx 가이던스 $195-205B(전분기 $180-190B 대비 대폭 상향)—CFO Anat Ashkenazi '여전히 공급 부족 환경, 수요 충족 가속'. 데이터센터·AI 인프라·서버·TPU 확대 투자. 삼성전자·SK하이닉스 각 +4.61%·+5.57% 코스피 장중 급등."
+        "m": "2026-07-23 · CNBC/Yahoo Finance · Alphabet Q2 2026(7/22 AH): 매출 $119.80B(컨센 $116.93B 비트, 클라우드 +82%)·EPS $2.85. 2026년 CapEx 가이던스 $195-205B(전분기 $180-190B 대비 대폭 상향)—CFO '여전히 공급 부족 환경, 수요 충족 가속'. 데이터센터·AI 인프라·서버·TPU 확대 투자. 삼성전자·SK하이닉스 각 +4.61%·+5.57% 코스피 장중 급등."
       },
       {
         "tag": "NVDA",
         "cls": "up",
-        "h": "일본 국가 AI 인프라·Noetra Vera Rubin NVL72 27,500 GPU·140MW 세계 최초 물리 AI 팩토리·METI 공식 지원",
-        "m": "2026-07-23 · NVIDIA Newsroom/Tom's Hardware · NVIDIA, 일본 METI+Noetra컨소시엄과 세계 최초 국가 AI 인프라 발표(7/16). Vera Rubin NVL72 382랙, Rubin GPU 27,500개, Vera CPU 13,750개, 140MW 데이터센터 구축. Spectrum-X 이더넷+DSX 플랫폼 기반—로봇공학·디지털트윈·산업 자동화 훈련. FRONTia 프로젝트 산하. NVDA 데이터센터 매출 $75.2B(+92% YoY). Vera Rubin NVL72 생산 가속."
+        "h": "Wistron 텍사스 포트워스 324K sqft 공장 개소(7/21)·Vera Rubin NVL72 미국산 생산 개시·일본 Noetra 국가 AI 인프라 GPU 27,500개",
+        "m": "2026-07-21~23 · NVIDIA Newsroom/Tom's Hardware · Wistron, 텍사스 포트워스 324,000평방피트 공장 개소(7/21)—Vera Rubin NVL72 슈퍼칩 미국 현지 생산 개시. CoreWeave·Google Cloud·MS Azure·OCI에 NVL72 랙 납품 가속. 일본 METI+Noetra 국가 AI 인프라: Vera Rubin GPU 27,500개·140MW 세계 최초 국가 물리 AI 팩토리. NVDA 데이터센터 매출 $75.2B(+92% YoY)."
       },
       {
         "tag": "AMD",
         "cls": "up",
-        "h": "Lisa Su 키노트 완료·Meta-AMD 6GW $60B 협약 첫 1GW MI450(HBM4·40PFLOPs·2nm) H2 2026 배포·MI500 2027 로드맵",
-        "m": "2026-07-23 · AMD뉴스룸/DataCenterDynamics · AMD Advancing AI 2026 Lisa Su 키노트 완료. Meta-AMD 5년 $60B 6GW GPU 협약—커스텀 MI450(TSMC 2nm CDNA5·HBM4 432GB·40PFLOPs) 첫 1GW H2 2026 배포 확인. Helios 랙 $5M-$5.5M. MI500 차세대 아키텍처 2027 로드맵 공개. Q2 실적 8/4(D-13). 주가 +2.33%→$555.75."
+        "h": "Lisa Su 키노트 완료·Meta-AMD 5년 $60B 6GW 협약·MI450(HBM4·40PFLOPs·TSMC 2nm) 첫 1GW H2 2026 배포·MI500 2027 로드맵",
+        "m": "2026-07-23 · AMD뉴스룸/DataCenterDynamics · AMD Advancing AI 2026 Lisa Su 키노트 완료. Meta-AMD 5년 $60B 6GW GPU 협약—커스텀 MI450(TSMC 2nm CDNA5·HBM4 432GB·40PFLOPs) 첫 1GW H2 2026 배포 확인. Helios 랙 $5M-$5.5M 가격 공개. MI500 차세대 아키텍처 2027 로드맵. Q2 실적 8/4(D-12). 주가 +2.33%→$555.75."
       },
       {
         "tag": "INTC",
         "cls": "new",
-        "h": "Q2 실적 오늘(7/23) 장마감 후 발표·컨센 $14.4B/$0.21·18A 파운드리 Apple·Microsoft 신규 고객 발표 최대 관전·옵션 15% 스윙",
-        "m": "2026-07-23 · Alphastreet/TipRanks · Intel Q2 2026 실적 오늘(7/23) 장마감 후 발표, 콘퍼런스콜 2PM PT. 컨센 $14.4B(+12% YoY)·비갭 EPS $0.21. 18A 파운드리 수율 85%(+20%p), Apple·Microsoft 파트너십 진행 중—신규 고객 공개 여부 관전. 옵션 15% 스윙 내재. YTD +163%. Q1 비갭 EPS $0.29(컨센 크게 상회) 호실적 이어지는지 주목."
+        "h": "Q2 실적 오늘 AH 발표·YTD +185%·옵션 15% 스윙·DCAI +36% 기대·Apple 파운드리 딜 공개 여부 최대 관전",
+        "m": "2026-07-23 · Alphastreet/247WallSt · Intel Q2 2026 실적 오늘(7/23) 장마감 후 발표, 콘퍼런스콜 2PM PT. 컨센 매출 $14.40B(+12% YoY)·비갭 EPS $0.10. YTD +185.77%—6연속 컨센 상회 기대. DCAI 매출 +36% YoY 추정. Apple 파운드리 딜 공개 여부 최대 관전포인트. 옵션 15% 스윙 내재. 18A 파운드리 수율 85%(+20%p), Microsoft·Qualcomm 고객사 확보."
       },
       {
         "tag": "TSLA",
         "cls": "down",
-        "h": "Q2 EPS $0.33(컨센 $0.50 대비 -39% 미스)·영업이익 -57%·영업마진 1.4%·Cybercab 2027H1 연기·주가 -5.23%→$359",
-        "m": "2026-07-23 · CNBC/Bloomberg · Tesla Q2 2026(7/22 AH): 매출 $28.24B(+26% YoY, 컨센 상회). 그러나 EPS $0.33(컨센 $0.50 대비 39% 미스)·영업이익 $398M(-57% YoY)·영업마진 1.4%(전년 4.1%). Cybercab 양산 목표 2027H1로 연기·CapEx $20B→$25B 상향. 주가 -5.23%→$359.14."
+        "h": "Q2 EPS $0.33 미스·그러나 Cybercab Starlink V5 통합 공개(7/22)·기가텍사스 60+ 대 확인·SFO 공항 서비스 확장",
+        "m": "2026-07-22~23 · Electrek/TradingKey · Tesla Q2 EPS $0.33(컨센 $0.50 대비 -39% 미스)·영업마진 1.4%·주가 -5.23%→$359.14. 그러나 Cybercab 모멘텀 유지: Starlink V5 직접 통합 공개(7/22)—4K 스트리밍·함대 관리·실시간 내비게이션. 기가텍사스 60+ 대 현장 확인·주당 수백 대 생산 준비. SFO 공항 픽업·드롭오프 서비스 확장(7/21). 무인 FSD 'Q4 목표'."
       },
       {
         "tag": "MU",
         "cls": "up",
-        "h": "Anthropic $22B 비취소계약·HBM 2026 완판·2027-28 구매발주·KeyBanc PT $1,750 상향·AMD MI455X HBM4 전량 배정",
-        "m": "2026-07-23 · SeekingAlpha · Micron, Anthropic과 $22B 비취소 계약(메모리+스토리지 공동 개발·Series H 전략 투자). HBM 2026 완판·2027-28 구매발주 수령. KeyBanc PT $1,600→$1,750 상향—'CXMT 경쟁 우려 과도'. AMD MI455X HBM4 432GB 전량 배정 재확인. 주가 $974.46(+0.47%). FQ4 $50B 가이던스 불변. 실적 9/29."
+        "h": "Anthropic $22B 비취소계약·HBM 2026 완판·AMD MI455X 전량 배정·Morgan Stanley '메모리 컴펠링 진입점' 지목",
+        "m": "2026-07-23 · SeekingAlpha/MorganStanley · Micron, Anthropic과 $22B 비취소계약(메모리+스토리지 공동 개발·Series H 전략 투자). HBM 2026 완판·2027-28 구매발주 수령. AMD MI455X HBM4 432GB 전량 배정 재확인. Morgan Stanley: 반도체 셀오프 후 'MU 메모리 컴펠링 진입점—NVDA·AVGO와 함께 최선호'. KeyBanc PT $1,750 상향. FQ4 $50B 가이던스 불변."
       },
       {
         "tag": "AVGO",
         "cls": "up",
-        "h": "Apple 2031 $30B 커스텀 칩·Q3 AI 매출 $16B(+200% YoY)·미국 팹 $1.5B 확장·2027년 AI 매출 $1,000억·46인 Strong Buy PT $545",
-        "m": "2026-07-23 · SeekingAlpha/StocksDownUnder · Broadcom, Apple 커스텀 ASIC 계약 2031 확장($30B+·미국산 칩 150억개 이상)·콜로라도 팹 $1.5B 확장 병행. Q3 FY26 AI 매출 가이던스 $16B(+200% YoY)—Google·Meta·OpenAI ASIC. CEO Hock Tan '2027년 AI 매출 $1,000억'. 주가 $397.40(+2.72%). 46인 Strong Buy PT $545(+37%)."
+        "h": "Q2 FY26 AI칩 $10.8B(+143%)·Q3 가이던스 $16B 미스→-14% 셀오프 후 $397 회복·Morgan Stanley '컴펠링 진입점'·Apple 2031 $30B",
+        "m": "2026-07-23 · Yahoo Finance/MorganStanley · Broadcom Q2 FY2026(6/3): AI칩 매출 $10.8B(+143% YoY)·Q3 가이던스 $16B(컨센 $17.2B 하회)·연간 AI 아웃룩 $100B 유지. -14.44% 급락 후 $397.40까지 회복(7/22 +2.72%). Morgan Stanley: 'NVDA·AVGO 반도체 셀오프 후 최선호, 컴펠링 진입점'. Apple 커스텀 ASIC 2031 계약 연장($30B+·미국산 칩 150억개). 46인 Strong Buy PT $545(+37%)."
       }
     ],
     "KR": [
@@ -306,20 +306,20 @@
       {
         "tag": "SK하이닉스",
         "cls": "up",
-        "h": "알파벳 AI 투자 $205B에 장중 +5.57%→193만2천원·AMD MI450 HBM4 전량 배정·Q2 실적 D-6(7/29)·OP 67조 컨센",
-        "m": "2026-07-23 · 뉴스1/이데일리 · SK하이닉스, 알파벳 CapEx 상향 발표에 오전 +5.57%→1,932,000원 급등. AMD-Meta 6GW 첫 1GW MI450 HBM4 432GB 전량 배정 수혜. 7/29 Q2 실적(D-6) OP 63.4조~67조 역대 최대 컨센. 외국인 1.3조 순매수 지속. Barclays PT $330(+71%) 불변."
+        "h": "알파벳 AI 투자에 +5.57%→193만원·씨티 2026 OP 81조 추정 상향·AMD MI450 HBM4 전량 배정·Q2 실적 D-6(7/29)",
+        "m": "2026-07-23 · 뉴스1/TeamBlind · SK하이닉스, 알파벳 CapEx 상향 발표에 오전 +5.57%→1,932,000원 급등. 씨티증권, 2026년 SK하이닉스 영업이익 추정 81조원으로 상향—HBM4E 마진 개선·물량 증가. AMD-Meta 6GW MI450 HBM4 432GB 전량 배정 수혜. 7/29 Q2 실적(D-6) OP 63.4조~67조 역대 최대 컨센. 외국인 1.3조 순매수."
       },
       {
         "tag": "반도체시장",
         "cls": "new",
         "h": "알파벳 CapEx $205B 발표로 코스피 반도체 일제 급등·삼성 +4.61%·SKH +5.57%·INTC Q2 오늘 AH·7/29 SKH 실적",
-        "m": "2026-07-23 · 이데일리/한경 · 알파벳 Q2 CapEx $195-205B 상향(7/22 AH)으로 코스피 반도체 일제 급등—SK하이닉스 +5.57%·삼성전자 +4.61%(오전 9시 기준). INTC Q2 오늘(7/23) AH 발표—컨센 $14.4B·비갭 EPS $0.21. 7/29 SK하이닉스 Q2(OP 67조)·7/30 삼성 Q2(OP 100조) 실적 릴레이 예고. 글로벌 AI 수요 재확인으로 반도체 섹터 전반 매수 유입."
+        "m": "2026-07-23 · 이데일리/한경 · 알파벳 Q2 CapEx $195-205B 상향(7/22 AH)으로 코스피 반도체 일제 급등—SK하이닉스 +5.57%·삼성전자 +4.61%(오전 9시 기준). INTC Q2 오늘(7/23) AH 발표—컨센 $14.4B·비갭 EPS $0.10. 7/29 SK하이닉스 Q2(OP 67조)·7/30 삼성 Q2(OP 100조) 실적 릴레이 예고. 글로벌 AI 수요 재확인으로 반도체 섹터 전반 매수 유입."
       },
       {
         "tag": "한화에어로스페이스",
         "cls": "up",
-        "h": "軍 다목적 무인차량(UGV) 수주 확정·AFAS K9MH MTC 이번 주 내 최종 선정 임박·수주잔고 39.7조 역대 최대",
-        "m": "2026-07-23 · 이데일리/아시아투데이 · 한화에어로스페이스, 군 다목적 무인차량(UGV) 사업 수주—2028년 전력화 목표. 미 육군 AFAS MTC(차세대 자주포·10조원) 최종 선정 이번 주 내 임박—K9MH vs 라인메탈 RCH155 2파전, 미 육군장관 발표에 한화 직접 언급. 낙찰 시 5조원+ 첫 美 방산 완제품 수출. 수주잔고 39.7조 역대 최대. 주가 891,000원. 23인 Strong Buy PT 170.7만원(+91%)."
+        "h": "K9MH 앨라배마 공장 계약(현지 생산 기반 구축)·AFAS 최종 선정 이번 주 내 임박·UGV 수주 확정·수주잔고 39.7조",
+        "m": "2026-07-23 · 이데일리/BusinessPost · 한화에어로스페이스, 미국 앨라배마주 오펠라이카 공장(K9MH 성능·통합시험시설)을 3년 임차 계약 체결—현지 생산 기반 구축. 미 육군 AFAS MTC 최종 선정 이번 주 내 임박—K9MH vs 라인메탈 RCH155 2파전. 軍 다목적 무인차량(UGV) 수주 확정(2028년 전력화). 수주잔고 39.7조 역대 최대. 23인 Strong Buy PT 170.7만원(+91%)."
       },
       {
         "tag": "한미반도체",
