@@ -256,87 +256,87 @@
       {
         "tag": "AMD",
         "cls": "up",
-        "h": "Lisa Su 키노트 오늘(7/23)—Anthropic 2GW MI450 배포 확정·AMD $5B 지분 투자·EPYC Venice TSMC 2nm 업계 최초·Helios $5.25M·Q2 실적 8/4",
-        "m": "2026-07-23 · AMD뉴스룸/tech-insider.org · AMD Advancing AI 2026 Day 2 Lisa Su 키노트(7/23 9:30AM PT). Anthropic이 AMD MI450 GPU 최대 2GW를 Helios 랙 솔루션에 배포 확정—AMD는 Anthropic에 최대 $5B 전략 지분 투자 확정. MI400 가속기 패밀리 최초 양산 세부사항 공개. EPYC Venice: 업계 최초 x86 서버 프로세서 TSMC 2nm 노드 적용. Helios 랙 $5.25M. Q2 실적 8/4(D-12). 전일 Meta $60B 6GW 계약에 이어 Anthropic 빅딜 추가—AI 빅테크 전방위 수주 확인."
+        "h": "AMD-Anthropic 2GW MI450 공식 계약 확정·$5B 지분 투자·Lisa Su 키노트 완료·EPYC Venice TSMC 2nm 업계 최초·Q2 실적 8/4",
+        "m": "2026-07-23 · AMD IR/CNBC/DatacenterDynamics · AMD-Anthropic 전략적 파트너십 공식 발표(AMD 주주서한·IR 릴리즈): Anthropic이 AMD Instinct MI455X(MI450 시리즈) GPU 최대 2GW를 Helios 랙 솔루션에 배포—1GW 2027년 상반기 시작. AMD는 Anthropic에 최대 $5B 전략 지분 투자 확정. Lisa Su 키노트(7/23 9:30AM PT) 완료—EPYC Venice(TSMC 2nm, x86 업계 최초)·MI455X 풀 스펙 공개. Anthropic의 ROCm 소프트웨어 광범위 채택 포함. Q2 실적 8/4(D-12)."
       },
       {
         "tag": "INTC",
         "cls": "new",
-        "h": "Q2 실적 오늘 AH 발표·컨센 매출 $14.4B·옵션 15% 스윙·18A 수율 85%·Apple·MSFT 파운드리 공개 여부 주목·YTD +163%",
-        "m": "2026-07-23 · TipRanks/TradingKey · Intel Q2 2026 실적 오늘(7/23) AH 발표, 2PM PDT 컨퍼런스콜. 컨센 매출 $14.4B·비갭 EPS $0.22. 옵션 트레이더 최대 15% 스윙 내재(평균 12.4% 초과). YTD +163%로 고기대치. 18A 파운드리 수율 85%(+20%p). Apple·Microsoft·Qualcomm 고객사 공개 여부 핵심 촉매. KeyBanc PT $155·Susquehanna PT $115."
+        "h": "Q2 실적 오늘 5PM ET 발표 대기·컨센 $14.4B/$0.21·18A 수율 85%·15% 옵션 스윙·YTD +163%·Apple·MSFT 고객 공개 여부 촉매",
+        "m": "2026-07-23 · Alphastreet/Seekingalpha/TradingKey · Intel Q2 2026 실적 오늘(7/23) 5PM ET 발표, 컨퍼런스콜 대기. 컨센 매출 $14.4B·비갭 EPS $0.21~$0.22(가이던스 $13.8B~$14.8B). 18A 파운드리 수율 85%(+20%p QoQ). 옵션 15% 스윙 내재(역사적 평균 12.4% 초과). YTD +163%로 기대치 매우 높음. Apple·Microsoft 18A 고객사 공식 확인 여부가 핵심 촉매. KeyBanc PT $155·Susquehanna PT $115."
+      },
+      {
+        "tag": "SPCX",
+        "cls": "down",
+        "h": "Starship Flight 13 T-0 스크럽—랩터 3 엔진 4기 점화 불량·머스크 2개 교체 후 다음 주 재시도·SPCX 급락·락업 8/6(D-14)",
+        "m": "2026-07-23 · Space.com/Stocktwits/Crypto.news · SpaceX Starship Flight 13, 오늘(7/23) 10:45PM UTC T-0에서 발사 스크럽—랩터 3 엔진 4기 점화 실패. 머스크 X 공지: '2개 랩터 교체 후 이르면 다음 주 재시도'. V3 Starlink 위성 20기 첫 탑재 비행 재연기. SPCX 급락(-5%+). 소매 투자자 7월 $3.2억 순매수 지속. 락업 해제 8/6(D-14) 오버행 리스크. TSLA-SPCX 합병 분석가 90% 확률 상향(Stocktwits)."
       },
       {
         "tag": "TSLA",
         "cls": "down",
-        "h": "Q2 매출 $28.2B(+26% 비트)·EPS $0.33 대폭 미스·영업이익 -57%·FCF -$1.09B·머스크 'TSLA-SPCX 오버랩'·JPMorgan '합병 전략적 정합성'",
-        "m": "2026-07-22 · Electrek/Shacknews/Coingape · Tesla Q2 2026: 매출 $28.2B(+26% YoY·컨센 $25.36B 비트)·EPS $0.33(컨센 $0.53·위스퍼 $0.55 대폭 미스)·GAAP 영업이익 $398M(-57%)·마진 1.4%(전년 4.1%)·FCF -$1.09B(CapEx 142% 급증). AH -3%→$362. Tesla, SpaceX 보유지분 $1B 미실현이익 Q2 반영. 머스크 '갈수록 오버랩'—JPMorgan 'TSLA-SPCX 합병 전략적 정합성' 분석 제기."
-      },
-      {
-        "tag": "SPCX",
-        "cls": "new",
-        "h": "Starship Flight 13 오늘 6:45PM EDT·ARK $18M 매수·SPCX $116.72(-13.5% IPO비)·소매 투자자 7월 $3.2억 순매수·락업 8/6",
-        "m": "2026-07-23 · Space.com/Coingape/Crypto.news · Starship Flight 13 오늘(7/23) 6:45PM EDT 재발사—V3 Starlink 위성 20기 최초 탑재, 남아공 지상국 연결 시도. 7/16 Raptor 3 이상 후 재도전. SPCX $116.72(-13.5% IPO $135 비). ARK 인베스트, 주가 하락 구간서 $18M 집중 매수. 소매 투자자 7월 $3.2억 순매수. 락업 해제 8/6(D-14)—오버행 리스크. Q2 실적 8/6(D-14). TSLA-SPCX 합병 설 지속."
+        "h": "Q2 매출 $28.2B(비트)·EPS $0.33 컨센 $0.53 대폭 미스·FCF -$1.09B·TSLA-SPCX 합병 머스크 '오버랩 증가' 직접 언급",
+        "m": "2026-07-22 · Yahoo Finance/Electrek/Seekingalpha · Tesla Q2 2026: 매출 $28.2B(+26% YoY·컨센 $27.6B 비트)·비갭 EPS $0.33(컨센 $0.53 대폭 미스)·FCF -$1.09B(CapEx 급증). AH -3%→$362. SpaceX 보유지분 $1B 미실현이익 Q2 반영. 머스크, TSLA-SPCX 합병 관련 '갈수록 오버랩 증가' 직접 언급. JPMorgan '전략적으로 정합적'. 분석가 1인 합병 확률 90% 상향. Q2 글로벌 배송 역대 최대."
       },
       {
         "tag": "NVDA",
         "cls": "up",
-        "h": "H20 중국 소량 출하 시작 공식 확인·Morgan Stanley 최선호주 유지·Wistron 텍사스 그린필드 가동·AVGO 쇼크 후 반등 주도",
-        "m": "2026-07-23 · Yahoo Finance/NVIDIA Newsroom · NVDA H20 칩 미국 라이선스 취득 후 중국 고객 소량 출하 시작 공식 확인(7/14). CFO '현재 물량 미미·수요 대기 중'. Wistron, 텍사스 포트워스 32.4만㎡ 그린필드 슈퍼칩 공장 가동. AVGO 가이던스 쇼크 후 반도체 저점 매수—Morgan Stanley '셀오프 후 컴펠링 진입점', NVDA 최선호주 재지목. $200 지지 확인."
+        "h": "H20 중국 소량 출하 공식 시작·Wistron 텍사스 그린필드 가동·Jensen 해군대학원 DGX GB300 헌납·Morgan Stanley 최선호주·$200 지지",
+        "m": "2026-07-23 · NVIDIA Newsroom/Yahoo Finance · NVDA H20 칩 라이선스 취득 후 중국 고객 소량 출하 시작 공식 확인. CFO '현재 물량 미미·수요 대기 중'. Wistron, 텍사스 포트워스 32.4만㎡ 그린필드 슈퍼칩 공장 가동. Jensen Huang, 해군대학원 방문·DGX GB300 헌납(7/22). AI 칩 확약 수요 $1조+ 전망(2026~2027). Morgan Stanley: '컴펠링 진입점' 최선호주 유지. $200 지지 확인."
       },
       {
         "tag": "MU",
         "cls": "up",
-        "h": "AMD-Anthropic 2GW MI450 HBM4 추가 수요 확정·Micron $22B Anthropic 계약·NY Fab 착공·FQ4 $50B 불변·HBM 2026 완판",
-        "m": "2026-07-23 · SeekingAlpha/Micron IR · AMD Advancing AI 2026에서 Anthropic 2GW MI450 배포 확정—MI450 HBM4 432GB 탑재로 MU HBM4 수요 추가 확대. Micron 별도로 Anthropic $22B 비취소 메모리+스토리지 공동 개발 계약 유효. HBM 2026 완판·2027-28 구매발주 시작. 7/9 뉴욕 팹 착공. FQ4 가이던스 $50B±$1B 불변. KeyBanc PT $1,400."
+        "h": "FQ3 $41.5B 사상 최대·AMD-Anthropic MI450 HBM4 수요 추가 확정·FQ4 $50B 가이던스 불변·HBM 2026 완판·NY팹 착공",
+        "m": "2026-07-23 · Micron IR/Benzinga/SeekingAlpha · Micron FQ3 2026 매출 $41.46B 사상 최대. AMD-Anthropic 2GW MI450(HBM4 432GB/GPU) 배포 확정으로 MU HBM4 추가 수요 확정. $22B Anthropic 비취소 메모리+스토리지 계약 유효. FQ4 가이던스 $50B±$1B 불변. HBM 2026 완판·2027~28 구매발주 시작. 7/9 뉴욕 팹 착공. UBS '버블 아님—MU 밸류에이션 매력'. BofA PT $1,550 유지."
       },
       {
-        "tag": "칩섹터",
+        "tag": "AVGO",
         "cls": "up",
-        "h": "AMD·MU·SK하이닉스 반등 시도·반도체 장비 SOXX +5.5%·AMD Anthropic 2GW 계약 섹터 재부각·INTC 실적 D-0·Morgan Stanley '진입점'",
-        "m": "2026-07-23 · Yahoo Finance/Bloomberg · AVGO 가이던스 쇼크 이후 AMD·MU·SK하이닉스 반등 시도. 반도체 장비 강세에 SOXX +5.5%. AMD Advancing AI 2026 Anthropic 2GW MI450 계약으로 AI 반도체 섹터 재부각. Morgan Stanley: '패닉 없는 질서정연한 디리스킹—NVDA·AVGO 컴펠링 진입점'. JPMorgan: '반도체 2028년 전 추가 공급 제한적—바닥 형성 가능'. INTC Q2 오늘 AH 주목."
+        "h": "UBS '칩 버블 아니다' 반등 주도·Mizuho PT 상향·AI ASIC 2027년 $1,000억 구조 불변·Standard Chartered 클라우드 계약·46인 Strong Buy",
+        "m": "2026-07-23 · Benzinga/Finviz/CNN · UBS: 'Micron·Broadcom 25% 조정은 버블이 아님—펀더멘털 기반 충분' 의견으로 AVGO·MU 반등 주도. Mizuho, AVGO 목표가 상향. Standard Chartered 클라우드 서비스 신규 계약. CEO Hock Tan '2027년 AI 매출 $1,000억' 불변. Apple 칩 공급 계약 2031년 연장. Meta·Google·ByteDance ASIC 멀티이어 수주. 46인 Strong Buy 평균 PT $545."
       }
     ],
     "KR": [
       {
-        "tag": "코스피",
-        "cls": "up",
-        "h": "7/23 코스피 +3.72% 7,050.45 마감·반도체 주도·알파벳 $205B AI CapEx 수혜·외국인 4조원+ 4일 연속 순매수·7000선 재탈환",
-        "m": "2026-07-23 · 파이낸셜뉴스/이데일리/Bloomberg · KOSPI 7/23 종가 7,050.45(+3.72%)·KOSDAQ +3.89%→780.34. 알파벳 AI CapEx $195-205B 상향이 반도체 섹터 매수세 유발. 삼성전자 +4.22%·SK하이닉스 +5.46% 주도. 외국인 4조691억원 순매수—4거래일 연속 매수 우위. 미-이란 지정학 우려보다 AI 빅테크 CapEx 수혜 기대가 압도."
-      },
-      {
         "tag": "SK하이닉스",
         "cls": "up",
-        "h": "외국인 25거래일 만에 1.3조 집중 매수·알파벳 CapEx에 +5.46%·AMD-Anthropic 2GW MI450 HBM4 추가 수혜·Q2 실적 7/29(D-6)",
-        "m": "2026-07-23 · 다음뉴스/Bloomberg · 외국인, 25거래일 만에 SK하이닉스 1.3조원 집중 매수—수급 전환 신호. 알파벳 AI CapEx 상향에 장 중 +5.46%→193만2000원 고점. AMD Advancing AI 2026: Anthropic 2GW MI450(HBM4 432GB) 배포 확정으로 SK하이닉스 HBM4 추가 수요 확실화. 씨티증권 OP 81조 상향. 7/29 Q2 실적(D-6) OP 63.4조~67조 역대 최대 컨센. Barclays PT $330(+71%)."
+        "h": "ADR IPO $265억(40조원) 알리바바 이어 외국기업 美상장 역대 2위 완료·7/29 Q2 실적(D-6) OP 60조~65조·AMD-Anthropic HBM4 수요 추가 확정",
+        "m": "2026-07-23 · 인베스트조선/TradingKey/Bloomberg · SK하이닉스 미국 나스닥 ADR IPO 완료: 공모가 $149·1억7790만주 발행·총 $265억(약 40조원) 조달—알리바바($250억) 이어 외국기업 미국 상장 역대 2위 규모. 7/29 Q2 실적(D-6) OP 60조~65조 역대 최대 컨센. AMD-Anthropic MI455X(HBM4 432GB/GPU) 2GW 배포 확정→SK하이닉스 HBM4 수요 추가 확정. Barclays PT $330(+71%). ADR 시총 $1조 달성."
       },
       {
         "tag": "삼성전자",
         "cls": "up",
-        "h": "알파벳 CapEx 수혜 +4.22%·Anthropic 2nm 파운드리 빅딜 임박·AMD-Anthropic 계약→HBM4·파운드리 동반 수혜·Q2 잠정실적 7/30(D-7)",
-        "m": "2026-07-23 · 뉴스핌/뉴스1 · 삼성전자, 알파벳 AI CapEx $205B 상향에 +4.22% 강세. HBM4 양산 수율 개선. Anthropic 2nm AI ASIC 파운드리 계약 발표 임박—체결 시 TSMC 양분 구도. AMD-Anthropic 2GW MI450 계약→HBM4 수요 증가로 삼성 파운드리·메모리 동반 수혜. Q2 잠정실적(7/30, D-7) OP 100조원 컨센. 기관 1조8000억원 순매수."
+        "h": "Anthropic 2nm 파운드리 빅딜 임박·7/30 Q2 잠정실적 OP 100조 컨센·AMD-Anthropic 계약→HBM4·파운드리 동반 수혜·기관 대규모 매수",
+        "m": "2026-07-23 · 뉴스핌/뉴스1 · 삼성전자, Anthropic 2nm AI ASIC 파운드리 계약 공식 발표 임박—체결 시 TSMC 양분 구도. 7/30 Q2 잠정실적(D-7) OP 100조원 돌파 컨센. AMD-Anthropic 2GW MI450 계약→HBM4 수요 증가로 삼성 파운드리·메모리 동반 수혜. HBM4 수율 개선 중. 기관 대규모 순매수. 교보 50만·노무라 67만 목표가 유지. 외국인 연속 순매수."
       },
       {
         "tag": "한화에어로스페이스",
         "cls": "up",
-        "h": "AFAS K9MH 최종선정 이번 주 임박·인적분할 8/1(7/30~8/24 거래정지)·무인기 터보팬 엔진 시제품 공개·수주잔고 39.7조 역대 최대",
-        "m": "2026-07-23 · 이데일리/보안뉴스 · 한화에어로스페이스, AFAS MTC 최종 선정 이번 주 내 임박—K9MH vs Rheinmetall 2파전. 낙찰 시 5조원+ 첫 美 방산 완제품 수출. 7/7 저피탐 무인편대기용 터보팬 엔진(KTF)·중고도 무인기 터보프롭 엔진(KTP) 시제품 공개·지상시험 착수. 인적분할 8/1(7/30~8/24 거래정지→재상장). 수주잔고 39.7조 역대 최대."
+        "h": "AFAS K9MH 이번 주 내 최종 선정 임박·Alabama K9 현지 생산 공장 계약·인적분할 8/1(7/30~8/24 거래정지)·수주잔고 39.7조 역대 최대",
+        "m": "2026-07-23 · 이투데이/한국경제 · 한화에어로스페이스, 미 육군 AFAS MTC 최종 선정 이번 주 내 임박—K9MH vs Rheinmetall 2파전. 낙찰 시 5조원+ 첫 美 방산 완제품 수출. Alabama주 K9 현지 생산 공장 계약 체결—현지 부품 조달로 수주 경쟁력 강화. 인적분할 8/1(7/30~8/24 거래정지→재상장). 수주잔고 39.7조 역대 최대. 23인 Strong Buy PT 170.7만원(+91%)."
       },
       {
         "tag": "한미반도체",
         "cls": "up",
-        "h": "2:1 분할 첫날 상한가 후 차익실현 소화·OP마진 51.9% 역대 최대·TC본더 글로벌 71.2%·SK하이닉스 442억 수주·2세대 하이브리드 본더 H2 2026",
-        "m": "2026-07-23 · 비즈니스포스트/이데일리 · 한미반도체, 2:1 주식분할 첫날(7/21) 상한가 +30%→136,200원 후 차익실현 소화 국면. Q2 영업마진 51.9% 역대 최대·TC본더 글로벌 점유율 71.2%. SK하이닉스 TC본더 442억원 신규 수주(9/2 납품). 2세대 하이브리드 본더 H2 2026 프로토타입 예정. HBM4E 물량 증가→추가 수주 가시화."
+        "h": "2:1 분할 후 상한가 +30%·Q2 OP마진 51.9% 역대 최대·TC본더 글로벌 71.2%·SK하이닉스 442억 수주·ADR IPO 성공으로 HBM 추가 발주 가시화",
+        "m": "2026-07-23 · 비즈니스포스트/이데일리 · 한미반도체 2:1 주식분할 후 첫 거래일(7/21) 상한가 +30%→136,200원. Q2 영업이익률 51.9% 역대 최대·TC본더 글로벌 점유율 71.2%. SK하이닉스 TC본더 442억원 신규 수주(납품 9/2). 2세대 하이브리드 본더 H2 2026 프로토타입 예정. SK하이닉스 ADR $265억 역대급 IPO 성공·Q2 실적 7/29(D-6) 임박으로 HBM4E TC본더 추가 발주 가시화."
+      },
+      {
+        "tag": "코스피",
+        "cls": "up",
+        "h": "AMD-Anthropic 계약·AI CapEx 수혜로 반도체 주도 강세·외국인 연속 대규모 순매수·SK하이닉스 ADR 역대급 IPO로 외국인 관심 집중",
+        "m": "2026-07-23 · 파이낸셜뉴스/Bloomberg · AMD-Anthropic 2GW 계약+알파벳·MS AI CapEx 확대 수혜로 코스피 반도체 섹터 강세. 삼성전자·SK하이닉스·한화에어로스페이스 주도. 외국인 대규모 순매수 연속. SK하이닉스 ADR $265억 역대급 IPO 성공으로 글로벌 기관 관심 집중. KOSDAQ도 동반 강세. 미-이란 지정학보다 AI CapEx 수혜 기대가 압도."
       },
       {
         "tag": "반도체시장",
         "cls": "new",
-        "h": "AMD-Anthropic 2GW MI450 계약→HBM4 수요 가속·AI 반도체 매출 2026년 $1조 사상 첫 돌파(BofA $1.3조)·SK하이닉스·삼성 직접 수혜",
-        "m": "2026-07-23 · BofA/AMD뉴스룸/Bloomberg · AMD Advancing AI 2026: Anthropic 2GW MI450(HBM4 432GB) 배포 계약—AI 빅테크 비NVDA GPU 채택 가속, HBM4 수요 확대. 글로벌 AI 반도체 매출 2026년 사상 첫 $1조 돌파·BofA $1.3조 전망. NVDA AI GPU 70-80% 점유 속 AMD 점유 확대. 코스피 반도체 미국 칩 약세 속 상대 강세 차별화 지속—SK하이닉스·삼성전자 AI 빅테크 CapEx 직접 수혜."
+        "h": "AI 반도체 매출 2026년 $1조 첫 돌파 전망·AMD-Anthropic HBM4 2GW→한국 메모리 수혜·UBS '버블 아님' 재확인·SK하이닉스 ADR 역대 2위 IPO",
+        "m": "2026-07-23 · BofA/UBS/Bloomberg · AMD-Anthropic 2GW MI450(HBM4 432GB) 계약으로 AI 반도체 섹터 수혜 가속. BofA '2026년 AI 반도체 매출 사상 첫 $1조 돌파·상단 $1.3조' 전망. UBS '칩 주식 25% 조정은 버블이 아님—펀더멘털 충분'. SK하이닉스 ADR $265억 역대 2위 IPO 성공으로 글로벌 기관 메모리 섹터 재주목. 코스피 반도체 미국 대비 상대 강세 차별화 지속."
       },
       {
         "tag": "고려아연",
         "cls": "up",
-        "h": "갈륨(+27.8%)·게르마늄(+25.4%) 7월 급등 지속·EU 전략비축 수혜·중국 수출통제 비중국 대안·온산 공장 건설",
+        "h": "갈륨(+27.8%)·게르마늄(+25.4%) 7월 급등 지속·EU 전략비축 수혜·중국 수출통제 비중국 대안·온산 갈륨·게르마늄 공장 건설 진행",
         "m": "2026-07-23 · 디지털타임스 · 고려아연, 갈륨(+27.8%)·게르마늄(+25.4%) 7월 급등 지속. 온산 갈륨 회수공장(557억·연산 15.5t·2028H1)·게르마늄 공장(1,400억·연산 12t) 건설 진행. EU 전략비축 광물 지정 수혜. 중국 수출통제 비중국 대안으로 반도체 생태계 수요 집중. AI 반도체 확장→갈륨·게르마늄 구조적 수요 가속."
       }
     ]
