@@ -335,8 +335,8 @@
       {
         "tag": "AMD",
         "cls": "up",
-        "h": "PT 3연타(Rosenblatt $665·UBS $700·KeyBanc $725)·Meta $60B MI450 계약 H2 2026 첫 출하·Q2 EPS 컨센 $1.61(+235% YoY)·8/4 실적",
-        "m": "2026-07-24 · TipRanks/Barchart · AMD, Rosenblatt $665(Top Pick·기존 $490), UBS $700(기존 $670), KeyBanc $725(기존 $530) PT 일제 상향. Meta MI450 GPU(HBM4 432GB·19.6TB/s) $60B 5년 계약, H2 2026 첫 출하 시작. Q2 EPS 컨센 $1.61(+235% YoY), 8/4 실적. AMD 2026 YTD +114%. EPYC Venice—Intel Diamond Rapids 지연으로 고가 서버 시장 확대."
+        "h": "Helios 론칭+Microsoft Azure 첫 배포(7/20 +5%)·Anthropic $5B투자+MI450 2GW공급(7/22)·Rosenblatt $665·UBS $700·KeyBanc $725·Q2가이던스 $11.2B(8/4 실적)",
+        "m": "2026-07-22/20 · CNBC/Bloomberg · AMD, 7/20 Helios 랙스케일 시스템 론칭(Instinct MI455X GPU 72기·HBM4 31TB·EPYC Venice·Pensando·ROCm 통합)—Microsoft Azure AI 추론용 첫 배포 파트너 선정(AMD +5%). 7/22 Anthropic에 $5B 전략 투자 + MI450 시리즈 2기가와트 공급계약(H1 2027 첫 출하·~$30B 이상 규모) + ROCm·Claude 소프트웨어 최적화 협력 협약. Rosenblatt $665(Top Pick)·UBS $700·KeyBanc $725 PT 상향. Q2 실적 8/4·가이던스 $11.2B(+46% YoY). YTD +114%—엔비디아 AI칩 독점 종료 신호."
       },
       {
         "tag": "MU",
@@ -367,8 +367,8 @@
       {
         "tag": "SK하이닉스",
         "cls": "up",
-        "h": "SKHY NASDAQ ADR 7/10 상장 $26.5B(외국 기업 역대 최대)·데뷔 +13% $168·Q2 실적 D-5(7/29 컨콜)·컨센 매출 84.12조·외국인 집중 매수",
-        "m": "2026-07-24 · Bloomberg/CNBC · SK하이닉스, 7/10 NASDAQ ADR(SKHY) 상장—$149 발행가, $168.01 데뷔(+13%), 외국 기업 역대 최대 $26.5B. 7/22 $165.27. Q2 실적 7/28 발표·7/29 컨퍼런스콜. 컨센: 매출 84.12조원·EPS 7,544원. Q1 198% YoY·순이익률 76.7% 역대 최대. 7/24 외국인 1조6053억 순매수(4거래일 1조4340억). 2026 HBM 완판 유지."
+        "h": "Q2 2026 잠정 역대 최대(7/23 발표)·HBM 폭증·H2 더 강한 전망 가이던스·완전 실적 7/28발표·컨콜 7/29·ADR SKHY $168 나스닥 상장·외국인 1조6053억 순매수",
+        "m": "2026-07-24 · KED Global/Bloomberg · SK하이닉스, Q2 2026 잠정 실적 7/23 발표—분기 역대 최대 달성(HBM 수요 폭증·빅테크 AI 투자+주권 AI 국가 수요 확대 주도). 컨센서스 매출 84.12조원 비트 전망. 회사: H2 전망 Q2보다 더 강하다고 밝혀. ADR SKHY, 7/10 나스닥 상장 $149→$168 데뷔(+13%)·외국 기업 역대 최대 $26.5B. 완전 실적 7/28·세그먼트 컨퍼런스콜 7/29. 7/24 외국인 코스피 1조6053억 순매수 1위(4거래일 연속). 2026 HBM 완판 유지."
       },
       {
         "tag": "한미반도체",
