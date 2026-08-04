@@ -255,45 +255,45 @@
     "US": [
       {
         "tag": "AMD",
-        "cls": "up",
-        "h": "Q2 2026 실적 발표 완료·컨센 $11.3B(+47% YoY)·EPS $1.61·9연속 어닝 비트 달성·데이터센터 Instinct+EPYC 동시 가속·Wedbush 2026~2027 성장 상향",
-        "m": "2026-08-04 AH / Benzinga·TradingKey·Wedbush / AMD Q2 FY26 실적 오늘(8/4) AH 발표 완료. 컨센 $11.3B(+47% YoY)·EPS $1.61(+235% YoY). AMD는 직전 8분기 연속 어닝 비트 선례 유지. Q1 데이터센터 $5.8B(+57%), Q2 추가 가속 기대. Wedbush: 2026·2027 데이터센터 매출 기대보다 빠르게 성장 확인. Anthropic MI455X 2GW·Helios 랙 9월 출하 첫 반영 분기. 내일(8/5) 시초가 주목."
+        "cls": "new",
+        "h": "오늘(8/4) AH 5PM ET 실적 발표 임박·컨센 $11.3B(+47% YoY)·EPS $1.61(+235%)·옵션 ±12.28% 이동 반영·데이터센터 $7B+ 기대·Anthropic MI455X 첫 반영 분기",
+        "m": "2026-08-04 AH / Hudson Labs·TIKR·TradingKey / AMD Q2 FY26 실적 오늘(8/4) AH 5PM ET 발표 예정. 컨센 매출 $11.3B(+47% YoY)·EPS $1.61(+235% YoY). Q1 데이터센터 $5.8B(+57%)에서 Q2 $7B+ 추가 가속 기대. Anthropic $5B MI455X 2GW 계약·Helios 랙 수주 첫 반영 분기. 옵션 시장 ±12.28% 이동 반영. AMD 직전 8분기 연속 어닝 비트 선례—컨센 비트+가이던스 상향 시 반도체 섹터 재반등 분기점."
       },
       {
         "tag": "NVDA",
         "cls": "up",
-        "h": "트럼프 중국 수출 라이선스 재개(AI칩 15% 매출 납부)·중국 매출 부분 회복 기대·8/3 +2.93%($206.64)·8/26 Q2 FY27 컨센 $91B·61인 Buy PT $302",
-        "m": "2026-08-04 / Al Jazeera·Built In·TechJournal / 트럼프 행정부가 NVDA·AMD에 중국 AI칩 수출 라이선스를 재부여—조건: 중국 매출의 15%를 미 정부에 납부. 중국 내수 점유율은 로컬 업체(화웨이 등) 확대로 8% 수준에 그칠 전망이나 제로보다 회복 기대. 8/3 종가 $206.64(+2.93%). 8/26 Q2 FY27 실적(컨센 $91B) 다음 핵심 촉매. GB300 Blackwell 수주 약정 $95.2B 불변. 61인 Buy PT $302(+46%)."
+        "h": "Alphabet 2026 CapEx $195~205B 상향 발표·GB300 1,000+ 랙/주 출하 확인·BofA Buy $220·8/26 Q2 FY27 실적 예정·GB300 NVL72 AI 성능 GB200 대비 1.5배",
+        "m": "2026-08-04 / BofA·Finviz·TechJournal / Alphabet(구글)이 2026년 설비투자 계획을 $195~205B로 상향 발표—대부분 AI 데이터센터·네트워크·커스텀 실리콘 투자로 NVDA 직접 수혜. GB300 NVL72 현재 1,000+ 랙/주 출하 중—Microsoft·CoreWeave·Apple 주요 고객. GB300 NVL72는 GB200 대비 AI 추론 성능 1.5배. BofA Vivek Arya Buy $220 유지. 8/26 Q2 FY27 실적(컨센 $91B) 다음 핵심 촉매."
       },
       {
         "tag": "SPCX",
         "cls": "new",
-        "h": "역사상 첫 실적 오늘(8/4) AH 발표·컨센 $6.82B·Starlink 유일 흑자 세그먼트·$116B 락업 8/6(이틀 후)·AI부문 적자 지속·IPO 대비 -30%",
-        "m": "2026-08-04 AH / Motley Fool·Forbes·StartupHub / SPCX 역사상 첫 분기 실적 8/4 AH 발표. 컨센 매출 $6.82B. 투자자 주목 포인트: Starlink 수익성(Q1 OP $1.19B 유일 흑자)·AI 부문 적자 규모(Q1 -$2.47B)·Starship 출하 가이던스. 8/6 $116B 락업 만료(9억주+) 2일 남음—실적 비트+숏커버 vs. AI 적자 실망 분기. 주가 IPO 대비 -30%($107 수준)."
+        "h": "역사상 첫 실적 오늘(8/4) AH 4:30PM ET·Starlink 1,030만 구독자(+105% YoY)·컨센 $6.82B·8/6 9.1억주($116B) 락업 만료·AI 부문 적자·IPO 대비 -52%",
+        "m": "2026-08-04 AH / Motley Fool·Seeking Alpha·TheStreet / SPCX 역사상 첫 분기 실적 오늘(8/4) AH 4:30PM ET 발표. 컨센 매출 $6.82~6.88B(Q1 $4.69B 대비 +45%). Starlink 1,030만 구독자(164개국)·커넥티비티 컨센 $3.82B(+63% EBITDA 마진). AI 부문 컨센 $2.18B(Q1 -$2.47B 적자 지속). 8/6 역사상 최대 9.1억주($116B) 락업 만료 D-2. 주가 IPO 대비 -52%($108 수준). Morgan Stanley PT $300."
       },
       {
         "tag": "MU",
-        "cls": "up",
-        "h": "HBM4 고용량 출하 지속·CapEx $20B+ HBM 증설·2026년 공급 전량 Sold Out·Morgan Stanley 최선호 반도체주·하이퍼스케일러 CapEx $600B+ 직결",
-        "m": "2026-08-04 / Seeking Alpha·TrendForce·Morgan Stanley / MU HBM4 리드 AI 가속기 플랫폼 고용량 출하 중. CapEx $20B+(FY26) 증설 확정—2026년 HBM 공급 전량 사전 계약 완료. Q3 CapEx $7.83B 집중 투자. Morgan Stanley 반도체 최선호주 선정. HBM 시장 2028년 $100B 성장 경로. AMD 실적 비트 시 AI 메모리 수요 동조 상승 기대."
+        "cls": "down",
+        "h": "장전 -4%·삼성 실망 실적+중국 DRAM 경쟁 우려 동조·ThinkEquity PT $900 상향·HBM 수급부족 구조·반도체 섹터 전반 약세",
+        "m": "2026-08-04 / StocksToTrade·ThinkEquity·TrendForce / MU 장전 -4% 연장 하락—삼성전자 실망 실적 발표+중국 DRAM 업체(CXMT) 경쟁 심화 우려 동조 매도. ThinkEquity Ashok Kumar Buy 유지·PT $900으로 상향(장기 HBM 수요 구조 근거). 2026년 HBM 전량 사전 계약 완료·공급부족 2027년+ 지속 펀더멘털 불변. AMD Q2 비트 시 AI 메모리 수요 재확인 기대."
       },
       {
         "tag": "AVGO",
-        "cls": "down",
-        "h": "Q3 FY26 AI $16B 가이던스 미스(컨센 $17.2B) 여파 지속·Goldman Conviction List 제외·Apple $30B+삼성 $200B 중장기 팩터 불변",
-        "m": "2026-08-04 / Yahoo Finance·Goldman Sachs·TradingKey / AVGO Q3 FY26 AI 가이던스 $16B(컨센 $17.2B 하회)—반도체 섹터 하락 주요 원인. Goldman Sachs Conviction Buy List에서 제외(Buy 유지). AI ASIC 시장 점유율 70~80% 독점 구조·Apple $30B 멀티년 계약·삼성 $200B MOU 장기 팩터 불변. AMD 실적 비트+분기 가이던스로 투심 반전 여부 주목."
+        "cls": "up",
+        "h": "Apple 공급계약 2031년까지 연장·규모 $30B+·Goldman Conviction List 제외 Buy 유지·Q3 AI $16B·AI ASIC 점유 70~80% 불변",
+        "m": "2026-08-04 / Yahoo Finance·Goldman Sachs / AVGO Apple 공급계약을 2031년까지 연장 확정—FBAR 필터+커스텀 AI칩 포함 $30B+ 규모 멀티년 계약. Goldman Sachs Conviction Buy List 제외 후에도 Buy 유지. Q3 FY26 AI 반도체 가이던스 $16B(컨센 $17.2B 하회) 여파 지속이나 Apple $30B+삼성 $200B MOU 중장기 팩터 불변. AI ASIC 점유 70~80% 독점 구조 유지."
       },
       {
         "tag": "TSLA",
         "cls": "down",
-        "h": "Q2 어닝 미스 후 월간 -26.83%·Cybercab 볼륨 생산 기가팩토리 텍사스 가속·1.2M대 안전 조사·24/7 Wall St. PT $386(+24%)·AMD 실적이 기술주 투심 방향 결정",
-        "m": "2026-08-04 / 24/7 Wall St.·TradingKey / TSLA Q2 EPS $0.33(컨센 $0.53 대비 -38% 미스) 이후 월간 -26.83% 하락. Cybercab 볼륨 생산·Tesla Semi·Megapack 3·Optimus Gen 1 등 4대 생산 램프가 2026년 하반기 진행 중. 1.2M대 NHTSA 안전 조사 진행. 24/7 Wall St. 12개월 PT $386(+24% 업사이드). AMD 실적 비트 시 기술주 투심 반전 기대."
+        "h": "포르투갈 7월 등록 -70%·유럽 수요 우려 심화·저가형 생산 일정 앞당겨·NHTSA 1.2M대 조사·24/7 Wall St. PT $386(+24%)",
+        "m": "2026-08-04 / Forbes·24/7 Wall St.·TradingKey / TSLA 포르투갈 7월 차량 등록이 전년비 -70% 급감—유럽 수요 둔화 신호. Q2 EPS $0.33(컨센 $0.53 대비 -38% 미스) 후 월간 -26.83% 하락 지속. 저가형 모델 볼륨 생산 예정 일정 앞당겨 진행 중(호재). Cybercab·Tesla Semi·Optimus Gen 1 생산 램프 H2 2026 진행. NHTSA 1.2M대 안전 조사 지속. 24/7 Wall St. 12개월 PT $386(+24%)."
       },
       {
         "tag": "INTC",
-        "cls": "new",
-        "h": "트럼프 중국 AI칩 수출 라이선스 재개·매출 15% 납부 조건·TeraFab $20B 18A 공정 장기 팩터·중국 수요 재개 시 추가 수혜",
-        "m": "2026-08-04 / Built In·TechJournal·Yahoo Finance / 트럼프 행정부 NVDA·AMD 중국 수출 라이선스 재부여에 INTC도 수혜 예상. 조건: 중국 매출 15% 미 정부 납부. 장기 팩터: SpaceX·Tesla·xAI TeraFab $20B 18A 공정 합류 불변. AMD Q2 실적 비트 확인으로 AI CapEx 사이클 지속 시 INTC 파운드리 수주 연동."
+        "cls": "down",
+        "h": "DC·AI부문 신규 감원 단행·Tan 총 25,000명+ 구조조정·YTD +317% 구조개혁 기대 불변·주가 -2.12%",
+        "m": "2026-08-04 / Benzinga·Kore1·Timothy Sykes / INTC 데이터센터·AI 부문에 신규 감원 단행—Lip-Bu Tan CEO가 2025년 취임 이후 누적 25,000명+ 감원(기존 125,000명→100,000명 미만). Q1 2026 데이터센터 세그먼트 $5.05B(+22% YoY). 8/3 -9.7% 급락 이후 8/4 -2.12% 연장 약세. 장기 팩터: SpaceX·Tesla·xAI TeraFab $20B 18A 공정 수주 불변. YTD +317% 구조개혁 기대 유지."
       }
     ],
     "KR": [
@@ -312,8 +312,8 @@
       {
         "tag": "SK하이닉스",
         "cls": "up",
-        "h": "Q2 매출 79.3조·OP 60.5조 역대 최대·HBM4 점유율 58%·HBM4E 샘플 공급 완료·2027년 양산·MU CapEx $20B 증설로 HBM 수요 동반 확인",
-        "m": "2026-08-04 / SK하이닉스 뉴스룸·BofA·TrendForce / Q2 2026 매출 79.3조(+256.8% YoY)·영업이익 60.5조(+557.2% YoY) 역대 최대. HBM4 H1 양산 출하·H2 본격 확대·점유율 58% 유지. HBM4E 고객사 샘플 공급 완료·2027년 양산 목표. MU HBM4 CapEx $20B+ 증설 확인—HBM 시장 수요 동반 확대 신호. AMD 실적 비트 시 동조 반등."
+        "h": "샌디스크와 HBF(High Bandwidth Flash) 512GB/3.0TB/s 세계 첫 표준 FMS 2026 공개·UCIe 개방형 표준·DRAM HBM 이어 낸드 AI 메모리 패권 선점",
+        "m": "2026-08-04 / SK하이닉스 뉴스룸·파이낸셜뉴스·헤럴드경제 / SK하이닉스가 샌디스크(WD)와 함께 차세대 AI 스토리지 기술 HBF(High Bandwidth Flash) 세계 최초 표준 규격을 FMS 2026(8/4~8/6, 미국 캘리포니아 산타클라라)에서 공개. 최대 용량 512GB·최대 대역폭 3.0TB/s·UCIe 인터페이스(GPU·CPU 범용 호환) OCP 개방형 표준. DRAM 기반 HBM에 이어 낸드 기반 AI 메모리도 표준화 선점. 2025년 8월 협력→2026년 2월 컨소시엄 출범→오늘 첫 결과물."
       },
       {
         "tag": "삼성전자",
@@ -336,8 +336,8 @@
       {
         "tag": "반도체시장",
         "cls": "up",
-        "h": "글로벌 반도체 $1조 첫 돌파 가시화·하이퍼스케일러 CapEx 2027년 $1.2조 전망·HBM 시장 2028년 $100B·AI 메모리 공급부족 3년+",
-        "m": "2026-08-04 / Morgan Stanley·BofA·TrendForce·KB증권 / 2026년 글로벌 반도체 매출 사상 첫 $1조 돌파 가시화. 하이퍼스케일러 AI CapEx 2026년 $600B+·2027년 $1.2조 전망(Morgan Stanley). HBM 시장 2028년 $100B 성장 경로(SK하이닉스 58%·MU 21%). KB증권: AI 메모리 수요 충족률 60%—공급부족 최소 3년 지속. AMD 실적이 AI CapEx 사이클 지속 확인 핵심 데이터."
+        "h": "글로벌 반도체 $1조 첫 돌파 확정·Alphabet CapEx $195~205B 상향·하이퍼스케일러 2027년 $1.2조 전망·AI 메모리 공급부족 3년+",
+        "m": "2026-08-04 / Barchart·Morgan Stanley·BofA / 2026년 글로벌 반도체 매출 15개월 연속 최고 기록 경신—사상 첫 $1조 돌파 확정(Barchart). Alphabet 2026 CapEx $195~205B 상향으로 AI 데이터센터 투자 사이클 재확인. 하이퍼스케일러 CapEx 2026년 $600B+·2027년 $1.2조 전망(Morgan Stanley). HBM 시장 2028년 $100B(SK하이닉스 58%·MU 21%). AI 메모리 수요 충족률 60%—공급부족 최소 3년 지속."
       }
     ]
   },
