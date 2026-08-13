@@ -298,102 +298,102 @@
   "NEWS": {
     "US": [
       {
-        "tag": "INTC",
+        "tag": "SPCX",
         "cls": "up",
-        "h": "인텔 $20B 증자 완료·Tesla 첫 공식 외부 14A 파운드리 고객 확인·Q2 매출 $16.1B·EPS 컨센 +100%",
-        "m": "2026-08-11~13 / TechTimes·TradingKey·Benzinga / 인텔 $95/주 $20B 증자 완료(수요 $100B 초과). Q2 매출 $16.1B(컨센 $14.42B 서프라이즈)·EPS 42c(컨센 21c 대비 +100%)—2011년 이후 최고 성장률. 특히 Tesla가 인텔 파운드리 14A(1.4nm) 공정의 첫 번째 공식 외부 고객으로 확인—파운드리 실질 검증. 데이터센터·AI 부문 +59% YoY. Dan Niles '대형 파운드리 딜 임박' 예고 지속."
-      },
-      {
-        "tag": "AVGO",
-        "cls": "down",
-        "h": "AVGO Q4 AI 가이던스 $16B 미스→SOX 이틀 조정 후 반도체주 손실 축소 회복세·CEO '2027년 AI $100B'",
-        "m": "2026-08-12~13 / Yahoo Finance·TradingView·Benzinga / 브로드컴 Q4 AI 가이던스 $16B(추정 $17.2B 하회)→SOX -6.3% 셀오프 이틀째. 그러나 8/13 장중 반도체주 손실 축소 회복세—INTC·AMD·MU 낙폭 완화. CEO Hock Tan '2027년 AI $100B 이상' 중장기 확신 유지. AMAT와 AI 첨단 패키징 R&D 파트너십 체결."
-      },
-      {
-        "tag": "AMAT",
-        "cls": "new",
-        "h": "Applied Materials Q3 FY2026 오늘(8/13) 4:30PM ET 실적 발표·EPS $3.36·매출 $9B·4분기 연속 비트 전망",
-        "m": "2026-08-13 / Blockonomi·Benzinga·TradingKey / Applied Materials가 오늘(8/13) 4:30PM ET Q3 FY2026 실적 발표 예정. 컨센서스: EPS $3.36(+35% YoY)·매출 $9B(+23% YoY). 최근 4분기 연속 어닝 비트 이력—평균 서프라이즈 +6%. 반도체 장비 30% 성장 가이던스 vs 현재가 $539(연고점 $739 대비 -27%). AVGO와 AI 패키징 R&D 파트너십 체결. 결과에 따라 섹터 방향성 결정."
+        "h": "SpaceX·NVDA 독점 파트너십·Starmind 궤도 AI DC·2027년 위성 발사·SPCQ ETF +21% 급등",
+        "m": "2026-08-04~06 / Forbes·Motley Fool·TechTimes / SpaceX 첫 실적 발표에서 NVIDIA Vera Rubin GPU를 Starmind 궤도 AI 데이터센터 독점 칩 공급사로 확정. 머스크 '베라 루빈 최고 아키텍처—NVDA 독점'. 2027년 초 프로토타입 위성 2기 발사 후 대형 상업 콘스텔레이션 구축 계획. SPCQ ETF +21% 급등. AMD -9% 여파."
       },
       {
         "tag": "NVDA",
         "cls": "up",
-        "h": "NVDA $5B AI 인프라 지분 투자·BofA 반도체 $1.3T 상향·8/26 FQ2 D-13·61인 Strong Buy 유지",
-        "m": "2026-08-13 / NVDA Newsroom·BofA·CNBC / NVIDIA가 Lancium·Firmus 등 AI 인프라 기업에 $5B 지분 투자—칩 판매에서 AI 인프라 생태계 파이낸싱으로 전략 확장. BofA 글로벌 반도체 $1.0T→$1.3T로 $300B 상향(2030년 $2T). Goldman·BlackRock·KKR $500B AI 파이낸싱 딜 지속. FQ2 실적(~$91B) 8/26 D-13. 61인 Strong Buy·PT $302.83."
-      },
-      {
-        "tag": "MU",
-        "cls": "up",
-        "h": "마이크론 HBM4 $1B+ 이미 출하·Vera Rubin 3사 공급 확인·2.8TB/s 대역폭·Q4 FY26 $50B 역대 최고",
-        "m": "2026-08-12~13 / Micron IR·JPMorgan·Yahoo Finance / 마이크론 HBM4 누적 출하 $1B+ 달성—HBM3E 12-hi 대비 2배 빠른 램프업. NVDA Vera Rubin용 HBM4 마이크론·SK하이닉스·삼성 3사 공급 동시 확인. 대역폭 2.8TB/s(+2.3x vs HBM3E)·전력효율 +20%. HBM 시장점유율 21%. Q4 FY2026 가이던스 $50B 분기 역대 최고. Citi PT $1,150."
+        "h": "NVDA GB300 NVL72 출하 +129% YoY·SpaceX Starmind 독점·BofA 반도체 $1.3T·FQ2 실적 8/26 D-13",
+        "m": "2026-08-05~13 / wccftech·BofA·NVDA Newsroom / NVDA Blackwell Ultra GB300 NVL72 출하량 +129% YoY 급증(MS·Amazon·Meta·Google 전방위 도입). SpaceX Starmind 궤도 AI DC 독점 파트너십 확인. BofA 반도체 시장 $1.0T→$1.3T 상향. 하이퍼스케일러 CapEx $1.2T(+71% YoY). 8/26 FQ2 실적(~$91B) D-13—61인 Strong Buy·PT $302.83."
       },
       {
         "tag": "AMD",
         "cls": "up",
-        "h": "Rosenblatt AMD '탑픽' PT $665·UBS PT $700·JPMorgan AI compute 탑픽·반도체 조정 낙폭 축소",
-        "m": "2026-08-12~13 / Yahoo Finance·Rosenblatt·JPMorgan / Rosenblatt Securities AMD 탑픽, PT $490→$665 상향. UBS PT $700. JPMorgan AI compute 탑픽 4종(NVDA·AVGO·AMD·INTC) 포함. Q2 FY2026 데이터센터 $6.7B(+107% YoY) 역대 최대 펀더멘털 견고. AVGO 셀오프 이후 낙폭 완화하며 반도체 섹터 회복 동참."
+        "h": "AMD Helios 풀프로덕션·72 MI455X 3엑사플롭스·OpenAI+Anthropic+Meta 14GW 수주·$5B Anthropic 투자 검토",
+        "m": "2026-07~08 / iTWire·Benzinga·CXODigitalPulse / Advancing AI 2026 발표: Helios 랙스케일(72 MI455X GPU·18 6세대 EPYC 'Venice')이 풀프로덕션 돌입·3엑사플롭스·HBM4 31TB·$525만/랙. Anthropic 2GW·OpenAI+Meta 12GW 합산 14GW 확약 수주. AMD $5B Anthropic 투자 검토. 오픈 AI 인프라 전략이 NVDA 독점 대항마로 부상."
       },
       {
-        "tag": "TSLA",
+        "tag": "AMAT",
+        "cls": "new",
+        "h": "Applied Materials Q3 오늘(8/13) 실적 발표·EPS $3.36·매출 $9B·5분기 연속 비트 전망·AVGO AI 패키징 파트너",
+        "m": "2026-08-13 / TradingKey·Blockonomi·Seeking Alpha / Applied Materials Q3 FY2026 실적 오늘(8/13) 4:30PM ET 발표. 컨센서스 EPS $3.36(+35.5% YoY)·매출 $9B(+23% YoY). 4분기 연속 비트 이력·평균 서프라이즈 +6%. AVGO와 AI 첨단 패키징 R&D 파트너십 체결. 현재가 $539(고점 $739 대비 -27%)—실적 반등 촉매 기대."
+      },
+      {
+        "tag": "MU",
         "cls": "up",
-        "h": "Tesla Intel 14A 첫 외부 파운드리 고객 확인·Terafab $16.8B 착공·Cybercab $3만 이하 2027년 전 확정",
-        "m": "2026-08-10~13 / 247WallSt·TechTimes / Tesla가 인텔 파운드리 14A(1.4nm) 공정의 첫 번째 공식 외부 고객으로 확인—TSLA+SpaceX AI 칩 내재화와 Intel Foundry 실질 검증이 교차. 텍사스 $16.8B 'Terafab' 착공(Optimus·Cybercab·우주 DC용 AI칩 자체 생산; $119B 다단계). Cybercab $3만 이하 2027년 전 확정. TSLA 5거래일 연속 상승."
+        "h": "마이크론 2026년 全 HBM 공급 고정가 완전 계약·HBM4 고볼륨 생산·Vera Rubin 3사 공급·Q4 $50B",
+        "m": "2026-08-13 / Micron IR·Tom's Hardware·Motley Fool / 마이크론 '2026년 全 HBM 공급량 고정가 계약 완료'—AI 수요가 공급 압도해 수익성 구조적 확보. HBM4 고볼륨 생산 달성(2.8TB/s·+2.3배 대역폭·+20% 전력효율). NVDA Vera Rubin 3사(삼성·SK하이닉스·마이크론) 공급 확인. Q4 FY2026 가이던스 $50B 분기 역대 최고·Citi PT $1,150."
+      },
+      {
+        "tag": "AVGO",
+        "cls": "down",
+        "h": "AVGO Q4 AI 가이던스 $16B 미스·SOX 이틀 조정 후 반도체주 회복세·CEO '2027년 AI $100B'·AMAT AI 패키징 파트너",
+        "m": "2026-08-12~13 / Yahoo Finance·TradingView·Benzinga / 브로드컴 Q4 AI 가이던스 $16B(추정 $17.2B 하회)→SOX -6.3% 셀오프. 8/13 반도체주 손실 축소 회복세—INTC·AMD·MU 낙폭 완화. CEO Hock Tan '2027년 AI $100B 이상' 확신 유지. AMAT와 AI 첨단 패키징 R&D 파트너십 체결."
+      },
+      {
+        "tag": "INTC",
+        "cls": "up",
+        "h": "인텔 $20B 증자 완료·Tesla 첫 14A 파운드리 외부 고객·Q2 매출 $16.1B·EPS 컨센 +100%",
+        "m": "2026-08-11~13 / TechTimes·TradingKey·Benzinga / 인텔 $20B 증자 완료(수요 $100B 초과). Q2 매출 $16.1B(컨센 $14.42B 서프라이즈)·EPS 42c(컨센 21c 대비 +100%). Tesla가 인텔 파운드리 14A(1.4nm) 첫 공식 외부 고객 확인—파운드리 실질 검증. 데이터센터·AI 부문 +59% YoY. Dan Niles '대형 파운드리 딜 임박' 예고."
       },
       {
         "tag": "반도체시장",
         "cls": "up",
-        "h": "Deloitte AI칩 $500B·JPMorgan $1.68T·하이퍼스케일러 $500B CapEx·반도체 사상 첫 $1T 돌파",
-        "m": "2026-08-13 / Deloitte·JPMorgan·BusinessWire / Deloitte AI 반도체 시장 2026년 $500B(초기 $300B 대비 대폭 상향). JPMorgan 글로벌 반도체 2026년 $1.68T(+111% YoY)·2027년 $2.25T(+34%). 하이퍼스케일러 4사 CapEx $500B+ 집행. BofA $1.3T 상향. SMCI FY2027 가이던스 $65~72B(추정 +38% 충격). AI칩 슈퍼사이클 2026년 사상 첫 $1T 돌파."
+        "h": "BofA 하이퍼스케일러 CapEx $1.2T·JPMorgan 반도체 $1.68T·글로벌 반도체 $120.6B 월 역대 최고",
+        "m": "2026-08-13 / BofA·JPMorgan·Benzinga / BofA 하이퍼스케일러 4사 CapEx 향후 12개월 $1.2T(+71% YoY, 기존 $700B 대비 대폭 상향). JPMorgan 글로벌 반도체 2026년 $1.68T(+111% YoY)·2027년 $2.25T(+34%). 글로벌 반도체 판매 5월 $120.6B(+104.1% YoY)—월간 역대 최고. AI 슈퍼사이클—메모리·네트워킹·장비·파운드리 전방위 수혜."
       }
     ],
     "KR": [
       {
         "tag": "삼성전자",
         "cls": "up",
-        "h": "삼성전자 Q2 배당 374원 8월 지급·연매출 333조 OP 43조 역대 최고·HBM4 수율 80%·이틀 연속 급등",
-        "m": "2026-08-13 / 파이낸셜뉴스·Samsung IR·서울경제 / 삼성전자 Q2 FY2026 현금배당 보통주·우선주 각 374원 의결—8월 중 지급 예정. 연간 기준 매출 333조(역대 최고)·영업이익 43조 달성. HBM4 수율 80% 확인. 8/13 +5.28% 이틀 연속 급등. 특별배당 포함 3개년 주주환원 계획 8월 말 발표 임박. 목표가 50만원 지속."
+        "h": "삼성전자 HBM4 수율 85% 목표 상향·Q3 매출 3배 예고·연간 $100억 전망·목표가 50만원",
+        "m": "2026-08-09~13 / 딜사이트·디지털데일리·서울경제 / 삼성전자 HBM4용 D램 연말 수율 목표를 원래 60%→85%로 대폭 상향. 8/9 '황금 수율(80%)' 달성 보도. Q3 HBM4 매출 전분기 대비 3배 이상 급증 예고(7/30 컨콜). 신규 메모리 제품 이례적 연간 $100억 달성 전망. 특별배당 포함 주주환원 계획 8월 말 발표 임박. 목표가 50만원 지속."
       },
       {
         "tag": "SK하이닉스",
         "cls": "up",
-        "h": "SK하이닉스 +7.88% 이틀 연속 강세·Vera Rubin HBM4 70% 점유·Temasek 저평가 분석·분기배당 375원",
-        "m": "2026-08-13 / 뉴시스·TradingKey·UBS / SK하이닉스 8/13 +7.88% 1,622,500원—AI 메모리 랠리 주도. NVDA Vera Rubin HBM4 점유율 70% 유지(UBS 전망). Temasek 'SK하이닉스 심각한 저평가, $170 회복 가능' 분석 공개. 분기배당 375원 확정. HBM4 3사 공급 중 최대 기여."
+        "h": "SK하이닉스 +7.88% 이틀 연속 강세·HBM4 Vera Rubin 70% 점유·Temasek 저평가 분석·분기배당 375원",
+        "m": "2026-08-13 / 뉴시스·TradingKey·UBS / SK하이닉스 8/13 +7.88% 1,622,500원—AI 메모리 랠리 주도. NVDA Vera Rubin HBM4 점유율 70% 유지(UBS 전망). 싱가포르 국부펀드 Temasek 'SK하이닉스 심각한 저평가, $170 회복 가능' 분석 공개. 분기배당 375원 확정. HBM4 3사 공급 중 최대 기여."
       },
       {
         "tag": "주주환원",
         "cls": "up",
         "h": "삼성 Q2 배당 374원 8월 지급·특별배당 발표 임박·SK하이닉스 100조 확정 예정·합산 300조 역대 최대",
-        "m": "2026-08-12~13 / 아시아비즈니스데일리·서울경제·Samsung IR / 삼성전자 Q2 현금배당 374원 8월 지급 의결 확정. 특별배당 포함 3개년 주주환원 계획 8월 말 공식 발표 임박('믿고 기다려달라' 재확인). SK하이닉스 100조 주주환원(FCF 50% 정책) 올해 말 확정 예정. 합산 300조원($217B) 역대 최대 배당 이벤트—외국인 순매수 지속."
+        "m": "2026-08-12~13 / 아시아비즈니스데일리·서울경제·Samsung IR / 삼성전자 Q2 현금배당 374원 8월 지급 의결 확정. 특별배당 포함 3개년 주주환원 계획 8월 말 공식 발표 임박. SK하이닉스 100조 주주환원(FCF 50% 정책) 올해 말 확정. 합산 300조원($217B) 역대 최대 배당 이벤트—외국인 순매수 지속."
       },
       {
         "tag": "한화에어로스페이스",
         "cls": "up",
         "h": "한화에어로스페이스 목표가 167만원·35조 수주 파이프라인·미국 SPH K9MH 제원 공개·숏리스트 임박",
-        "m": "2026-08-13 / 뉴스핌·TheGuru / 증권가 목표가 167만원(현재가 대비 +44% 상방). 스페인·중동·동유럽 포함 35조원 수주 파이프라인. Q2 영업이익 1.37조(+58.5%) 역대 최대·지상방산 OPM 25.3%. 미군 SPH-M(500문·10조원) K9MH 제원 최초 공개·미국 현지 탄약공장 $2B 투자 결정. 숏리스트 발표 임박."
+        "m": "2026-08-13 / 뉴스핌·TheGuru / 증권가 목표가 167만원(현재가 대비 +44% 상방). 스페인·중동·동유럽 포함 35조원 수주 파이프라인. Q2 OP +58.5% 역대 최대·지상방산 OPM 25.3%. 미군 SPH-M(500문·10조원) K9MH 제원 최초 공개·미국 현지 탄약공장 $2B 투자. 숏리스트 발표 임박."
       },
       {
         "tag": "한미반도체",
         "cls": "up",
-        "h": "한미반도체 '한미 USA' 산호세 설립 완료·CHIPS Act 4Q 현지 판매 본격화·HBM4 3사 공급 추가 발주 기대",
+        "h": "한미반도체 '한미 USA' 산호세 설립 완료·CHIPS Act 4Q 현지 판매·HBM4 3사 TC본더 추가 발주 기대",
         "m": "2026-08-13 / AlphaSquare·Daum Finance / '한미 USA' 캘리포니아 산호세 $150만 출자 설립 완료. 4분기 본격 운영—CHIPS Act AI DC 장비 미국 현지 판매 가속. TC본더 71.2% 독점·창사 최대 442억 수주. SK하이닉스·삼성·마이크론 HBM4 3사 공급 확정→TC본더 추가 발주 기대."
       },
       {
         "tag": "SOX조정",
         "cls": "down",
-        "h": "AVGO 가이던스 미스 이틀째→반도체주 장중 손실 축소 회복세·AMAT 오늘 실적 발표·국내 이틀 연속 차별 강세",
+        "h": "AVGO 가이던스 미스 이틀째→반도체주 장중 손실 축소 회복세·AMAT 오늘 실적 발표·국내 차별 강세",
         "m": "2026-08-12~13 / TradingView·Yahoo Finance / 브로드컴 Q4 가이던스 미스로 SOX 이틀째 조정 후 8/13 장중 손실 축소 회복세. INTC·AMD·MU 낙폭 완화. AMAT 오늘(8/13) 4:30PM ET 실적 발표—결과에 따라 섹터 방향성 결정. 국내 삼성·SK하이닉스는 이틀 연속 강세로 미국 셀오프 차단."
       },
       {
         "tag": "KOSPI",
         "cls": "new",
-        "h": "코스피 반도체+방산 이원화 강세·비반도체 순환매 본격화·삼성+하이닉스 시총 비중 48.95%로 분산",
-        "m": "2026-08-13 / 뉴스핌·한국경제 / 코스피 반도체(삼성+5%·하이닉스+7%)와 방산(한화에어로스페이스·LIG넥스원) 이원화 강세. 8월 들어 비반도체 업종 순환매 본격화—삼성+SK하이닉스+삼성전자우 합산 시총 비중 48.95%(6월 58.9% 대비 -10%p). 코스피 저변 확대·건전한 분산 상승세."
+        "h": "코스피 반도체+방산 이원화 강세·Temasek 삼성+하이닉스 투자 검토 보도·비반도체 순환매 본격화",
+        "m": "2026-08-13 / 뉴스핌·한국경제·Investing.com / 코스피 반도체(삼성+5%·하이닉스+7%)와 방산(한화에어로스페이스·LIG넥스원) 이원화 강세. 싱가포르 국부펀드 Temasek 삼성전자·SK하이닉스 투자 검토 보도로 외국인 수급 가속. 비반도체 업종 순환매—삼성+SK하이닉스 시총 비중 48.95%(6월 58.9%→-10%p)."
       },
       {
         "tag": "HBM",
         "cls": "up",
-        "h": "HBM4 3사(삼성·SK·마이크론) 고볼륨 출하 동시 확인·$1B+ 선출하·Vera Rubin 2.8TB/s 대역폭",
-        "m": "2026-08-13 / Micron IR·SK하이닉스·Samsung / NVDA Vera Rubin용 HBM4 마이크론($1B+)·SK하이닉스·삼성 3사 고볼륨 출하 동시 확인. HBM4 대역폭 2.8TB/s(HBM3E 대비 +2.3배)·전력효율 +20%. ASP GB당 $31~32(HBM3E 2배) 구조적 상승 지속. AI 메모리 슈퍼사이클 2026년 최고조."
+        "h": "HBM4 3사(삼성·SK·마이크론) 고볼륨 출하·삼성 Q3 3배 급증 예고·2.8TB/s·ASP HBM3E 2배",
+        "m": "2026-08-13 / Micron IR·SK하이닉스·딜사이트 / NVDA Vera Rubin용 HBM4 마이크론·SK하이닉스·삼성 3사 고볼륨 출하 확인. 삼성전자 Q3 HBM4 매출 전분기 대비 3배 급증 예고·연간 $100억 달성 전망. HBM4 대역폭 2.8TB/s(+2.3배)·ASP GB당 $31~32(HBM3E 2배). AI 메모리 슈퍼사이클 최고조."
       }
     ]
   },
