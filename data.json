@@ -298,10 +298,10 @@
   "NEWS": {
     "US": [
       {
-        "tag": "SPCX",
-        "cls": "up",
-        "h": "SpaceX+Tesla Terafab $16.8B AI 반도체 공장 착공·Q2 매출 +92% YoY·락업 만료 극복 +15.8%·Argus 업그레이드",
-        "m": "2026-08-06~10 / GURUFocus·TimothySykes·Argus / SpaceX·Tesla 공동 Texas Grimes County Terafab AI 반도체 슈퍼팩토리 $16.8B 착공 발표—2027년 1차 생산·장기 $119B 투자 계획. Q2 매출 $7.8B(+92% YoY)·AI 클라우드 계약 $20.8B·AI 매출 $2.56B. 8/8 IPO 후 최대 락업 만료(9억주 풀림)에도 +15.8% 급등. Argus 업그레이드 '머스크에 역베팅 말라'. 28인 Buy·PT $231.40."
+        "tag": "AMAT",
+        "cls": "new",
+        "h": "어플라이드머티리얼즈 Q3 FY2026 오늘(8/13) 장마감 후 발표·컨센서스 매출 $9B(+23.3% YoY)·EPS $3.36(+35.5%)·반도체 장비 30%+ 성장 가이던스",
+        "m": "2026-08-13 / Blockonomi·TradingKey·Seeking Alpha / AMAT Q3 FY2026 실적 오늘(8/13) 장마감 후 발표. 컨센서스 매출 $9B(+23.3% YoY)·비GAAP EPS $3.36(+35.5% YoY). 반도체 장비 30%+ 성장·패키징 50%+ 가이던스 유지. 4분기 연속 어닝 비트·평균 서프라이즈 +6% 이력. AMAT 현재 $539(YTD 고점 $739.67 대비 -27%). 28인 Strong Buy·PT $635.41. 오늘 실적으로 반도체 장비 AI 수요 강도 재확인 기대."
       },
       {
         "tag": "NVDA",
@@ -312,8 +312,8 @@
       {
         "tag": "TSLA",
         "cls": "new",
-        "h": "Tesla+SpaceX Terafab $16.8B AI 반도체 공장 공동 투자·Grok 4.6·4.7 연속 출시 임박·주가 반등세",
-        "m": "2026-08-06~10 / GURUFocus·TeslaOracle·TradingKey / Tesla·SpaceX Terafab AI 반도체 슈퍼팩토리($16.8B) 공동 투자—Texas Grimes County·2027년 생산 목표. Optimus 로봇·사이버캡·SpaceX DC 칩 자체 공급 목표. Musk 'Grok 4.6·4.7 수주 안에 연속 출시'—Tesla 차량 Grok AI OTA 탑재 지속 개선. 7/29 저점 이후 반등 진행·YTD -24.47%."
+        "h": "Musk 'Terafab 완공 시 Pentagon 50배 규모' 공개·AI 컴퓨팅 전용·FSD v14.1 Lite 출시·Cybercab Starlink 탑재·8/13 4주 만의 주간 반등 진행 중",
+        "m": "2026-08-13 / Stocktwits·TeslaOracle / Musk Terafab 완공 시 Pentagon 50배 크기 공개—SpaceX 우주선 AI 컴퓨팅 전용 공급 목표. FSD v14.1 Lite 출시·Cybercab Starlink 탑재. 8/13 4주 만의 주간 첫 상승 진행 중. Grimes County·$16.8B 1단계·2027년 생산 목표 변동 없음. Musk 'Grok 4.7 수주 안에 출시'. YTD -29%·Mag7 내 최저 성과 상태."
       },
       {
         "tag": "AMD",
@@ -386,8 +386,8 @@
       {
         "tag": "KOSPI",
         "cls": "new",
-        "h": "코스피 반도체+방산 이원화 급등·미국 7월 CPI 예상 부합·9월 금리 동결 전망→기술주 심리 개선",
-        "m": "2026-08-13 / 한국경제·뉴스핌·이데일리 / 코스피 8/13 반도체(삼성+5%·하이닉스+8%)·방산(한화에어로스페이스) 이원화 강세. 미국 7월 CPI 시장 예상에 부합→9월 기준금리 동결 가능성 상승으로 기술주 투자심리 개선. 전날 미국 CRWV·MU·SMCI 강세 훈풍 유입. 외국인 순매수 지속."
+        "h": "코스피 8/13 4%대 급등·6800선 회복·반도체+방산 이원화·미국 7월 CPI 예상 부합·9월 금리 동결 전망→기술주 심리 개선",
+        "m": "2026-08-13 / 한국경제·파이낸셜뉴스·문화일보 / 코스피 8/13 장 초반 4%대 급등·6800선 회복. 반도체(삼성+5%·하이닉스+8%)·방산(한화에어로스페이스) 이원화 강세 동반. 미국 7월 CPI 시장 예상에 정확히 부합→9월 기준금리 동결 가능성 상승으로 기술주 투자심리 대폭 개선. 전날 미국 CRWV·MU·SMCI 강세 훈풍 유입. 외국인 순매수 지속."
       },
       {
         "tag": "HBM",
