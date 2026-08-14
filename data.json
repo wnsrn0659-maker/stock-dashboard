@@ -299,15 +299,15 @@
     "US": [
       {
         "tag": "SPCX",
-        "cls": "up",
-        "h": "SpaceX·테슬라 텍사스 'Terafab' AI 반도체 공장 $16.8B 투자·1억㎡ 세계 최대 건물·NVDA Vera Rubin 독점 공급",
-        "m": "2026-08-04~06 / TechCrunch·Yahoo Finance·Forbes / SpaceX·Tesla가 텍사스 그라임스 카운티에 'Terafab' AI 반도체 수직통합 공장 초기 $16.8B 투자 발표(최대 $1,190억 확장). 논리+메모리 칩 한 지붕 제조—Optimus 로봇·Cybercab·궤도 데이터센터 전용 첨단 칩 생산. 머스크 'SpaceX는 앞으로 NVDA Vera Rubin 아키텍처만 사용—최고의 아키텍처' 선언. Starmind 궤도 AI 위성에 Rubin GPU 독점 탑재. SPCX 8/11 $133.29."
+        "cls": "down",
+        "h": "SPCX 8/20 2차 언락 319M주·9월 ~700M주 대기·Q2 +91.9% 펀더멘털 vs 언락 오버행 충돌",
+        "m": "2026-08-14 / Investing.com·CNBC·Yahoo Finance / SpaceX(SPCX) 2차 언락(8/20) 319M주 6일 후 도래. 1차(8/6) 911.5M주 언락 후 오히려 +6% 급등으로 공포 해소. 이후 9월 ~700M주·10월 ~700M주 추가 물량 일정 잔존. 머스크 지분(시총 40%+) IPO 1주년(2027년 초)까지 잠금. Q2 매출 $7.81B(+91.9%)·Terafab $16.8B 투자 등 펀더멘털 호재 vs 언락 물량 오버행 수급 압박 병존."
       },
       {
-        "tag": "AMD",
-        "cls": "up",
-        "h": "AMD, 캐나다 AI 인퍼런스 스타트업 Taalas 인수·실리콘에 모델 가중치 직접 새기는 기술·인퍼런스 군비경쟁 격화",
-        "m": "2026-08-06 / Bloomberg·CNBC·AMD IR / AMD가 토론토 기반 Taalas(2023년 창업·누적 $2.19억 투자) 인수 합의. Taalas 기술: AI 모델 가중치를 HBM 의존 없이 실리콘에 직접 새겨 추론 속도·에너지 효율 대폭 향상—Meta Llama 3.1 8B 초당 1만7000 토큰 시연. Q4 2026 거래 완료. NVDA의 $200억 Groq 인수(7개월 전) 대응, AI 인퍼런스 시장 군비경쟁 본격화."
+        "tag": "TSLA",
+        "cls": "new",
+        "h": "테슬라 Q2 2026 매출 $28.24B(+26%) 어닝 비트·EPS $0.33 미스·FY2026 capex >$25B·Optimus 생산 7~8월 개시",
+        "m": "2026-07-22 / Tesla IR·CNBC·Investing.com / Q2 FY2026 매출 $28.24B(+26% YoY, 예상 $25.55B 대폭 상회)·EPS $0.33(예상 $0.49 미스). OPM 1.4% 급락(전년 4.1%)·capex $5.79B(+142%)·FY2026 capex 가이던스 >$25B 상향. Optimus 7~8월 Fremont 생산 개시(연 1,000대 목표). Cybercab 7개 도시 무감독 운행·트레일링 12개월 매출 $100B 최초 돌파. AI·로봇 투자 확대로 단기 수익성 압박 지속."
       },
       {
         "tag": "NVDA",
@@ -334,10 +334,10 @@
         "m": "2026-08-12~14 / Yahoo Finance·Benzinga / 브로드컴 Q3 AI 가이던스 $16B(추정 $17.2B 하회)→SOX -6.3% 셀오프 후 낙폭 축소 회복. CEO Hock Tan '2027년 AI 매출 $100B+' 확신. AI 반도체 매출 YoY +143% 견조. NVDA 8/26 실적 앞두고 AI 칩 섹터 투자심리 점진적 회복."
       },
       {
-        "tag": "AMAT",
+        "tag": "AMD",
         "cls": "up",
-        "h": "AMAT Q3 매출 $9.12B(+25%)·Q4 가이던스 $10.25B 역대 최고·'전례 없는 AI 수요' 선언",
-        "m": "2026-08-13~14 / Benzinga·247WallSt / AMAT Q3 FY2026 매출 $9.12B(+25% YoY)·비GAAP EPS $3.50(컨센서스 상회). Q4 가이던스 $10.25B(±$500M)—역대 최고. 경영진 '급격한 AI 채택이 전례 없는 수요 창출'. 반도체 시스템 2026년 연간 전망 추가 상향. 28인 Strong Buy·PT $635."
+        "h": "AMD Q2 2026 매출 $11.54B(+50%)·데이터센터 $6.7B(+107%)·Q3 가이던스 $13B·장외 -8% 과잉 반응 후 회복",
+        "m": "2026-08-04 / Benzinga·Yahoo Finance·KuCoin / AMD Q2 FY2026 매출 $11.54B(+50% YoY)·비GAAP EPS $1.66(컨센서스 $1.60 어닝 비트). 데이터센터 $6.7B(+107% YoY·전체 58%). Q3 가이던스 ~$13B(컨센서스 상회). 장외 -8% 과잉 반응—Instinct AI GPU 성장률 기대 이하 우려. 8/6 Taalas(AI 인퍼런스 칩릿) 인수로 추론 역량 강화·EPYC CPU 서버 점유율 30% 돌파."
       },
       {
         "tag": "INTC",
