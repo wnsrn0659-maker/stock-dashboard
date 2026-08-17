@@ -298,102 +298,90 @@
   "NEWS": {
     "US": [
       {
-        "tag": "SPCX",
+        "tag": "반도체",
         "cls": "down",
-        "h": "SpaceX 어닝 비트에도 AI CapEx $15.8B 충격·프리마켓 -11%+·Musk 'NVDA 단독 AI 파트너' 선언",
-        "m": "2026-08-17 / TradingKey·The Globe and Mail·StockTwits / SpaceX가 금융 지표 어닝 비트를 기록했음에도 AI 컴퓨팅 인프라 투자(CapEx) $15.8B가 충격을 줘 프리마켓 -11%+ 급락. 머스크 'SpaceX·Tesla는 NVDA에 단독 파트너, NVDA가 최고 AI 컴퓨팅'이라 선언—NVDA에는 호재. 기관은 실적보다 대규모 CapEx를 부담 요인으로 해석."
-      },
-      {
-        "tag": "NVDA",
-        "cls": "up",
-        "h": "NVDA 8/26 실적 D-9·BofA '다분기 업그레이드 사이클' 전망·$94~95B 어닝 비트 기대·Vera Rubin 상업 출하",
-        "m": "2026-08-17 / BofA·Yahoo Finance·TradingKey / Bank of America가 NVDA 8/26 FQ2 실적에서 매출 $94~95B 대형 비트가 '다분기 업그레이드 사이클'을 촉발할 것으로 전망, PT $350. Vera Rubin GPU+CPU 시스템 상업 출하 개시—훈련 GPU 75% 절감·추론 비용 90% 절감. 61인 Strong Buy."
-      },
-      {
-        "tag": "INTC",
-        "cls": "up",
-        "h": "INTC $15B 증자 단행·Trump 'Apple-Intel 파운드리 딜' 발표·Tesla 14A 확정·Dan Niles '대형 고객 임박'",
-        "m": "2026-08-17 / Benzinga·TechTimes·Tom's Hardware / Intel이 8/10 $15B 주식 공모 단행—1971년 상장 이후 최초 주식 매각(그린슈 포함 최대 $17.25B). Trump 'Apple이 Intel 파운드리로 칩 제조 합의' 발표 INTC +9% 급등(공식 미확인). Tesla 14A 공개 확정. Dan Niles '파운드리 대형 고객 발표 임박' 전망."
+        "h": "8월 칩주 2002년 이래 최악 월간 성과 추세·AVGO 가이던스 충격 이후 이틀째 하락세",
+        "m": "2026-08-17 / Yahoo Finance·TradingView / MU·NVDA·AMD·INTC 등 주요 칩주 8월 누적 성과 2002년 이후 최악의 월간 추세. AVGO AI 가이던스($16B·추정 $17.2B 하회) 충격이 섹터 이틀째 하락 유발. 단 빅테크 AI CapEx $500B+ 지출 계획 불변—장기 수요 서사 훼손 없어 과매도 반등 논의 확산 중."
       },
       {
         "tag": "AMD",
         "cls": "up",
-        "h": "AMD $4.75B 사상 최대 채권 발행·AI 인프라 투자 확대·MI455X+Helios 랙 Q3 말 출하·삼성 HBM4 탑재",
-        "m": "2026-08-17 / Yahoo Finance·HPCwire·Tom's Hardware / AMD가 AI 인프라 투자 확대를 위해 $4.75B 사상 최대 채권 발행. Q2 매출 +50% YoY 기록 후 적극 투자 지속. MI455X(CDNA 5·TSMC 2nm·432GB HBM4·40 PFLOPs)와 Helios AI 랙($5.25M) 정식 출시·Q3 말 출하. 삼성전자 HBM4 탑재 확정. Lisa Su '본계약 거의 다' 발언."
+        "h": "AMD·INTC 반도체 일일 최고 상승 선도·Helios Q3 말 출하·MS·OpenAI·Meta·Oracle 조기 채택 확정",
+        "m": "2026-08-17 / Seeking Alpha·HPCwire / AVGO 충격 후 반도체 섹터 내 AMD·INTC가 일일 최대 상승폭 기록하며 반등 선도. AMD Helios 랙(MI455X 72개·HBM4 432GB·$5.25M) Q3 말 첫 출하 확정. Microsoft·OpenAI·Meta·Oracle 조기 채택 공개. 삼성 HBM4 탑재·Lisa Su '본계약 거의 다'."
       },
       {
-        "tag": "AVGO",
-        "cls": "down",
-        "h": "AVGO Q3 AI 가이던스 $16B·추정치 $17.2B 하회 쇼크·CEO '수요 이상 없다' 재확인·장 중 반등",
-        "m": "2026-08-17 / Yahoo Finance·StockAnalysis / Broadcom Q3 AI 칩 매출 가이던스 $16B—월가 추정치 $17.2B 하회. Q2 AI 매출 $10.8B(+143% YoY)·전체 매출 $22.19B(+48%) 견조. CEO Hock Tan '파이낸싱 일정 문제, 수요 이상 없다' 재확인—장 중 반등 성공. AI ASIC 시장 70~80% 점유."
-      },
-      {
-        "tag": "TSLA",
+        "tag": "NVDA",
         "cls": "up",
-        "h": "테슬라 로보택시 미국 7개 도시 확장·FSD V15 테스트·FSD 구독 부착률 55% 신기록·유럽 5개국 승인",
-        "m": "2026-08-17 / TeslaOracle·Autoevolution / Tesla 로보택시가 오스틴·마이애미 등 미국 7개 도시로 확장. FSD V15 로보택시 전용 테스트 중. 북미 신규 딜리버리 FSD 구독 부착률 55%+ 신기록. 리투아니아·에스토니아 등 유럽 5개국 추가 규제 승인."
+        "h": "NVDA 8/26 실적 D-9·컨센서스 $91.8B·Q3 가이던스 $103.1B·Motley Fool '급등 예측'·61인 Buy",
+        "m": "2026-08-17 / Motley Fool·Yahoo Finance·Mitrade / NVDA 8/26 FQ2 실적 D-9 카운트다운. 월가 컨센서스 매출 $91.8B(GAAP EPS $2.06·전년비 2배)·Q3 가이던스 $103.1B 기대. Motley Fool '8/26 후 급등' 예측. AI 데이터센터 AI CapEx $500B 환경서 점유율 80% 구조 불변. 61인 Strong Buy."
+      },
+      {
+        "tag": "INTC",
+        "cls": "up",
+        "h": "INTC Tesla 14A 최초 고객 확정·Apple 협상 진행·Fortinet 보안칩 계약·$15B 증자 파운드리 투자",
+        "m": "2026-08-17 / TradingKey·CNBC·TechTimes / Intel 파운드리 Tesla Terafab 프로젝트 14A 공식 최초 고객 확정. Apple 칩 제조 협상 진행 중(트럼프 발표, 미공식). Fortinet 보안칩 계약으로 파운드리 고객 다변화. $15B 주식 증자(8/10)로 파운드리 장기 투자 재원 확보."
       },
       {
         "tag": "MU",
         "cls": "up",
-        "h": "MU HBM4 Vera Rubin 고볼륨 생산 돌입·대역폭 2.8TB/s·2026 HBM 전량 완판·Morgan Stanley 최선호주",
-        "m": "2026-08-17 / Micron IR·HPCwire / Micron이 NVDA Vera Rubin 전용 HBM4 36GB 12H 고볼륨 생산 돌입. 대역폭 2.8TB/s(HBM3E 2.3배)·전력 효율 +20%. 2026년 HBM 전량 고정가 완판. Morgan Stanley 반도체 최선호주·NVDA 8/26 실적 D-9 최대 수혜주."
+        "h": "MU HBM4 ASP GB당 $31~32(HBM3E 2배)·2026 HBM 완판·Citi PT $1,150·NVDA 8/26 최대 수혜 예상",
+        "m": "2026-08-17 / Citi·Micron IR·HPCwire / Micron HBM4 GB당 $31~32(HBM3E 대비 2배) 구조적 ASP 상승 지속. 2026년 HBM 전량 완판. Citi PT $1,150. NVDA 8/26 실적(D-9) 발표 후 메모리 수요 폭발 서사 재확인 기대. Vera Rubin HBM4 36GB 12H 고볼륨 생산 지속."
       },
       {
-        "tag": "반도체",
+        "tag": "TSLA",
         "cls": "new",
-        "h": "JP모건 2026년 반도체 $1.68T 전망·칩주 프리마켓 랠리·MU·SKHY·NVDA·AMD·INTC 동반 강세",
-        "m": "2026-08-17 / Yahoo Finance·247WallSt / JPMorgan이 2026년 글로벌 반도체 시장 $1.68조(+111% YoY) 전망, 2027년 $2.25조 예측. 컴퓨팅: NVDA·AVGO·AMD·INTC, 메모리: MU 동시 최선호 추천. 5월 글로벌 반도체 월간 매출 $1,206억 역대 최고(15개월 연속 경신). MU·SKHY·NVDA·AMD·INTC 프리마켓 랠리 연장."
+        "h": "Tesla FSD V15 로보택시 테스트 중·계획 개선의 40% 완성 단계·고객 차량 출시 연말~2027년 초 예상",
+        "m": "2026-08-17 / Autoevolution·TeslaOracle / Tesla FSD V15 로보택시 전용 차량 테스트 중이나 계획 개선사항의 40%만 완성된 초기 빌드. 고객 차량 배포는 2026년 말~2027년 초 예상. 2026 Summer Update(v2026.26) 전 세계 배포 완료. 오스틴·샌프란시스코 2개 도시 로보택시 운행 중."
+      },
+      {
+        "tag": "AVGO",
+        "cls": "down",
+        "h": "AVGO Q3 AI $16B 가이던스 $17.2B 추정 하회·반도체 이틀 하락 후 AMD·INTC 중심 반등 시도",
+        "m": "2026-08-17 / Yahoo Finance·StockAnalysis / Broadcom Q3 AI 칩 가이던스 $16B—추정치 $17.2B 하회 충격으로 반도체 섹터 이틀째 하락. 이후 AMD·INTC 중심 손실 축소·반등 시도. CEO Hock Tan '수요 이상 없다' 재확인. Q2 AI 매출 $10.8B(+143% YoY)·전체 $22.19B(+48%) 견조."
       }
     ],
     "KR": [
       {
         "tag": "KOSPI",
         "cls": "new",
-        "h": "8/18 재개장 D-0·미국 칩주 이란 충격 반등 성공→코스피 반도체 동반 강세 기대·외인 8.07조 수급 견고",
-        "m": "2026-08-17 / Bloomberg·파이낸셜뉴스 / 한국 증시 광복절 대체공휴일(8/17) 휴장 후 8/18(화) 재개장. 미국 NVDA·MU·INTC가 이란 긴장에도 반등 성공—코스피 반도체 삼성전자·SK하이닉스 동반 강세 기대. 외국인 8/11~14 코스피 8.07조 순매수 수급 기반 견고. NVDA 8/26 실적 D-9 모멘텀."
-      },
-      {
-        "tag": "삼성전자·SK하이닉스",
-        "cls": "up",
-        "h": "외국인 '다시 삼전·닉스로'·8/11~14 삼성 3.33조+하이닉스 2.86조 순매수·8/18 동반 강세 전망",
-        "m": "2026-08-16 / 파이낸셜뉴스 / 외국인이 8/11~14 코스피에서 삼성전자 3조3,064억·SK하이닉스 2조8,580억원 순매수—총 8.07조 중 두 반도체 대장주가 75% 차지. AI 칩 강세·메모리 수요 폭발 신호가 수급 반전 촉매. '극단적 저평가 구간 탈피 시작'—추가 기관·외인 유입 기대."
-      },
-      {
-        "tag": "SK하이닉스",
-        "cls": "up",
-        "h": "SKHY ADR 나스닥 프리미엄 30~35%·HBM4 하반기 출하 본격화·Q2 OPM 76% 사상 최고·DRAM ASP +30%",
-        "m": "2026-08-17 / Mitrade·Investing.com / SK하이닉스 나스닥 ADR(SKHY) 프리미엄 30~35% 확대. HBM4 하반기 판매 본격화. Q2 매출 79.3조원(+257% YoY)·OPM 76% 사상 최고. DRAM ASP +30%·NAND +50% 강세."
-      },
-      {
-        "tag": "한미반도체",
-        "cls": "new",
-        "h": "한미반도체 BOC COB 본더 세계 최초 출시·인도 구자라트 글로벌 메모리 고객사 공급 확정",
-        "m": "2026-08-17 / AlphaSquare·반도체 업계 / 한미반도체가 BOC COB(Chip-on-Board) 본더를 세계 최초로 출시하고, 글로벌 메모리 고객사(인도 구자라트 공장) 공급을 확정. TC본더에 이어 COB 패키징 시장으로 제품군을 확장하며 HBM4E 후공정 장비 독점 구도 강화."
-      },
-      {
-        "tag": "삼성전자·AMD",
-        "cls": "up",
-        "h": "AMD Helios 랙 Q3 말 삼성 HBM4 탑재 출하·Lisa Su '본계약 거의 다'·OpenAI·Anthropic 고객 확보",
-        "m": "2026-08-17 / 서울경제·HPCwire / AMD 리사 수 CEO가 삼성전자 HBM4 본계약 '거의 다(almost close)' 발언. AMD Helios AI 랙 Q3 말 삼성 HBM4 탑재 출하 시작—432GB HBM4·MI455X 72개 구성. OpenAI·Anthropic 고객 확보로 HBM4 수요처 다변화."
-      },
-      {
-        "tag": "한화에어로스페이스",
-        "cls": "up",
-        "h": "미 SPH 자주포 10조 사업 8월 복수 시제품 선정 임박·K9MH 탄약공장 투자 패키지·중동 4,024억 계약",
-        "m": "2026-08-17 / BusinessPost·ZDNet / 미국 육군 차륜형 자주포(SPH) 현대화 사업—총 500문·약 10조원—이달 복수 시제품 업체 선정 예정. K9MH 출사표·현지 탄약공장 신설 패키지 제출. 중동 유도무기 4,024억 계약 별도 체결. Q2 영업이익 1.37조(+58.5%) 역대 최대."
-      },
-      {
-        "tag": "SK하이닉스·SanDisk",
-        "cls": "new",
-        "h": "SK하이닉스+SanDisk HBF(High Bandwidth Flash) 첫 표준 규격 공개·AI 차세대 메모리 생태계 선점",
-        "m": "2026-08-17 / SPTAT Korea·반도체 뉴스 / SK하이닉스와 SanDisk(SNDK)가 차세대 HBF(High Bandwidth Flash) 최초 표준 규격 공동 공개. HBM 대역폭 구조를 NAND 플래시에 적용해 AI 추론 서버 스토리지 혁신 목표. AI 데이터센터 메모리+스토리지 통합 생태계 선점 시도."
+        "h": "8/18 재개장·美 반도체 AVGO 충격 후 AMD·INTC 반등 선도→코스피 동반 강세 기대·외인 8.07조 견고",
+        "m": "2026-08-17 / Bloomberg·파이낸셜뉴스 / 광복절 대체공휴일(8/17) 후 8/18(화) 재개장. AVGO 충격에도 AMD·INTC 반등 선도하며 미 반도체 섹터 회복 중. 외국인 8/11~14 코스피 8.07조 순매수 수급 기반 견고. NVDA 8/26 실적 D-9 반도체 모멘텀 지속."
       },
       {
         "tag": "삼성전자",
         "cls": "up",
-        "h": "삼성 zHBM FMS 2026 발표·AI 가속기 위 수직 적층·HBM5 대비 성능 8배·HBM4 수율 80% 조기 달성",
-        "m": "2026-08-17 / Samsung Newsroom·HPCwire / 삼성전자, FMS 2026(산타클라라 8/5)에서 차세대 3D 메모리 zHBM 공개. AI 가속기 위에 HBM 수직 적층—HBM5 대비 성능 8배·밀도 10배·열저항 50% 개선 목표. HBM4 황금 수율 80% 조기 달성. HBM4E 샘플 주요 고객 5월 최초 출하."
+        "h": "삼성 HBM4 시장점유율 28~29%·AMD Helios Q3 납품·수율 80%·zHBM FMS 2026 차세대 3D 메모리 재주목",
+        "m": "2026-08-17 / 글로벌이코노믹·서울경제·HPCwire / 2026년 HBM4 점유율: SK하이닉스 54~55%·삼성 28~29%·마이크론 17~18%. 삼성 AMD Helios HBM4 Q3 말 납품 확정. HBM4 수율 80% 달성. FMS 2026에서 공개한 zHBM(HBM5 대비 성능 8배·밀도 10배) 차세대 메모리 재조명."
+      },
+      {
+        "tag": "SK하이닉스",
+        "cls": "up",
+        "h": "SK하이닉스 HBM4 점유율 54~55% 독주·Q2 OPM 76% 사상 최고·SanDisk HBF 표준 공개·DRAM ASP +30%",
+        "m": "2026-08-17 / 초이스스탁US·SPTAT Korea / SK하이닉스 2026년 HBM4 점유율 54~55% 1위 독주. Q2 매출 79.3조(+257% YoY)·OPM 76% 사상 최고. SanDisk와 HBF(High Bandwidth Flash) 최초 표준 규격 공동 발표—AI 추론 서버 스토리지 생태계 선점. DRAM ASP +30% 강세."
+      },
+      {
+        "tag": "한미반도체",
+        "cls": "new",
+        "h": "BOC COB 본더 세계 최초 출시·인도 구자라트 글로벌 메모리 공급 확정·산호세 한미USA 4Q 가동",
+        "m": "2026-08-17 / AlphaSquare·반도체 업계 / 한미반도체, BOC COB(Chip-on-Board) 본더 세계 최초 출시·글로벌 메모리 고객사 인도 구자라트 공급 확정. 산호세 한미USA 법인 4분기 가동 예정. TC본더 71.2% 독점에 COB 패키징 시장으로 제품군 확장하며 HBM4E 후공정 장비 독점 구도 강화."
+      },
+      {
+        "tag": "한화에어로스페이스",
+        "cls": "up",
+        "h": "미국 SPH 우협 8월 발표 임박·K9MH 라인메탈·BAE·엘빗·GD 4파전·중동 수주 가시화·Q2 OP +58.5%",
+        "m": "2026-08-17 / BusinessPost·ZDNet·아시아투데이 / 한화에어로스페이스, 미국 SPH 현대화(10조원·500문) 우협 '8월 발표 예정' 재확인. K9MH로 독일 라인메탈·영국 BAE·이스라엘 엘빗·미국 GD와 4파전. 중동 유도무기 별도 수주 가시화. Q2 영업이익 1.37조(+58.5%) 역대 최대."
+      },
+      {
+        "tag": "삼성전기",
+        "cls": "up",
+        "h": "삼성전기 모건스탠리 최선호주·MLCC 가격 인상 사이클 진입·AI ABF 기판 수주 급증·8/13 +9.89%",
+        "m": "2026-08-17 / 모건스탠리·Bloomberg / 삼성전기, 모건스탠리 반도체 소부장 최선호주 전환—MLCC 가격 인상 사이클 진입·AI 서버용 ABF 기판 수주 급증 근거. 8/13 코스피 상위 최고 상승률 +9.89%. 8/18 재개장 소부장 순환매 수혜 기대."
+      },
+      {
+        "tag": "반도체 업황",
+        "cls": "new",
+        "h": "Gartner 2026년 글로벌 반도체 $1.32T(+64%) 전망·AI 프로세서·HBM4 수요 성장 주도",
+        "m": "2026-08-17 / Gartner·NerdWallet / Gartner, 2026년 글로벌 반도체 매출 $1.32T(+64% YoY) 전망. AI 프로세서·HBM4 수요가 성장 주도. 빅테크 AI CapEx $500B+ 지출 계획 불변. NVDA·AMD·MU 중심 AI 인프라 수요 하반기 가속. 5월 글로벌 반도체 월간 $1,206억 역대 최고(15개월 연속)."
       }
     ]
   },
