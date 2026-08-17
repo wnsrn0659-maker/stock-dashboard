@@ -254,90 +254,90 @@
   "NEWS": {
     "US": [
       {
-        "tag": "AVGO",
-        "cls": "down",
-        "h": "AVGO Q3 AI 가이던스 $16B(컨센서스 $17.2B 하회)·칩 섹터 2일 연속 하락·Google 공급망 다각화 시사·BofA AI 부채 $370B 경고",
-        "m": "2026-08-17 / Yahoo Finance·FXLeaders·247WallSt / Broadcom Q3 AI 반도체 매출 가이던스 $16B(컨센서스 $17.2B 대비 8% 하회). CEO Hock Tan, 주요 고객 Google의 미래 공급망 다각화 가능성 직접 언급. AVGO 8/14 -5.37%로 $400선 하회. BofA, AI 관련 잠재 부채 $370B 리스크 경고. NVDA·AMD·INTC·MU 등 칩 섹터 2일 연속 하락—AI 서사 균열 우려 확산."
-      },
-      {
-        "tag": "칩섹터",
+        "tag": "INTC",
         "cls": "up",
-        "h": "반도체 주식 8/17 프리마켓 반등·INTC +5.3%·AMD +3.8%·AVGO +2.3%·SOXX +3%·미-이란 평화 협상 낙관론",
-        "m": "2026-08-17 / Yahoo Finance·TradingView / AVGO 가이던스 쇼크 후 2일 하락한 반도체 주식이 8/17 프리마켓에서 전반 반등. INTC +5.3% 선도·AMD +3.8%·AVGO +2.3%·SOXX(반도체 ETF) +3%·NVDA +0.5%. 미-이란 평화 협상 낙관론이 리스크온 심리를 자극하며 회복세 주도. NVDA 8/26 실적 D-9 앞두고 저점 매수 수요 유입."
+        "h": "인텔 14A/18A 파운드리 AI 고객용 풀스택 확장·18A-P 리스크 프로덕션 진입·Panther Lake High-NA EUV HVM 개시",
+        "m": "2026-08-17 / Yahoo Finance·Intel Newsroom / 인텔 파운드리가 AI 칩 고객 설계 생태계를 대폭 강화. 18A-P 공정 리스크 프로덕션 진입, Panther Lake(Intel Core Ultra 시리즈3) ASML EXE High-NA EUV 기반 고량산 개시. Synopsys·Keysight, 14A·18A EDA 및 EM 시뮬레이션 도구 인증 완료—AI 칩 고객 설계 생태계 급속 확대. Q2 데이터센터·AI 매출 +22% YoY, YTD +160%대."
       },
       {
-        "tag": "AMD",
-        "cls": "down",
-        "h": "캐시우드 ARK, AMD 5월 이후 $250M+ 지속 청산·추가 $15.6M 매도·스페이스X 포지션 확충 전략 전환",
-        "m": "2026-08-17 / TheStreet·Yahoo Finance / Cathie Wood ARK Invest가 AMD 주식 추가 $15.6M 규모 매도—5월 이후 $250M+ 누적 청산. ARK가 AMD 매도 자금으로 SpaceX 포지션을 대규모 확충(AI 하드웨어→AI 인프라 전략 전환). 단, Rosenblatt는 AMD 목표주가 $665로 상향해 기관 간 시각 엇갈림. AMD Q2 데이터센터 매출 +50% YoY 펀더멘털은 견조."
+        "tag": "AVGO",
+        "cls": "up",
+        "h": "AVGO 수요 펀더멘털 견조·Polymarket 94% Q3 AI $15B 달성 베팅·장 중 반등·YTD +51% 월가 PT +31% 상방",
+        "m": "2026-08-17 / Benzinga·247WallSt·Polymarket / Broadcom 8/17 장 중 반등. Polymarket 트레이더, AVGO Q3 AI 매출 $15B 달성 확률 94% 베팅—가이던스 하회($16B vs 컨센서스 $17.2B)는 파이낸싱 구조 우려이지 수요 문제 아님 해석. NVIDIA도 유사 $500B AI 파이낸싱 구조 운용 중. AVGO YTD +51%·월가 컨센서스 PT 현재가 대비 +31% 상방 유지."
       },
       {
         "tag": "NVDA",
         "cls": "up",
-        "h": "8/26 FQ2 실적 D-9·가이던스 $107~108B 기대(컨센서스 $104B 상회)·AVGO 쇼크 속 독자 방어·61인 Strong Buy",
-        "m": "2026-08-17 / BofA·Yahoo Finance / NVIDIA 8/26 FQ2 실적 D-9. BofA '멀티쿼터 업그레이드 사이클' 개시·가이던스 $107~108B(컨센서스 $104B 상회) 기대. 컨센서스 EPS $2.08(+97% YoY)·매출 $91.8B(+99% YoY, 분기 역대 최고). AVGO 가이던스 쇼크로 칩 섹터 전반 하락에도 NVDA 상대적 방어 유지. 61인 Strong Buy·PT $302.83."
+        "h": "8/26 FQ2 D-8·월가 트레이더 패닉 신호 없음·Blackstone $500B AI 파이낸싱 서사 지속·61인 Strong Buy PT $302",
+        "m": "2026-08-17 / Yahoo Finance·Bloomberg / 상위 월가 트레이더들이 반도체 섹터 2일 조정에도 패닉 매도 신호 없음 확인. NVDA 기술적 지지선 유지·61인 Strong Buy·PT $302.83. Blackstone·Apollo $500B AI 파이낸싱 서사 AVGO 쇼크에도 훼손되지 않음. 8/26 FQ2 실적 D-8—컨센서스 매출 $91.8B(+99% YoY)·EPS $2.08(+97%) 저점 매수 수요 지속."
+      },
+      {
+        "tag": "AMD",
+        "cls": "up",
+        "h": "Baird AMD PT $1,250 상향·AI DC 매출 +50% YoY 고성장·ARK 누적 $250M+ 청산 vs 기관 매수 엇갈림",
+        "m": "2026-08-17 / Baird·Benzinga·TheStreet / Baird가 AMD 목표주가를 $1,250으로 상향—AI 데이터센터 매출 +50% YoY 고성장 지속 전망. Rosenblatt 역시 $665 유지. 반면 Cathie Wood ARK Invest 5월 이후 $250M+ 누적 청산(SpaceX 포지션 전략 전환). 기관 강세 vs ARK 매도 엇갈리나 펀더멘털 견조로 주가 방어."
       },
       {
         "tag": "SpaceX·NVDA",
         "cls": "up",
-        "h": "Starmind AI1 위성 최대 100만기·1기당 Vera Rubin NVL72(72GPU·250kW) 독점 탑재·2027년 시제기·우주 AI DC 신서사",
-        "m": "2026-08-17 / Forbes·Interesting Engineering(8/4~8/7) / SpaceX가 8/4 IPO 첫 실적 발표에서 NVIDIA 독점 AI 인프라 구축 공식화. Starmind AI1 위성 1기당 NVIDIA Vera Rubin NVL72 풀랙(72GPU) 탑재·250kW 전력 공급. 최대 100만기 위성 컨스텔레이션 목표, 텍사스 배스트럽 Gigasat Factory 대량 생산 계획. 2027년 시제기 테스트 착공. NVDA 수요처 우주 인프라로 다변화."
+        "h": "Starmind AI1 위성 최대 100만기·기당 Vera Rubin NVL72(72GPU·250kW) 탑재·2027년 시제기·우주 AI DC 신서사",
+        "m": "2026-08-17 / Forbes·Interesting Engineering / SpaceX가 Starmind AI1 위성 컨스텔레이션에 NVIDIA Vera Rubin NVL72 풀랙(72GPU·250kW/기) 독점 탑재 공식화. 최대 100만기 위성 목표, 텍사스 배스트럽 Gigasat Factory 대량 생산 계획. 2027년 시제기 착공. NVDA 수요처 지상 데이터센터에서 우주 인프라로 다변화—NVDA 8/26 실적 상방 촉매."
       },
       {
         "tag": "TSLA",
-        "cls": "new",
-        "h": "사이버캡 기가텍사스 양산 공식 개시·FSD v14 라이트 전 차량 배포 완료·로보택시 실질 매출 2027년 이후 전망",
-        "m": "2026-08-17 / Tesla Oracle·Electrek·autoevolution / Tesla 사이버캡 기가텍사스 양산 라인 공식 가동(Q2 공학 테스트, 7월 직원 자율주행 시승). FSD v14 라이트(소프트웨어 2026.20.6.11) 글로벌 전 차량 배포 완료. 단, 애널리스트들은 로보택시 실질 매출을 2027년 이후 전망—FSD 재설계가 핵심 병목. 사이버캡 UI 3D 비주얼·Starlink V5 통합 등 세부 사양 추가 공개."
+        "cls": "up",
+        "h": "FSD V15 로보택시 플릿 단독 탑재·V14 대비 7대 안전 개선·Cybercab Starlink V5 통합·글로벌 수요 드라이버",
+        "m": "2026-08-17 / NotATeslaApp·TeslaOracle / Tesla FSD V15가 로보택시 플릿에 탑재 실주행 중—V14 대비 7대 주요 안전·주행 개선. Cybercab에 전용 FSD 하드웨어 및 Starlink V5 통합 확인. 2026 Summer Update 전 차량 글로벌 배포 완료. Elon, FSD가 차량 수요 드라이버로 자리잡았다고 확인—글로벌 FSD 승인 국가 확대 중."
       },
       {
-        "tag": "MU",
+        "tag": "칩섹터",
         "cls": "up",
-        "h": "HBM4 완판 구조 유지·MU·SK하이닉스 프리마켓 동반 반등·NVDA 8/26 실적 D-9 메모리 최대 수혜 기대",
-        "m": "2026-08-17 / Yahoo Finance·TrendForce / AVGO 쇼크 이후 하락했던 MU·SK하이닉스가 8/17 프리마켓 동반 회복. TrendForce HBM4 GB당 $31~32(HBM3E 2배) ASP 구조적 상승 유지·2026년 삼성·SK하이닉스·마이크론 HBM 완판 구조 불변. Citi PT $1,150·평균 PT $1,569(+61.4%). NVDA 8/26 FQ2 실적 D-9 메모리 섹터 최대 수혜 기대 지속."
+        "h": "5월 글로벌 반도체 매출 $1,206억 역대 최고·15개월 연속 신기록·JPMorgan 2026년 산업 $1.68조·2027년 $2.25조 상향",
+        "m": "2026-08-17 / JPMorgan·WSTS / 글로벌 반도체 매출 2026년 5월 $1,206억(YoY +104.1%)으로 역대 최고·15개월 연속 경신. JPMorgan, 전 세계 반도체 산업 규모 전망 2026년 $1.68조(YoY +111%)·2027년 $2.25조(+34%)로 대폭 상향. AI 수요 폭발이 메모리(MU·SK하이닉스)·로직(NVDA·AMD)·파운드리(INTC·TSMC) 전 세그먼트 동반 성장 견인."
       }
     ],
     "KR": [
       {
         "tag": "KOSPI",
         "cls": "new",
-        "h": "8/17 광복절 대체공휴일 휴장·8/18 재개장·美 칩 섹터 프리마켓 반등 연계 반도체 강세 기대·외국인 8.07조 수급 기반",
-        "m": "2026-08-17 / 파이낸셜뉴스·Bloomberg / 한국 증시 광복절 대체공휴일(8/17) 휴장, 8/18(화) 재개장. 미국 반도체 섹터가 AVGO 가이던스 쇼크(8/14) 이후 8/17 프리마켓 INTC +5.3%·AMD +3.8% 반등 중—8/18 코스피 반도체 동반 강세 기대. 외국인 8/11~8/14 코스피 8.07조 순매수(삼성전자 3.31조+SK하이닉스 2.86조) 수급 기반 유지."
+        "h": "8/18 재개장 D-1·美 칩섹터 회복 연계 반도체 강세 기대·외국인 8.07조 수급 기반 견고·NVDA 8/26 실적 D-8",
+        "m": "2026-08-17 / 파이낸셜뉴스·Bloomberg / 한국 증시 광복절 대체공휴일(8/17) 휴장, 8/18(화) 재개장. 미국 반도체 섹터가 AVGO 가이던스 쇼크 이후 8/17 Broadcom·INTC·AMD 반등 회복 중—8/18 코스피 반도체 동반 강세 기대. 외국인 8/11~14 코스피 8.07조 순매수(삼성전자 3.31조+SK하이닉스 2.86조) 수급 기반 견고. NVDA 8/26 실적 D-8 모멘텀."
+      },
+      {
+        "tag": "한화에어로스페이스",
+        "cls": "up",
+        "h": "중동 국방부 유도무기 4,024억원 계약 체결·미국 SPH 숏리스트 8월 발표 임박·Q2 영업이익 1.37조 역대 최대",
+        "m": "2026-08-17 / BusinessPost·ZDNet / 한화에어로스페이스가 중동 국가 국방부와 유도무기류 4,024억원 공급 계약 체결. 미국 SPH(자주포 현대화) 수주 숏리스트 8월 발표 임박—수주 확정 시 500문+ 약 10조 추가 수주 기대. K9MH 시제품 업체 선정 이달 예정·현지 탄약공장 2조 투자. Q2 영업이익 1.37조(+58.5%) 역대 최대."
       },
       {
         "tag": "SK하이닉스",
         "cls": "up",
-        "h": "HBM4 GTC2026 쇼케이스·$500/스택(+70%) NVDA 공급 협상·Vera Rubin 70% 독점·NVDA 8/26 실적 D-9 최대 수혜",
-        "m": "2026-08-17 / KED Global·SK하이닉스 IR / SK하이닉스가 NVIDIA GTC 2026에서 HBM4·HBM3E·SOCAMM2·액냉eSSD 전시. HBM4 12단 스택당 $500(HBM3E +70%) NVIDIA 공급 협상 진행. UBS Vera Rubin 플랫폼 HBM 시장 SK하이닉스 70% 독점 전망 유지. NVDA 8/26 FQ2 실적 D-9 앞두고 8/18 재개장 코스피 최대 수혜주 기대."
+        "h": "HBM4 GTC2026 쇼케이스·$500/스택(+70%) NVDA 공급 협상·Vera Rubin 70% 독점·NVDA 8/26 실적 D-8 최대 수혜",
+        "m": "2026-08-17 / KED Global·SK하이닉스 IR / SK하이닉스가 NVIDIA GTC 2026에서 HBM4·HBM3E·SOCAMM2·액냉eSSD 전시. HBM4 12단 스택당 $500(HBM3E +70%) NVIDIA 공급 협상 진행. UBS Vera Rubin 플랫폼 HBM 시장 SK하이닉스 70% 독점 전망 유지. NVDA 8/26 FQ2 실적 D-8 앞두고 8/18 재개장 코스피 최대 수혜주 기대."
       },
       {
         "tag": "삼성전자-AMD",
         "cls": "up",
-        "h": "삼성 HBM4·AMD Instinct MI455X+EPYC 6세대 메인메모리 MOU 공식 체결·NVIDIA 외 HBM4 수요처 다변화 확인",
-        "m": "2026-08-17 / CNBC·Bloomberg / 삼성전자와 AMD가 삼성 HBM4를 AMD 차세대 AI 가속기 Instinct MI455X·6세대 EPYC CPU 메인메모리로 채택하는 MOU 체결. NVIDIA 독점에서 AMD 생태계로 HBM4 공급망 다변화 확인. 삼성전자 HBM4 수율 80% 조기 달성 서사 맞물려 수주 가시성 강화. AI 데이터센터 AMD 진영 점유율 확대 기대."
+        "h": "삼성 HBM4·AMD Instinct MI455X+EPYC 6세대 메인메모리 MOU 체결·NVIDIA 외 HBM4 수요처 다변화 확인",
+        "m": "2026-08-17 / CNBC·Bloomberg / 삼성전자와 AMD가 삼성 HBM4를 AMD 차세대 AI 가속기 Instinct MI455X·6세대 EPYC CPU 메인메모리로 채택하는 MOU 체결. NVIDIA 독점에서 AMD 생태계로 HBM4 공급망 다변화 확인. 삼성전자 HBM4 수율 80% 조기 달성 서사 맞물려 수주 가시성 강화."
       },
       {
         "tag": "삼성전자·SK하이닉스",
         "cls": "up",
         "h": "Temasek 싱가포르 국부펀드 동시 투자 검토·KOSPI 7/30 저점 대비 +22% 강세장 진입·外人 수급 쌍끌이",
-        "m": "2026-08-17 / Bloomberg(8/12)·CNBC / 싱가포르 국부펀드 Temasek Holdings, 삼성전자·SK하이닉스 동시 투자 검토(Bloomberg 8/12)—삼성 +6.7%·SK하이닉스 +5.5% 급등. KOSPI 7/30 저점 대비 +22% 반등으로 강세장 진입 임박. 외국인 기관 쌍끌이 수급 전환으로 8/18 재개장 추가 매수세 기대."
-      },
-      {
-        "tag": "한화에어로스페이스",
-        "cls": "up",
-        "h": "미국 SPH 자주포 10조 수주 숏리스트 8월 발표 임박·K9MH 시제품 업체 이달 선정·탄약공장 2조 승부수",
-        "m": "2026-08-17 / ZDNet·BusinessPost / 한화에어로스페이스가 10조 규모 미국 자주포 현대화 사업(SPH-M) 숏리스트를 8월 중 발표할 예정—CFO 재확인. K9MH(차륜형 K9 자주포) 시제품 업체 선정 이달 내 예정. 2조 규모 현지 탄약공장 신설 투자 승부수. Q2 영업이익 1.37조(+58.5%·역대 최대). 수주 확정 시 500문+ 약 10조 추가 수주 기대."
-      },
-      {
-        "tag": "AVGO쇼크·코스피",
-        "cls": "down",
-        "h": "AVGO 가이던스 미달發 AI 서사 균열 우려·美 칩 섹터 2일 하락→프리마켓 반등·8/18 코스피 반도체 영향 주목",
-        "m": "2026-08-17 / Bloomberg·TradingView / Broadcom AI 반도체 가이던스 쇼크($16B vs 컨센서스 $17.2B)가 미국 칩 섹터 2일 연속 하락을 유발. 단, 8/17 프리마켓 INTC·AMD·AVGO 반등으로 낙폭 회복 시도 중. 전문가들은 8/18 코스피 반도체에 단기 하방 압력 가능성 제기하나, NVDA 8/26 실적 D-9 기대감과 외국인 수급 강세로 조정 폭 제한적 전망."
+        "m": "2026-08-17 / Bloomberg·CNBC / 싱가포르 국부펀드 Temasek Holdings, 삼성전자·SK하이닉스 동시 투자 검토(Bloomberg 8/12)—삼성 +6.7%·SK하이닉스 +5.5% 급등. KOSPI 7/30 저점 대비 +22% 반등으로 강세장 진입 임박. 외국인 기관 쌍끌이 수급 전환으로 8/18 재개장 추가 매수세 기대."
       },
       {
         "tag": "한미반도체",
         "cls": "up",
         "h": "5,000평 8공장 착공·한미USA 산호세 4Q 가동·TC본더 71.2% 독점·HBM4 삼성·SK하이닉스·마이크론 3사 공급",
         "m": "2026-08-17 / 뉴스핌·AlphaSquare / 한미반도체 5,000평 규모 8공장 착공—TC본더 CAPA 선제 확충. 미국 산호세 한미USA 4분기 가동 예정. TC본더 글로벌 71.2% 독점 유지. HBM4 삼성전자·SK하이닉스·마이크론 3사 TC본더 공급 확정. 하나증권 2027년 순이익 +48% 전망. 8/18 재개장 반도체 소부장 강세 동반 기대."
+      },
+      {
+        "tag": "AI반도체·코스피",
+        "cls": "up",
+        "h": "JPMorgan 2026 글로벌 반도체 $1.68조 상향·삼성·하이닉스 AI 슈퍼사이클 직수혜·8/18 재개장 외국인 매수 기대",
+        "m": "2026-08-17 / JPMorgan·Bloomberg / JPMorgan이 글로벌 반도체 산업 2026년 $1.68조(+111% YoY)·2027년 $2.25조(+34%) 전망 대폭 상향. 삼성전자·SK하이닉스가 AI 슈퍼사이클의 메모리 최대 수혜 기업으로 분류—HBM4 완판 구조·ASP 상승 서사 유지. 코스피 반도체 섹터 8/18 재개장 외국인 매수 지속 전망."
       }
     ]
   },
