@@ -1,16 +1,60 @@
 {
   "STOCKS": [
-    {"tkr":"SPCX","price":140.00,"prevPct":-0.91},
-    {"tkr":"NVDA","price":225.16,"prevPct":0.19},
-    {"tkr":"TSLA","price":342.27,"prevPct":0.68},
-    {"tkr":"AMD","price":514.39,"prevPct":5.60},
-    {"tkr":"AVGO","price":392.99,"prevPct":-5.94},
-    {"tkr":"MU","price":971.66,"prevPct":2.30},
-    {"tkr":"INTC","price":103.27,"prevPct":-1.23},
-    {"tkr":"005930","price":274500,"prevPct":2.43},
-    {"tkr":"000660","price":1645000,"prevPct":3.26},
-    {"tkr":"042700","price":226000,"prevPct":5.36},
-    {"tkr":"012450","price":1155000,"prevPct":2.50}
+    {
+      "tkr": "SPCX",
+      "price": 140.0,
+      "prevPct": -0.91
+    },
+    {
+      "tkr": "NVDA",
+      "price": 225.16,
+      "prevPct": 0.19
+    },
+    {
+      "tkr": "TSLA",
+      "price": 342.27,
+      "prevPct": 0.68
+    },
+    {
+      "tkr": "AMD",
+      "price": 514.39,
+      "prevPct": 5.6
+    },
+    {
+      "tkr": "AVGO",
+      "price": 392.99,
+      "prevPct": -5.94
+    },
+    {
+      "tkr": "MU",
+      "price": 971.66,
+      "prevPct": 2.3
+    },
+    {
+      "tkr": "INTC",
+      "price": 103.27,
+      "prevPct": -1.23
+    },
+    {
+      "tkr": "005930",
+      "price": 274500,
+      "prevPct": 2.43
+    },
+    {
+      "tkr": "000660",
+      "price": 1645000,
+      "prevPct": 3.26
+    },
+    {
+      "tkr": "042700",
+      "price": 226000,
+      "prevPct": 5.36
+    },
+    {
+      "tkr": "012450",
+      "price": 1155000,
+      "prevPct": 2.5
+    }
   ],
   "HIDDEN": {
     "US": [
@@ -254,52 +298,52 @@
   "NEWS": {
     "US": [
       {
-        "tag": "INTC·AMD·NVDA·AVGO",
+        "tag": "SPCX",
         "cls": "down",
-        "h": "미-이란 신규 공습으로 평화협정 위협·칩주 장 초반 급락·INTC -4.6%·AMD -3%·AVGO -3%·NVDA -1.7%",
-        "m": "2026-08-17 / Yahoo Finance·TradingView / 미국이 이란에 신규 공습을 가하며 6월 MOU로 성사된 평화협정이 흔들렸다. INTC -4.6%·AMD·AVGO -3%·NVDA -1.7% 급락. SOXX ETF -3%. 이란은 호르무즈 해협 통행권 장악 목적으로 반복 공격 지속—원유 가격 급등."
-      },
-      {
-        "tag": "INTC",
-        "cls": "up",
-        "h": "INTC $15B 증자 단행(8/10)·Trump 'Apple-Intel 파운드리 딜' 발표·Tesla 14A 확정·Dan Niles '대형 고객 임박'",
-        "m": "2026-08-17 / Benzinga·TechTimes·Tom's Hardware / Intel이 8/10 $15B 주식 공모 단행—1971년 상장 이후 최초 주식 매각(그린슈 포함 최대 $17.25B). Trump 6/18 'Apple이 Intel 파운드리로 칩 제조 합의' 발표, INTC +9% 급등(공식 미확인). Tesla 14A 공개 확정·Apple 18A-P 초기 협력 진행. 14A HVM 2028 목표. Dan Niles '파운드리 대형 고객 발표 임박' 전망."
+        "h": "SpaceX 어닝 비트에도 AI CapEx $15.8B 충격·프리마켓 -11%+·Musk 'NVDA 단독 AI 파트너' 선언",
+        "m": "2026-08-17 / TradingKey·The Globe and Mail·StockTwits / SpaceX가 금융 지표 어닝 비트를 기록했음에도 AI 컴퓨팅 인프라 투자(CapEx) $15.8B가 충격을 줘 프리마켓 -11%+ 급락. 머스크 'SpaceX·Tesla는 NVDA에 단독 파트너, NVDA가 최고 AI 컴퓨팅'이라 선언—NVDA에는 호재. 기관은 실적보다 대규모 CapEx를 부담 요인으로 해석."
       },
       {
         "tag": "NVDA",
         "cls": "up",
-        "h": "NVDA 8/26 실적 D-9·BofA '다분기 업그레이드 사이클' 전망·$94~95B 어닝 비트 기대·Vera Rubin 상업 출하 개시",
-        "m": "2026-08-17 / BofA·Yahoo Finance·TradingKey / Bank of America가 NVDA 8/26 FQ2 실적에서 매출 $94~95B 대형 비트가 향후 '다분기 업그레이드 사이클(multi-quarter upgrade cycle)'을 촉발할 것으로 전망, PT $350. Vera Rubin GPU+Vera CPU 시스템 상업 출하 개시—Blackwell 대비 훈련 GPU 75% 절감·추론 토큰 비용 90% 절감. 모든 프론티어 AI 기업이 Vera Rubin 동시 채택 예정. 61인 Strong Buy."
+        "h": "NVDA 8/26 실적 D-9·BofA '다분기 업그레이드 사이클' 전망·$94~95B 어닝 비트 기대·Vera Rubin 상업 출하",
+        "m": "2026-08-17 / BofA·Yahoo Finance·TradingKey / Bank of America가 NVDA 8/26 FQ2 실적에서 매출 $94~95B 대형 비트가 '다분기 업그레이드 사이클'을 촉발할 것으로 전망, PT $350. Vera Rubin GPU+CPU 시스템 상업 출하 개시—훈련 GPU 75% 절감·추론 비용 90% 절감. 61인 Strong Buy."
       },
       {
-        "tag": "AVGO",
-        "cls": "down",
-        "h": "AVGO Q3 AI 가이던스 $16B·추정치 $17.2B 대비 쇼크·Q2 AI 매출 +143% YoY·Polymarket 94% 목표 달성 베팅",
-        "m": "2026-08-17 / Yahoo Finance·StockAnalysis·Polymarket / Broadcom Q3 AI 칩 매출 가이던스 $16B—월가 추정치 $17.2B 대비 하회로 장 초반 급락. Q2 AI 매출 $10.8B(+143% YoY)·전체 매출 $22.19B(+48%) 견조. CEO Hock Tan, Q3 AI 매출 YoY 200%+ 성장 예상 재확인—파이낸싱 일정 문제, 수요 이상 없음. Polymarket 94% 달성 베팅. 장 중 반등 회복."
-      },
-      {
-        "tag": "TSLA",
+        "tag": "INTC",
         "cls": "up",
-        "h": "테슬라 로보택시 미국 7개 도시 확장·FSD V15 로보택시 전용 함대 테스트·FSD 구독 부착률 55%+ 신기록·유럽 5개국 추가 승인",
-        "m": "2026-08-17 / TeslaOracle·Autoevolution·TSLA Q2 Update / Tesla 로보택시가 오스틴·마이애미·올랜도·탬파 등 미국 7개 도시로 확장. FSD V15가 로보택시 전용 차량에서 테스트 중—V14 대비 대폭 개선 계획의 40% 구현. 북미 신규 딜리버리에서 FSD 구독 부착률 55%+ 신기록. 리투아니아·에스토니아·덴마크·벨기에·네덜란드 5개국 추가 규제 승인."
+        "h": "INTC $15B 증자 단행·Trump 'Apple-Intel 파운드리 딜' 발표·Tesla 14A 확정·Dan Niles '대형 고객 임박'",
+        "m": "2026-08-17 / Benzinga·TechTimes·Tom's Hardware / Intel이 8/10 $15B 주식 공모 단행—1971년 상장 이후 최초 주식 매각(그린슈 포함 최대 $17.25B). Trump 'Apple이 Intel 파운드리로 칩 제조 합의' 발표 INTC +9% 급등(공식 미확인). Tesla 14A 공개 확정. Dan Niles '파운드리 대형 고객 발표 임박' 전망."
       },
       {
         "tag": "AMD",
         "cls": "up",
-        "h": "AMD MI455X+Helios 랙 정식 출하 개시·삼성 HBM4 탑재·40 PFLOPs·$5.25M·Lisa Su '본계약 거의 다'",
-        "m": "2026-08-17 / HPCwire·Tom's Hardware·서울경제 / AMD Advancing AI 2026에서 Instinct MI455X(CDNA 5·TSMC 2nm·432GB HBM4·40 PFLOPs FP4·320B 트랜지스터)와 Helios AI 랙($5.25M·2.9 엑사플롭스) 공식 출시. Q3 말 출하 개시, Q4~H1 2027 본격 램프. 삼성전자 HBM4 탑재 확정. 리사 수 CEO '삼성 HBM4 본계약 거의 다(almost close)' 발언. OpenAI·Anthropic 등 빅테크 고객 확보. NVDA Vera Rubin과 직접 경쟁."
+        "h": "AMD $4.75B 사상 최대 채권 발행·AI 인프라 투자 확대·MI455X+Helios 랙 Q3 말 출하·삼성 HBM4 탑재",
+        "m": "2026-08-17 / Yahoo Finance·HPCwire·Tom's Hardware / AMD가 AI 인프라 투자 확대를 위해 $4.75B 사상 최대 채권 발행. Q2 매출 +50% YoY 기록 후 적극 투자 지속. MI455X(CDNA 5·TSMC 2nm·432GB HBM4·40 PFLOPs)와 Helios AI 랙($5.25M) 정식 출시·Q3 말 출하. 삼성전자 HBM4 탑재 확정. Lisa Su '본계약 거의 다' 발언."
+      },
+      {
+        "tag": "AVGO",
+        "cls": "down",
+        "h": "AVGO Q3 AI 가이던스 $16B·추정치 $17.2B 하회 쇼크·CEO '수요 이상 없다' 재확인·장 중 반등",
+        "m": "2026-08-17 / Yahoo Finance·StockAnalysis / Broadcom Q3 AI 칩 매출 가이던스 $16B—월가 추정치 $17.2B 하회. Q2 AI 매출 $10.8B(+143% YoY)·전체 매출 $22.19B(+48%) 견조. CEO Hock Tan '파이낸싱 일정 문제, 수요 이상 없다' 재확인—장 중 반등 성공. AI ASIC 시장 70~80% 점유."
+      },
+      {
+        "tag": "TSLA",
+        "cls": "up",
+        "h": "테슬라 로보택시 미국 7개 도시 확장·FSD V15 테스트·FSD 구독 부착률 55% 신기록·유럽 5개국 승인",
+        "m": "2026-08-17 / TeslaOracle·Autoevolution / Tesla 로보택시가 오스틴·마이애미 등 미국 7개 도시로 확장. FSD V15 로보택시 전용 테스트 중. 북미 신규 딜리버리 FSD 구독 부착률 55%+ 신기록. 리투아니아·에스토니아 등 유럽 5개국 추가 규제 승인."
       },
       {
         "tag": "MU",
         "cls": "up",
-        "h": "MU HBM4 Vera Rubin 고볼륨 생산·PCIe Gen6 SSD+SOCAMM2 동시 출하·대역폭 2.8TB/s·2026 HBM 전량 완판",
-        "m": "2026-08-17 / Micron IR·HPCwire·Tom's Hardware / Micron이 NVDA Vera Rubin 전용 HBM4 36GB 12H 고볼륨 생산 돌입. PCIe Gen6 SSD(28Gbps)·192GB SOCAMM2 동시 Vera Rubin 플랫폼 공급. 대역폭 2.8TB/s(HBM3E 대비 2.3배)·전력 효율 +20%. 16H 48GB 샘플도 주요 고객 출하 완료. 2026 HBM 전량 고정가 계약 완판. Morgan Stanley 반도체 최선호주·NVDA 8/26 실적 D-9 최대 메모리 수혜주."
+        "h": "MU HBM4 Vera Rubin 고볼륨 생산 돌입·대역폭 2.8TB/s·2026 HBM 전량 완판·Morgan Stanley 최선호주",
+        "m": "2026-08-17 / Micron IR·HPCwire / Micron이 NVDA Vera Rubin 전용 HBM4 36GB 12H 고볼륨 생산 돌입. 대역폭 2.8TB/s(HBM3E 2.3배)·전력 효율 +20%. 2026년 HBM 전량 고정가 완판. Morgan Stanley 반도체 최선호주·NVDA 8/26 실적 D-9 최대 수혜주."
       },
       {
-        "tag": "TSMC",
-        "cls": "up",
-        "h": "TSMC 7월 매출 역대 최고 NT$467.58B·YoY +44.7%·AI 2nm 공정 가격 인상 주도·2026 성장률 40%+ 상향",
-        "m": "2026-08-17 / CNBC·Yahoo Finance·Digitimes·AIWeekly / TSMC 7월 매출 NT$467.58B(USD $14.5B)·전월 대비 +5.6%·YoY +44.7%—역대 월간 최고. 1~7월 누계 NT$2.872조(+37% YoY)도 역대 최대. HPC 비중 61%. 2nm 상업 생산 진입·고단가 수주 비중 확대. 2026년 전체 성장률 가이던스 40%+ 상향. CAPEX $52~56B 중 70~80%를 2nm·최첨단 공정에 배정. NVDA·AVGO 등 AI 칩 파운드리 구조적 수요 폭발."
+        "tag": "반도체",
+        "cls": "new",
+        "h": "JP모건 2026년 반도체 $1.68T 전망·칩주 프리마켓 랠리·MU·SKHY·NVDA·AMD·INTC 동반 강세",
+        "m": "2026-08-17 / Yahoo Finance·247WallSt / JPMorgan이 2026년 글로벌 반도체 시장 $1.68조(+111% YoY) 전망, 2027년 $2.25조 예측. 컴퓨팅: NVDA·AVGO·AMD·INTC, 메모리: MU 동시 최선호 추천. 5월 글로벌 반도체 월간 매출 $1,206억 역대 최고(15개월 연속 경신). MU·SKHY·NVDA·AMD·INTC 프리마켓 랠리 연장."
       }
     ],
     "KR": [
@@ -307,49 +351,49 @@
         "tag": "KOSPI",
         "cls": "new",
         "h": "8/18 재개장 D-0·미국 칩주 이란 충격 반등 성공→코스피 반도체 동반 강세 기대·외인 8.07조 수급 견고",
-        "m": "2026-08-17 / Bloomberg·파이낸셜뉴스 / 한국 증시 광복절 대체공휴일(8/17) 휴장 후 8/18(화) 재개장. 미국 NVDA·MU·INTC가 미-이란 긴장에도 반등 성공—코스피 반도체 삼성전자·SK하이닉스 동반 강세 기대. 외국인 8/11~14 코스피 8.07조 순매수 수급 기반 견고. NVDA 8/26 실적 D-9 모멘텀 지속."
+        "m": "2026-08-17 / Bloomberg·파이낸셜뉴스 / 한국 증시 광복절 대체공휴일(8/17) 휴장 후 8/18(화) 재개장. 미국 NVDA·MU·INTC가 이란 긴장에도 반등 성공—코스피 반도체 삼성전자·SK하이닉스 동반 강세 기대. 외국인 8/11~14 코스피 8.07조 순매수 수급 기반 견고. NVDA 8/26 실적 D-9 모멘텀."
       },
       {
         "tag": "삼성전자·SK하이닉스",
         "cls": "up",
-        "h": "외국인 '다시 삼전·닉스로'·반도체 랠리 재시동·8/11~14 삼성 3.33조+하이닉스 2.86조 순매수·8/18 동반 강세 기대",
-        "m": "2026-08-16 / 파이낸셜뉴스 / 외국인이 8/11~14 코스피에서 삼성전자 3조3,064억·SK하이닉스 2조8,580억원을 순매수—총 8.07조 중 두 반도체 대장주가 75% 차지. 미국 AI 칩 강세·AI 메모리 수요 폭발 신호가 국내 수급 반전 촉매. 전문가 '극단적 저평가 구간 탈피 시작' 언급—추가 기관·외인 유입 기대. 8/18 재개장 첫날 동반 강세 전망."
+        "h": "외국인 '다시 삼전·닉스로'·8/11~14 삼성 3.33조+하이닉스 2.86조 순매수·8/18 동반 강세 전망",
+        "m": "2026-08-16 / 파이낸셜뉴스 / 외국인이 8/11~14 코스피에서 삼성전자 3조3,064억·SK하이닉스 2조8,580억원 순매수—총 8.07조 중 두 반도체 대장주가 75% 차지. AI 칩 강세·메모리 수요 폭발 신호가 수급 반전 촉매. '극단적 저평가 구간 탈피 시작'—추가 기관·외인 유입 기대."
       },
       {
         "tag": "SK하이닉스",
         "cls": "up",
-        "h": "SKHY ADR 나스닥 프리미엄 30~35% 확대·HBM4 하반기 출하 본격화·Q2 OPM 76% 사상 최고·DRAM ASP +30%",
-        "m": "2026-08-17 / Mitrade·Investing.com·Newspim / SK하이닉스 나스닥 ADR(SKHY) 프리미엄이 상장(7/10) 초 16%에서 최근 30~35%로 확대. HBM4 하반기 판매 본격화, 비트그로스 상반기 초과 전망. Q2 매출 79.3조원(+257% YoY)·OPM 76% 사상 최고. DRAM ASP +30%·NAND +50% 강세 지속."
+        "h": "SKHY ADR 나스닥 프리미엄 30~35%·HBM4 하반기 출하 본격화·Q2 OPM 76% 사상 최고·DRAM ASP +30%",
+        "m": "2026-08-17 / Mitrade·Investing.com / SK하이닉스 나스닥 ADR(SKHY) 프리미엄 30~35% 확대. HBM4 하반기 판매 본격화. Q2 매출 79.3조원(+257% YoY)·OPM 76% 사상 최고. DRAM ASP +30%·NAND +50% 강세."
       },
       {
-        "tag": "SK하이닉스·SanDisk",
+        "tag": "한미반도체",
         "cls": "new",
-        "h": "SK하이닉스+SanDisk HBF(High Bandwidth Flash) 첫 표준 규격 공개·AI 시대 차세대 메모리 생태계 선점",
-        "m": "2026-08-17 / SPTAT Korea·반도체 뉴스 / SK하이닉스와 SanDisk(SNDK)가 차세대 스토리지 기술 HBF(High Bandwidth Flash) 최초 표준 규격을 공동 공개. HBM 대역폭 구조를 NAND 플래시에 적용해 AI 추론 서버 스토리지 혁신을 목표. AI 데이터센터 메모리+스토리지 통합 생태계 선점 시도."
+        "h": "한미반도체 BOC COB 본더 세계 최초 출시·인도 구자라트 글로벌 메모리 고객사 공급 확정",
+        "m": "2026-08-17 / AlphaSquare·반도체 업계 / 한미반도체가 BOC COB(Chip-on-Board) 본더를 세계 최초로 출시하고, 글로벌 메모리 고객사(인도 구자라트 공장) 공급을 확정. TC본더에 이어 COB 패키징 시장으로 제품군을 확장하며 HBM4E 후공정 장비 독점 구도 강화."
       },
       {
         "tag": "삼성전자·AMD",
         "cls": "up",
-        "h": "AMD Helios 랙 Q3 말 삼성 HBM4 탑재 출하 개시·Lisa Su '본계약 거의 다'·MI455X OpenAI·Anthropic 고객 확보",
-        "m": "2026-08-17 / 서울경제·HPCwire·AMD Newsroom / AMD Advancing AI 2026에서 리사 수 CEO가 삼성전자 HBM4 본계약 논의를 '거의 다(almost close)' 발언. AMD Helios AI 랙이 Q3 말부터 삼성 HBM4 탑재 출하 시작—432GB HBM4 탑재 MI455X 72개 구성. OpenAI·Anthropic·빅테크 고객 확보로 NVDA 의존도 탈피 HBM4 수요처 다변화 본격화."
+        "h": "AMD Helios 랙 Q3 말 삼성 HBM4 탑재 출하·Lisa Su '본계약 거의 다'·OpenAI·Anthropic 고객 확보",
+        "m": "2026-08-17 / 서울경제·HPCwire / AMD 리사 수 CEO가 삼성전자 HBM4 본계약 '거의 다(almost close)' 발언. AMD Helios AI 랙 Q3 말 삼성 HBM4 탑재 출하 시작—432GB HBM4·MI455X 72개 구성. OpenAI·Anthropic 고객 확보로 HBM4 수요처 다변화."
       },
       {
         "tag": "한화에어로스페이스",
         "cls": "up",
-        "h": "미 SPH 자주포 10조 사업 8월 복수 시제품 선정 임박·K9MH 현지 탄약공장 투자 패키지·중동 유도무기 4,024억 계약",
-        "m": "2026-08-17 / BusinessPost·ZDNet·헤럴드경제 / 미국 육군 차륜형 자주포 현대화(SPH) 사업—총 500문·사업비 약 10조원—이달 복수 시제품 업체 선정 후 2027년 초 최종 양산 업체 결정 예정. 한화에어로스페이스 K9MH 출사표, 현지 탄약공장 신설 포함 '포형 패키지' 제출. 경쟁사: 라인메탈·BAE·엘빗·GDLS·KNDS 등 6개 경합. 중동 국방부 유도무기 4,024억 계약 별도 체결. Q2 영업이익 1.37조(+58.5%) 역대 최대."
+        "h": "미 SPH 자주포 10조 사업 8월 복수 시제품 선정 임박·K9MH 탄약공장 투자 패키지·중동 4,024억 계약",
+        "m": "2026-08-17 / BusinessPost·ZDNet / 미국 육군 차륜형 자주포(SPH) 현대화 사업—총 500문·약 10조원—이달 복수 시제품 업체 선정 예정. K9MH 출사표·현지 탄약공장 신설 패키지 제출. 중동 유도무기 4,024억 계약 별도 체결. Q2 영업이익 1.37조(+58.5%) 역대 최대."
       },
       {
-        "tag": "한미반도체",
-        "cls": "up",
-        "h": "5,000평 8공장 착공·한미USA 산호세 4Q 가동·TC본더 71.2% 독점·HBM4 삼성·SK하이닉스·마이크론 3사 공급",
-        "m": "2026-08-17 / 뉴스핌·AlphaSquare / 한미반도체 5,000평 규모 8공장 착공—TC본더 CAPA 선제 확충. 미국 산호세 한미USA 4분기 가동 예정. TC본더 글로벌 71.2% 독점 유지. HBM4 삼성전자·SK하이닉스·마이크론 3사 TC본더 공급 확정. 하나증권 2027년 순이익 +48% 전망."
+        "tag": "SK하이닉스·SanDisk",
+        "cls": "new",
+        "h": "SK하이닉스+SanDisk HBF(High Bandwidth Flash) 첫 표준 규격 공개·AI 차세대 메모리 생태계 선점",
+        "m": "2026-08-17 / SPTAT Korea·반도체 뉴스 / SK하이닉스와 SanDisk(SNDK)가 차세대 HBF(High Bandwidth Flash) 최초 표준 규격 공동 공개. HBM 대역폭 구조를 NAND 플래시에 적용해 AI 추론 서버 스토리지 혁신 목표. AI 데이터센터 메모리+스토리지 통합 생태계 선점 시도."
       },
       {
         "tag": "삼성전자",
         "cls": "up",
-        "h": "삼성 zHBM·FMS 2026 발표·AI 가속기 위 수직 적층 아키텍처·HBM5 대비 성능 8배·수율 80% 조기 달성",
-        "m": "2026-08-17 / Samsung Newsroom·HPCwire·AndroidHeadlines / 삼성전자, FMS 2026(산타클라라 8/5)에서 차세대 3D 메모리 아키텍처 zHBM 공개. AI 가속기 위에 HBM을 직접 수직 적층해 데이터 이동 거리 최소화—HBM5 대비 성능 8배·밀도 10배·열저항 50% 개선 목표. HBM4 황금 수율 80% 조기 달성. HBM4E 샘플 주요 고객 5월 최초 출하 완료—SK하이닉스와 차세대 메모리 생태계 선점 경쟁 본격화."
+        "h": "삼성 zHBM FMS 2026 발표·AI 가속기 위 수직 적층·HBM5 대비 성능 8배·HBM4 수율 80% 조기 달성",
+        "m": "2026-08-17 / Samsung Newsroom·HPCwire / 삼성전자, FMS 2026(산타클라라 8/5)에서 차세대 3D 메모리 zHBM 공개. AI 가속기 위에 HBM 수직 적층—HBM5 대비 성능 8배·밀도 10배·열저항 50% 개선 목표. HBM4 황금 수율 80% 조기 달성. HBM4E 샘플 주요 고객 5월 최초 출하."
       }
     ]
   },
