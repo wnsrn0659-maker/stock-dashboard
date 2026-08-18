@@ -2,7 +2,7 @@
   "STOCKS": [
     {
       "tkr": "SPCX",
-      "price": 140.0,
+      "price": 140,
       "prevPct": -0.91
     },
     {
@@ -301,75 +301,75 @@
         "tag": "NVDA",
         "cls": "up",
         "h": "젠슨 황, OpenAI 오하이오 DC $1050억 파이낸싱 확정·8GW 컴퓨트·2030년 $6000억 기회 선언",
-        "m": "2026-08-18 / CNBC·Yahoo Finance·Benzinga / NVDA, SB Energy 통해 OpenAI 오하이오 데이터센터 최대 $1050억 파이낸싱 지원 발표—초기 4.25GW·추가 3.75GW 옵션. 젠슨 황 '순환 파이낸싱 아니다' 반박하며 OpenAI 컴퓨트 2030년 $6000억 기회 전망. 8/17 발표 후 $225.16 유지. 8/26 실적 D-8·36인 전원 Buy."
+        "m": "2026-08-18 / CNBC·Yahoo Finance·Benzinga / NVDA, SB Energy 통해 OpenAI 오하이오 데이터센터 최대 $1050억 파이낸싱 지원 발표—초기 4.25GW·추가 3.75GW 옵션. 젠슨 황 '순환 파이낸싱 아니다' 반박하며 OpenAI 컴퓨트 2030년 $6000억 기회 전망. 8/26 실적 D-8·36인 전원 Buy."
       },
       {
-        "tag": "SPCX",
+        "tag": "AVGO",
         "cls": "up",
-        "h": "SpaceX+Tesla Terafab $168억 AI반도체 팩토리·머스크 'NVDA 단독 칩' 선언·Morgan Stanley $300 PT",
-        "m": "2026-08-18 / StarupHub·GuruFocus·TradingView / SpaceX-Tesla 합작 AI반도체 슈퍼팩토리 Terafab(텍사스 그라임스 카운티, $16.8B 투자) 가동 예정. 머스크 SpaceX AI 서비스 전량 NVDA 단독 선언. 8/17 기관 13F 공시(Darsana·Viking·PRIMECAP 신규 포지션) 후 강세. Morgan Stanley Overweight·PT $300."
+        "h": "AVGO 6/4 이후 최고가 회복·VMware vDefend 보안 소프트 확장·Hock Tan AI반도체 2027년 $1000억 가이던스",
+        "m": "2026-08-18 / Benzinga·Insider Monkey·Kalkine / Broadcom 주가 6월 4일 이후 최고가 도달—BofA 쇼크 후 저가 매수세 유입. 8/6 VMware vDefend·Avi Load Balancer 보안 기능 추가로 인프라 소프트웨어도 진화. Hock Tan, AI반도체 매출 2027년 $100B 가이던스(2Q26 $10.8B·+143% YoY). AI 가속기+하이퍼스케일러 네트워킹 2중 성장 엔진 부각."
       },
       {
         "tag": "AMD",
         "cls": "up",
-        "h": "AMD-OpenAI AI GPU 6GW 다년 계약·Oracle MI450 5만대 슈퍼클러스터·8/18 차익 소화·Baird PT $1,250",
-        "m": "2026-08-18 / TechStartups·247wallst / AMD OpenAI 6GW AI GPU 다년 공급 계약·Oracle Cloud MI450 5만 대 슈퍼클러스터 Q3 제공. Q2 DC 매출 $6.7B(+100% YoY)·Q3 가이던스 $13B(+41%). 최근 급등 후 8/18 차익 소화(-1.63% $506). Baird PT $1,250(스트리트 최고)."
+        "h": "AMD $47.5억 역대 최대 채권 발행·OpenAI 6GW Helios 랙·Oracle MI450 5만대·Baird PT $1,250",
+        "m": "2026-08-18 / TechStartups·247wallst·Yahoo Finance / AMD $47.5억 채권 발행(역대 최대) — AI 인프라 대규모 약정 자금 조달. OpenAI 6GW Helios 랙 커밋·Oracle Cloud MI450 5만 대 슈퍼클러스터 Q3 제공. Q2 DC 매출 $6.7B(+100% YoY)·Q3 가이던스 $13B. Baird PT $1,250(스트리트 최고). YTD +100%."
       },
       {
         "tag": "TSLA",
         "cls": "new",
-        "h": "TSLA 2026 CapEx $250억으로 상향·AI·Dojo2·사이버캡·옵티머스 4대 투자 축·8/18 소폭 조정",
-        "m": "2026-08-18 / Yahoo Finance·Benzinga / Tesla 2026년 자본지출 $200억→$250억 상향—AI 인프라·Dojo 2 컴퓨트·사이버캡 로보택시·옵티머스 로봇 개발 집중 투입. 8/18 $339.30(-0.87%). 미국 7개 메트로 무감독 로보택시 운행 중. FSD 구독 130만(Q1)."
-      },
-      {
-        "tag": "AVGO",
-        "cls": "down",
-        "h": "AVGO BofA $370B AI부채 셀오프 진정·9/2 FY2026 Q3 실적 촉매 임박·AI 가이던스 $16B(+200% YoY)",
-        "m": "2026-08-18 / FXLeaders·BofA / AVGO 8/14 -6% 폭락 후 회복 중($392.43, -0.14%). BofA $370B AI 관련 부채 리스크 경고 매도 진정. AI 기본 펀더멘털(Q3 가이던스 $16B +200% YoY) 불변. 9/2 Q3 FY2026 실적이 다음 핵심 촉매."
+        "h": "TSLA 2026 CapEx $250억 상향·AI·Dojo2·사이버캡·옵티머스 4대 투자 축·무감독 로보택시 7개 메트로 가동",
+        "m": "2026-08-18 / Yahoo Finance·Benzinga / Tesla 2026년 자본지출 $200억→$250억 상향—AI 인프라·Dojo 2·사이버캡 로보택시·옵티머스 로봇 개발. 8/18 $339.30(-0.87%). 미국 7개 메트로 무감독 로보택시 운행 중. FSD 구독 130만(Q1)."
       },
       {
         "tag": "MU",
         "cls": "up",
-        "h": "MU $1,000 돌파·HBM4 36GB 12단 NVDA Vera Rubin 고볼륨 생산·FQ4 가이던스 $50B",
+        "h": "MU $1,000 돌파·HBM4 36GB 12단 NVDA Vera Rubin 고볼륨 생산·FQ4 가이던스 $50B·Morgan Stanley 최선호",
         "m": "2026-08-18 / 247wallst·Morgan Stanley / MU $1,000 돌파(+2.30%). FQ3 매출 $41.46B(+345.7% YoY)·GAAP 그로스마진 84.6% 역대 최고·FQ4 가이던스 $50B. HBM4 36GB 12단 NVDA Vera Rubin 고볼륨 생산 돌입. Morgan Stanley 2026 최선호주. Citi PT $1,150·평균 PT $1,569."
       },
       {
         "tag": "INTC",
-        "cls": "new",
-        "h": "INTC 8/18 +0.38%·Tesla Terafab 14A 파운드리 확정·BofA $20B 증자 후 강세 전환 유지",
-        "m": "2026-08-18 / Benzinga·Seeking Alpha·BofA / Intel 8/18 +0.38% $102.89 강세. Tesla·SpaceX Terafab 자체 AI칩에 Intel 14A 공정 사용 확정(Musk 직접 발표). BofA Vivek Arya, $20B 증자 성공이 내부 수요·파운드리 고객 신뢰 확인 Bullish 유지. YTD +163% 랠리 지속. FQ3 Non-GAAP EPS 가이던스 $0.38."
+        "cls": "up",
+        "h": "INTC YTD +124%·AVGO 실적 쇼크 후 섹터 손실 회복·Tesla Terafab 14A 파운드리 확정·$20B 증자 성공",
+        "m": "2026-08-18 / Benzinga·247wallst·Yahoo Finance / INTC YTD +124% 상승률 반도체 섹터 1위—AVGO 가이던스 충격 후 2일 낙폭에서 손실 반납 매수세 유입. Tesla·SpaceX Terafab 14A 공정 확정(Musk 직접 발표). $20B 증자 성공으로 파운드리 고객 신뢰 재확인. 차익 실현 시점 논쟁 중."
+      },
+      {
+        "tag": "SPCX",
+        "cls": "up",
+        "h": "SpaceX+Tesla Terafab $168억 AI반도체 팩토리·머스크 'NVDA+INTC 14A 단독' 선언·Morgan Stanley PT $300",
+        "m": "2026-08-18 / StarupHub·GuruFocus·TradingView / SpaceX-Tesla 합작 AI반도체 슈퍼팩토리 Terafab(텍사스 그라임스 카운티, $16.8B 투자) 가동 예정. 머스크 AI 서비스 전량 NVDA+Intel 14A 파운드리 단독 선언. 8/17 기관 13F(Darsana·Viking·PRIMECAP 신규) 강세. Morgan Stanley Overweight·PT $300."
       }
     ],
     "KR": [
       {
         "tag": "KOSPI",
         "cls": "new",
-        "h": "코스피 7000선 안착 시도·FOMC 의사록 8/19 매파 변수·중동 유가 리스크 경계",
-        "m": "2026-08-18 / 뉴스핌·서울경제·파이낸셜뉴스 / 코스피 7,000선 안착 도전—FOMC 7월 의사록 8/19 공개가 최대 변수(금리 동결 속 매파 의견 확인 여부 주목). 중동 이란 호르무즈 긴장·국제유가 상승 부담. 반도체 수출 8/1~10일 +155.4% 펀더멘털 지지. 뉴욕증시 간밤 소폭 하락으로 투자심리 관망."
+        "h": "코스피 7000선 공방·FOMC 의사록 8/19 매파 변수·반도체 수출 +155% 펀더멘털 지지",
+        "m": "2026-08-18 / 뉴스핌·서울경제·파이낸셜뉴스 / 코스피 7,000선 공방—FOMC 7월 의사록 8/19 공개 최대 변수(금리 동결 속 매파 확인 여부). 반도체 수출 8/1~10일 +155.4% 펀더멘털 지지. 중동 유가 리스크 경계. 뉴욕증시 간밤 소폭 하락으로 투자심리 관망."
       },
       {
         "tag": "삼성전자",
         "cls": "up",
-        "h": "삼성전자 8/18 +3.46% 28만4000원·HBM4 점유율 30% 회복·NVDA 8/26 실적 수혜 기대",
-        "m": "2026-08-18 / 뉴스핌·이투데이 / 삼성전자 +3.46% 28만4000원. HBM4 점유율 17%→30% 회복 추정—SK하이닉스 독주 균열. HBM4 16단 수율 80% 조기 달성. NVDA 8/26 실적(D-8) 기대 외국인 대량 순매수 지속."
+        "h": "삼성전자 8/18 +3.46% 28만4000원·핫칩스 2026(8/23~25) HBM 베이스다이 발표·P4 HBM 생산 50% 증설",
+        "m": "2026-08-18 / 뉴스핌·이투데이·Daum / 삼성전자 +3.46% 28만4000원. 8/23~25 스탠퍼드 핫칩스 2026에서 HBM 베이스다이 기술 발표 예정—차세대 zHBM(GPU+HBM 3D 수직 적층) 공개. 평택 P4 HBM 생산능력 2026년 50% 증설 조기 추진. NVDA 8/26 실적 기대 외국인 순매수 지속."
       },
       {
         "tag": "SK하이닉스",
         "cls": "up",
-        "h": "SK하이닉스 8/18 +7.96%·HBM4E 12단 16Gbps·에너지효율 +20%·루빈 70% 독점·Q2 OPM 76%",
-        "m": "2026-08-18 / 뉴스핌·BusinessPost / SK하이닉스 +7.96% 177만6000원. HBM4E 12단 신제품 핀당 16Gbps 최고속도·에너지효율 20% 개선. 루빈 플랫폼 HBM4 70% 독점(UBS). Q2 OPM 76% 사상 최고. MU $1,000 돌파 HBM 섹터 강세 연동."
+        "h": "SK하이닉스 +7.96% 177만6000원·핫칩스 2026 HBM 첨단패키징 발표·HBF 낸드 표준 공개·HBM4E 12단 16Gbps",
+        "m": "2026-08-18 / 뉴스핌·BusinessPost·Daum / SK하이닉스 +7.96% 177만6000원. 핫칩스 2026(8/23~25 스탠퍼드)에서 HBM 첨단패키징 발표—삼성전자와 차세대 HBM 주도권 맞대결. 샌디스크와 고대역폭 낸드(HBF) 첫 표준규격 공개. HBM4E 12단 16Gbps·에너지효율 +20%. 루빈 플랫폼 70% 독점(UBS)."
       },
       {
         "tag": "한미반도체",
         "cls": "up",
-        "h": "한미반도체 8공장 1300억 투자(8/18)·인천 주안 6230평·TC본더+2.5D 패키징·2027 Q2 양산",
+        "h": "한미반도체 8공장 1300억 투자·인천 주안 6230평·TC본더+2.5D 패키징·2027 Q2 양산",
         "m": "2026-08-18 / ZDNet Korea·헤럴드경제 / 한미반도체 인천 주안국가산단 6230평 8공장—총 투자 1300억. HBM TC본더·하이브리드본더·AI반도체 2.5D 패키징 장비 생산. 2027 Q2 양산 목표. 7+8공장 완공 시 생산라인 3만4318평 확대."
       },
       {
         "tag": "반도체 수출",
         "cls": "up",
-        "h": "8/1~10 반도체 수출 +155.4%·AI·HBM 주도·7월 178.8%에서 소폭 둔화 점검",
-        "m": "2026-08-18 / 관세청·파이낸셜뉴스 / 8월 1~10일 반도체 수출 +155.4%—AI서버·HBM 수요 주도. 7월 +178.8%에서 소폭 둔화하나 절대 성장률 역대 최상위. 삼성·SK하이닉스 공급 부족으로 가격 결정력 유지."
+        "h": "8/1~10 반도체 수출 +155.4%·AI·HBM 주도·글로벌 반도체 5월 $1206억 역대 최고 15개월 연속",
+        "m": "2026-08-18 / 관세청·파이낸셜뉴스·JPMorgan / 8월 1~10일 반도체 수출 +155.4%. 글로벌 반도체 판매 5월 $1206억(+104.1% YoY) 15개월 연속 신기록. JPMorgan 2026년 글로벌 반도체 $1.68조(+111% YoY) 전망. 삼성·SK하이닉스 가격결정력 유지."
       },
       {
         "tag": "한화에어로스페이스",
@@ -380,8 +380,8 @@
       {
         "tag": "AI 업황",
         "cls": "up",
-        "h": "NVDA $1050억 OpenAI 오하이오 DC·AMD OpenAI 6GW·코스피 반도체 AI 슈퍼사이클 구조화",
-        "m": "2026-08-18 / CNBC·TechStartups / NVDA $1050억 OpenAI 오하이오 DC 파이낸싱·AMD OpenAI 6GW AI GPU 계약—양대 AI 인프라 투자가 HBM·메모리 수요 장기 가시화. Anthropic Q2 매출 $11.5B(YoY 14배) 흑자 전환. 코스피 반도체 AI 슈퍼사이클 구조화 재확인."
+        "h": "JPMorgan 글로벌 반도체 2026년 $1.68조·NVDA·AMD·MU 전원 최선호·AI 슈퍼사이클 구조화",
+        "m": "2026-08-18 / JPMorgan·CNBC / JPMorgan 글로벌 반도체 2026년 $1.68조(+111% YoY)→2027년 $2.25조 전망. NVDA·AVGO·AMD·INTC·MU 5개 종목 동시 최선호 유지. Anthropic Q2 매출 $11.5B(YoY 14배) 흑자 전환. AI 데이터센터 투자 코스피 반도체 슈퍼사이클 구조화 확인."
       }
     ]
   },
