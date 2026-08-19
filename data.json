@@ -300,20 +300,20 @@
       {
         "tag": "NVDA",
         "cls": "up",
-        "h": "NVIDIA $1,050억 OpenAI 오하이오 DC 파이낸싱 확정·FQ2 D-7·SpaceX $21B 지분 공시",
-        "m": "2026-08-19 / CNBC·Bloomberg·UPI / NVDA, 8/17 오하이오 Pike City OpenAI DC 1차 파이낸싱 최대 $1,050억 확정(SB에너지 운영·2028 가동·4.25GW+3.75GW 옵션). SB에너지 $15억 추가 투자도 확정. FQ2 실적 8/26(D-7)·컨센서스 매출 $287억. SpaceX $21B 지분 공시 병행."
+        "h": "NVIDIA $1,050억 OpenAI 오하이오 DC 파이낸싱 확정·FQ2 실적 D-7·글로벌 반도체 매출 $1조 첫 돌파",
+        "m": "2026-08-19 / CNBC·Bloomberg·Barchart / NVDA, 8/17 오하이오 Pike City OpenAI DC 파이낸싱 최대 $1,050억 확정. FQ2 실적 8/26(D-7)·컨센서스 매출 $287억. AI 수요 구조화로 2026년 글로벌 반도체 매출 사상 첫 $1조 돌파—JPMorgan 2026 $1.68T·2027 $2.25T 전망. NVDA 실적이 AI 반도체 섹터 전체 방향타."
       },
       {
-        "tag": "INTC",
+        "tag": "AVGO",
         "cls": "down",
-        "h": "인텔 $200억 증자 완료(1971 IPO 이후 첫 공모)·$95 발행가·AI 파운드리 CAPA 재원·주가 단기 -4%",
-        "m": "2026-08-19 / CNBC·Kalkine / 인텔, $15B→$20B 업사이징 확정—1971년 IPO 이후 첫 공개 주식 공모. 210.5M주 $95 발행. AI 파운드리·14A 첨단공정 투자 재원 확보. Tesla·SpaceX·Fortinet 14A 공개 고객 확정. YTD +160%+ 상승 후 단기 -4.15% 조정. 중기 AI 파운드리 서사 불변."
+        "h": "BofA 'Broadcom AI 파이낸싱 부채 $3,700억 리스크' 경고·AVGO -4%~6% 급락·NVDA $5,000억 Blackstone 구조와 비교",
+        "m": "2026-08-19 / Yahoo Finance·Benzinga·247wallst / BofA 애널리스트, Broadcom AI 칩 리스 파이낸싱 차량이 2029년까지 최대 $3,700억 선순위 부채로 확대될 수 있다고 경고—AVGO 주가 -6% 급락. AVGO Q2 AI매출 +143%·$22.19B 펀더멘털 불변이나 부채 구조 리스크 부각. NVDA는 Blackstone·Apollo $5,000억 플랜으로 동일 구조지만 구체적 수치 비공개로 셀오프 회피. 잭슨홀(8/27~29) 이전 변동성 지속 예상."
       },
       {
         "tag": "MU",
         "cls": "up",
-        "h": "MU Q3 FY26 매출 $414.6억(+345.7% YoY)·총이익률 84.9%·$1,000억 AI 메모리 계약·Q4 가이던스 $500억",
-        "m": "2026-08-19 / CNBC·StockTitan / Micron FQ3 2026 매출 $41.46B(컨센서스 +17.6% 초과)·EPS $25.11(컨센서스 +23.8%)·총이익률 84.9%(1990년 이래 최고). $1,000억 AI 메모리 장기 계약 확보·HBM 2026 완판. Q4 가이던스 ~$50B. Anthropic 파트너십 추가 확정."
+        "h": "MU Q3 FY26 $41.46B 어닝비트·총이익률 84.9%·$1조 시총 재탈환·HBM 2026 완판·Q4 가이던스 $50B",
+        "m": "2026-08-19 / CNBC·Benzinga·Intellectia / Micron FQ3 2026 매출 $41.46B(컨센서스 +17.6%)·EPS $25.11·총이익률 84.9%(1990년 이래 최고). 이란 긴장·FOMC 매파 충격 속에서도 $1조 시총 재탈환($1.04T). 2026 HBM 완판·메모리 메이커 2년치 매진(INTC CEO). $1,000억 AI 메모리 장기 계약·Q4 가이던스 ~$50B. 글로벌 3사 중 AI 메모리 슈퍼사이클 최대 수혜."
       },
       {
         "tag": "FOMC",
@@ -324,14 +324,14 @@
       {
         "tag": "AMD",
         "cls": "up",
-        "h": "Druckenmiller 13-F AMD 신규 매수·AVGO·INTC·MU 전량 청산·Rosenblatt PT $665·UBS PT $700",
-        "m": "2026-08-19 / Benzinga·Yahoo Finance / Druckenmiller Duquesne Q2 13-F: AMD 신규 포지션 개시·AVGO·INTC·MU 전량 청산. Rosenblatt AMD 탑픽 PT $490→$665. UBS Buy PT $700. AMD-Anthropic MI450 2GW $5B 파트너십 모멘텀 유효. FOMC 충격 속 NVDA 대안 서사 강세."
+        "h": "Baird AMD PT $1,250 신규 상향·Druckenmiller 신규 매수·FOMC 충격 속 NVDA 대안 서사·Anthropic MI450 파트너십",
+        "m": "2026-08-19 / Benzinga·Yahoo Finance·247wallst / Baird 신규 AMD 목표가 $1,250 제시—현재 대비 +143% 상방. Druckenmiller Duquesne Q2 13-F AMD 신규 포지션·AVGO·INTC·MU 전량 청산. Rosenblatt PT $665·UBS PT $700. AMD-Anthropic MI450 2GW $5B 파트너십 모멘텀. FOMC 매파 충격 속 NVDA 대안 랠리 서사 유지."
       },
       {
         "tag": "TSLA",
         "cls": "new",
-        "h": "Tesla Optimus V3 제한 양산 개시·AI5칩+xAI Grok 음성·오스틴 Giga Texas 전용 라인·2026년말 수백 대 목표",
-        "m": "2026-08-19 / Benzinga·TeslaRati / Optimus V3(AI5칩·22DoF 손·xAI Grok 음성) 제한 양산 개시—오스틴 Giga Texas 전용 라인. 수십 대 배치 중·2026년말 수백 대 목표. 장기 소비자가 $20,000~$30,000 목표. FSD+로봇 이중 AI 모멘텀."
+        "h": "Tesla Optimus V3 제한 양산·AI5칩+xAI Grok 음성·Intel 14A Terafab 연 1T칩 AI 공장 건설 병행",
+        "m": "2026-08-19 / Benzinga·TradingKey·TechRadar / Optimus V3(AI5칩·22DoF 손·xAI Grok 음성) 오스틴 Giga Texas 전용 라인 양산 개시·2026년말 수백 대 목표. 동시에 Tesla는 Intel 14A 공정으로 Terafab(오스틴) AI 칩 공장 구축 중—연간 100B~200B칩·1TW 컴퓨팅 목표. 자율주행·로봇·DC 이중 AI 성장 모멘텀."
       },
       {
         "tag": "SMCI",
@@ -340,18 +340,18 @@
         "m": "2026-08-19 / Yahoo Finance·247wallst / Super Micro FY2026 Q4 EPS $1.62(컨센서스 +76%). FY2027 가이던스 $65~72B(추정 $52.5B 대비 +38% 상회). AI 서버 백로그 $60B 역대 최대. 9개월 부진 후 극적 반전—기관 재편입 기대."
       },
       {
-        "tag": "미이란",
+        "tag": "반도체셀오프",
         "cls": "down",
-        "h": "미군 이란 신규 공습·트럼프 호르무즈 봉쇄 재개 선언·유가 급등·반도체 4종목 동반 하락",
-        "m": "2026-08-19 / Yahoo Finance·TradingView / 미군이 이란에 신규 공습 실시·트럼프 호르무즈 해협 봉쇄 재개 선언. 유가 급등+30년물 5.3%+(2007년 이후 최고) 이중 충격. 필라델피아 반도체지수 -5%대. NVDA -2%·AMD -3%·AVGO -2%·MU -4% 동반 하락. AVGO $392(400달러 지지선 붕괴). 평화 협정 재에스컬레이션으로 반도체 섹터 변동성 최고조."
+        "h": "NVDA -3%·AVGO -4%·AMD -4% 셀오프 심화·이란 재에스컬레이션+FOMC 매파 이중 충격·필반지 -5%",
+        "m": "2026-08-19 / Yahoo Finance·ABC News·TradingView / 이란 긴장 재고조+FOMC 7월 의사록 매파 확인 이중 충격으로 AI 칩 셀오프 심화. NVDA -3%·AVGO -4%·AMD -4%·MU -4% 동반 급락. 필라델피아 반도체지수 -5%대. 미군 이란 신규 공습·호르무즈 봉쇄 재개 선언으로 유가 급등. 잭슨홀(8/27) 전 변동성 지속 경계."
       }
     ],
     "KR": [
       {
         "tag": "한화에어로스페이스",
         "cls": "up",
-        "h": "미 육군 차기 자주포 MTC 시제품 단독 선정·최대 10조원 규모·국산 완성형 무기 최초 미군 납품·8/19 +8.46%",
-        "m": "2026-08-19 / 이데일리·헤럴드경제 / 한화디펜스USA, 미 육군 차세대 차륜형 자주포(MTC) 시제품 제작사 단독 선정. 시제품 6문 후 최대 12문 추가 옵션. 양산·탄약·후속지원 포함 최대 10조원 규모. 국산 완성형 무기 최초 미군 공급. 8/19 +8.46% 확정."
+        "h": "미 육군 MTC 자주포 시제품 단독 선정·계약금 $1,003억·최대 498문 양산 본계약 30조원 가능성·+8.46%",
+        "m": "2026-08-19 / 이데일리·이투데이·뉴스핌 / 한화디펜스USA, 미 육군 차세대 차륜형 자주포(MTC) 시제품 단독 선정—계약금 $1,003억(약 1,417억원), 시제품 6문 공급. 양산 최대 498문 도입 계획으로 탄약·후속지원 포함 최대 30조원 본계약 가능성. 국산 완성형 무기 최초 미군 직납. 8/19 +8.46% 급등 확정."
       },
       {
         "tag": "반도체",
