@@ -286,8 +286,8 @@
       {
         "tag": "잭슨홀",
         "cls": "new",
-        "h": "잭슨홀 D-7(8/27~29)·Warsh 첫 키노트 8/28·\"말 아끼기\" 전략에 시장 기대 과열 경고·금리 방향 불확실",
-        "m": "2026-08-21 / kalkine.com·investinglive.com·regardsofwallstreet.com / 잭슨홀 심포지엄 D-7(8/27~29). 케빈 워시 연준 의장 첫 키노트 8/28—FOMC 19일 전 발언. 워시 의장 특유의 \"말 아끼기(say as little as possible)\" 전략으로 시장 기대가 실제 발언을 앞지르고 있다는 경고 속출. BofA 서베이 \"노랜딩\" 기대 역대 최고치. 9월 금리인상·동결·인하 모두 열린 상태—8월 고용·CPI가 FOMC 이전 핵심 변수."
+        "h": "잭슨홀 D-6(8/27~29)·Warsh 첫 키노트 8/28 '백지 상태'·FOMC 3.5~3.75% 5연속 동결·9월 방향 불확실",
+        "m": "2026-08-21 / kalkine.com·Regards of Wallstreet·CNBC / 잭슨홀 심포지엄 D-6(8/27~29). 케빈 워시 연준 의장 첫 키노트 8/28—FOMC 19일 전 발언. 워시 의장 '키노트는 백지 상태(blank piece of paper)'—말 아끼기 전략 재확인. FOMC 9-3 찬반 5연속 3.5~3.75% 동결—최근 들어 가장 분열된 투표 결과. BofA 서베이 노랜딩 기대 역대 최고치. 9월 16일 FOMC 전 8월 고용·CPI 핵심 변수."
       },
       {
         "tag": "SMCI",
@@ -296,10 +296,10 @@
         "m": "2026-08-21 / Barclays·Goldman·Citi / SMCI FY2026 Q4 EPS $1.62(컨센서스 +76% 어닝비트)·FY2027 매출 가이던스 $65~72B(기존 추정 $52.5B 대비 +38% 충격 상회)·AI 서버 수주잔고 $60B 역대 최대. Barclays·Citi·Goldman 목표가 3연속 상향. 9개월 회계 지연 후 극적 반전·기관 재편입 대기 상태. NVDA 8/26 D-5 Blackwell 수요 확인 시 AI 서버 수요 직수혜."
       },
       {
-        "tag": "AI추론에이전트",
-        "cls": "new",
-        "h": "월가 2026 반도체 포커스 추론 전개·AI에이전트 수익화로 이동·NVDA·MRVL·ALAB 8/26~27 실적 연속",
-        "m": "2026-08-21 / 24/7 Wall St.·intellectia.ai·Benzinga / 월가 2026 반도체 투자 테마, 학습 클러스터 구축에서 추론 전개·AI에이전트 수익화로 이동. NVDA 81% GPU 독점 유지 속 Broadcom·Marvell 커스텀 ASIC 비중 구조적 확대. Astera Labs(ALAB)·Morgan Stanley 2026 최선호 칩스탁 선정. NVDA(8/26)·MRVL(8/27)·AVGO(9/2) 실적 연속 발표로 섹터 방향성 결정."
+        "tag": "AMD반등",
+        "cls": "up",
+        "h": "AMD·MU 반도체 복합체 회복 시도·Rosenblatt AMD 최선호주 PT $665·UBS PT $700 대폭 상향",
+        "m": "2026-08-21 / Yahoo Finance·Rosenblatt·UBS / AVGO 소프트 가이던스 충격 이후 AMD·MU·SK하이닉스 반도체 복합체 회복 시도 진행. AMD, Rosenblatt 최선호주 선정·PT $490→$665(+36%) 대폭 상향. UBS도 AMD PT $700 추가 상향. 반도체 지수 YTD +90% 랠리 후 -20% 포지션 청산이 저점 재진입 기회 분석. NVDA 8/26 D-5 실적 앞두고 저점 매수 수요 유입."
       }
     ],
     "KR": [
