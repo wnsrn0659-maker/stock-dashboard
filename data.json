@@ -300,32 +300,38 @@
       {
         "tag": "NVDA",
         "cls": "up",
-        "h": "NVDA FQ2 실적 D-5(8/26)·컨센서스 $93~95B(YoY +67~75%)·주가 $217.56·역사적 패턴 어닝비트 후 상승 우세",
-        "m": "2026-08-21 / intellectia.ai·Yahoo Finance·watcher.guru / NVDA FQ2 FY2027 실적 8/26(장마감 후) D-5. 컨센서스 $93~95B(YoY +67~75%), EPS $2.07~2.08. 자체 가이던스 $91B±2%. 58/61 분析가 Buy·PT $302.83 평균(최고 $500). 8/21 기준 $217.56, 7/29 저점 대비 +18%. 역대 실적발표 패턴상 어닝비트 후 추가 상승 우세. 중국 매출 노출 $5B 정책 리스크 유의."
+        "h": "NVDA FQ2 D-5(8/26)·컨센서스 $93~95B(YoY +67~75%)·Motley Fool '폭등' vs TipRanks '실망 가능' 경고 공존",
+        "m": "2026-08-21 / intellectia.ai·TipRanks·Motley Fool / NVDA FQ2 FY2027 실적 8/26(장마감 후) D-5. 컨센서스 $93~95B(YoY +67~75%), EPS $2.07~2.08. 자체 가이던스 $91B±2%. 58/61 분析가 Buy·PT $302.83 평균(최고 $500). Motley Fool '어닝 후 주가 폭등' 예측 vs TipRanks '가이던스 실망·중국 매출 $5B 노출' 경고. Blackwell Ultra 공급제약 유지·Vera Rubin Q4 선적 확인 여부 핵심."
+      },
+      {
+        "tag": "반도체",
+        "cls": "up",
+        "h": "반도체 프리마켓 랠리 재개·NVDA +1%·MU +3.5%·AMD +3%·INTC +4.6%·아마존·MS AI CapEx 부양 신호",
+        "m": "2026-08-21 / Yahoo Finance·intellectia.ai / AVGO 가이던스 충격 이후 이틀째 낙폭 확대에 이어 8/21 프리마켓 랠리 재개. NVDA +1%, MU +3.5%, AMD +3%, INTC +4.6% 동반 상승. 아마존·마이크로소프트의 AI 데이터센터 CapEx 상향 발언이 투심 회복 트리거. 다만 SOXX 8월 -21.3%로 2002년 12월 이래 최악 월간 성적 지속."
       },
       {
         "tag": "AMD",
         "cls": "up",
-        "h": "AMD·Anthropic 2GW MI450 파트너십 확정·$5B 전략투자·Taalas 인수 AI 인퍼런스 생태계 본격 확장",
-        "m": "2026-08-21 / AMD Newsroom·HPCwire·GlobeNewswire / AMD-Anthropic, MI455X GPU 기반 AMD Helios 랙스케일 솔루션 2GW 배포 협약(1H2027 첫 1GW 가동). AMD EPYC Venice CPU+Pensando 네트워킹+ROCm 통합 스택. Claude AI로 ROCm 소프트웨어 개발 가속 다년간 협업. AMD, Anthropic에 최대 $5B 전략 지분투자 확정. AI 인퍼런스 컴퓨트사 Taalas 인수 병행. NVDA 독점 균열·AMD AI 생태계 확장 신호."
+        "h": "AMD Helios 풀 프로덕션·Q3 말 선적 시작·Anthropic $5B·MI455X 2GW 2027 1H 배포",
+        "m": "2026-08-21 / AMD IR·CNBC·TradingKey / AMD Helios 랙스케일 솔루션(MI455X GPU+EPYC Venice CPU+Pensando) 풀 프로덕션 돌입·Q3 말 선적 시작 확인. 단가 $500만~$550만/랙. Anthropic 2GW MI455X 배포(1H2027 첫 1GW) 및 AMD→Anthropic 최대 $5B 투자 집행 단계. ROCm 소프트웨어 Claude AI 개발 가속 다년간 협업. NVDA 독점 균열 신호."
       },
       {
         "tag": "TSLA",
         "cls": "up",
-        "h": "Tesla Cybercab 오스틴 일반공개 이번 주말 임박·직원 탑승 시작·무선충전 80곳 임대 완료",
-        "m": "2026-08-21 / Foreign Policy Journal·Tesla Oracle·Carscoops / Tesla, Cybercab 오스틴 일반공개 8월 말 전 가동 확정—직원 탑승 공도 시작 후 수일 내 일반 서비스 편입. 무선충전 위치 80곳 오스틴 임대 완료. 스티어링휠·브레이크 페달 없는 2인승 완전자율 최초 차량. GigaTexas 연산 125,000대 CAPA 확인. Terafab AI칩 공장($168억) 착공 병행."
+        "h": "Tesla Cybercab 런치 이벤트 콘테스트 8/23 마감·8/25 당첨자 발표·오스틴 일반 공도 서비스 8월 말 전 개시",
+        "m": "2026-08-21 / EVTech.News·driveteslacanada·ForeignPolicyJournal / Tesla 공식 로보택시 계정, Cybercab 런치 이벤트 콘테스트 8/23 마감·8/25 당첨자 발표. 직원 탑승 공도 시작 후 수일 내 일반 서비스 편입 예정. 무선충전 위치 80곳 임대 완료. GigaTexas 연산 125,000대 CAPA. 스티어링휠·브레이크 페달 없는 2인승 완전자율 첫 차량."
       },
       {
         "tag": "AVGO",
         "cls": "up",
-        "h": "AVGO 저점 대비 +11% 반등·9/2 FQ3 실적 전 AI ASIC 2027년 $100B 목표 재주목·기관 재진입 포착",
-        "m": "2026-08-21 / Yahoo Finance·TradingKey·stockanalysis.com / Broadcom(AVGO), 7/30 저점 $374.61에서 10거래일 만 +11% 반등($416 수준)—52주 고가 $495 대비 16% 할인. AI 반도체 FQ2 매출 $10.8B(YoY +143%)·총매출 50% 육박. CEO Hock Tan, AI 반도체 2027년 $100B+ 재확인. FQ3 실적 9/2 발표. ARK Invest 저점 매수에 이어 기관 재진입 포착."
+        "h": "AVGO 저점 +11% 반등 지속·9/2 FQ3 실적·AI ASIC 2027년 $100B 목표 재확인·ARK 저점 매수",
+        "m": "2026-08-21 / Yahoo Finance·TradingKey·stockanalysis.com / Broadcom(AVGO), 7/30 저점 $374.61 대비 +11% 반등 유지($416 수준)·52주 고가 $495 대비 16% 할인. FQ2 AI 반도체 매출 $10.8B(YoY +143%)·총매출 50% 육박. CEO Hock Tan AI 반도체 2027년 $100B+ 재확인. FQ3 실적 9/2 발표 앞 ARK Invest 저점 매수 포착."
       },
       {
         "tag": "잭슨홀",
         "cls": "new",
         "h": "잭슨홀 D-6(8/27~29)·Warsh 의장 첫 키노트 8/28·9월 금리동결 가능성 2/3·장기 구조 메시지 예고",
-        "m": "2026-08-21 / kalkine.com·moomoo·investinglive / 잭슨홀 심포지엄 D-6(8/27~29, 와이오밍). 워시 연준 의장 취임 후 첫 키노트 8/28 오전. 근기 유동성 가이던스 대신 장기 구조 문제 집중 예고—시장 쏠림 차단 전략. FOMC 9/16까지 19일. 9월 동결 가능성 약 2/3. 8월 고용·CPI 발표 후 최종 판단. 연준 독립성 강조·시장 예상 역행 가능성 시사."
+        "m": "2026-08-21 / kalkine.com·moomoo·investinglive / 잭슨홀 심포지엄 D-6(8/27~29, 와이오밍). 워시 연준 의장 취임 후 첫 키노트 8/28 오전. 근기 유동성 가이던스 대신 장기 구조 문제 집중 예고. FOMC 9/16까지 19일. 9월 동결 가능성 약 2/3. 연준 독립성 강조·시장 예상 역행 가능성 시사."
       },
       {
         "tag": "SMCI",
@@ -335,15 +341,9 @@
       },
       {
         "tag": "INTC",
-        "cls": "new",
-        "h": "INTC $20B 공모 완료·Tesla Terafab 14A 공정 확정·BofA 파운드리 사업 낙관",
-        "m": "2026-08-21 / BofA·Yahoo Finance / Intel 8/10 $20B 보통주 공모 완료(수요 힘입어 $15B에서 상향). BofA 파운드리 사업 확신 신호로 낙관 유지. Tesla+SpaceX Terafab AI칩 공장(텍사스 그라임스 카운티, $168억) 14A 공정 확정. 14A 결함밀도·트랜지스터 성능 18A 동기 대비 우수. 2028년 외부 고객 양산 목표."
-      },
-      {
-        "tag": "MU",
         "cls": "up",
-        "h": "마이크론 HBM4 3사 공급망 완성·한미반도체 인도공장 TC본더 납품·AI메모리 수요 NVDA D-5 연동",
-        "m": "2026-08-21 / 헤럴드경제·블로터 / 마이크론(MU) 인도 구자라트 HBM4 라인 한미반도체 BOC COB 복합본더 공급 확정. 삼성·SK하이닉스·마이크론 3사 동시 공급 구조 완성. AI GPU 메모리 NVDA D-5(8/26) 실적 전 수요 모멘텀 유지. MU 주가 SK하이닉스 대비 50% 프리미엄 구간."
+        "h": "INTC 프리마켓 +4.6% 선도·Tesla Terafab 14A 공정 확정·$20B 공모 완료·BofA 파운드리 낙관",
+        "m": "2026-08-21 / BofA·Yahoo Finance / Intel 프리마켓 +4.6% 반도체 랠리 선도. $20B 보통주 공모 완료(수요 힘입어 $15B에서 상향). Tesla+SpaceX Terafab AI칩 공장(텍사스, $168억) 14A 공정 확정. BofA 파운드리 낙관 유지. 2028년 외부 고객 양산 목표."
       }
     ],
     "KR": [
