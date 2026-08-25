@@ -328,10 +328,10 @@
         "m": "2026-08-25 / Yahoo Finance·startuphub.ai / Micron(MU), Apple 중국 CXMT 칩 소싱 우려로 하락세 지속. 단 MU HBM 사업은 Apple과 무관. FY2026 Q4 매출 $50B 타겟. Q3 OPM 84.9% 1990년 이래 최고·HBM3E·HBM4 2026년 완판 확정. 평균 PT $1,480~$1,502(+65% 상방). NVDA 오늘(8/26) HBM 수요 가이던스 확인 시 V자 반등 기대."
       },
       {
-        "tag": "반도체",
-        "cls": "new",
-        "h": "글로벌 반도체 5월 $1,206억 역대 최고·YoY +104.1%·15개월 신기록·AI 반도체 2035년 $2,559억 전망",
-        "m": "2026-08-25 / GlobeNewswire·SNS Insider / 글로벌 반도체 월별 매출 2026년 5월 $1,206억—YoY +104.1% 역대 최고. 15개월 연속 신기록. SNS Insider: AI 반도체 시장 2025년 $658억→2035년 $2,559억(CAGR 14.55%) 전망. 하이퍼스케일 AI DC 인프라 확장·GPU·NPU·커스텀 AI 가속기 수요 구조적 성장."
+        "tag": "INTC",
+        "cls": "down",
+        "h": "드러켄밀러 INTC·MU·AVGO 전량 매도·AMD 신규 매수·Amazon 10배 증액—반도체 로테이션 신호",
+        "m": "2026-08-25 / Motley Fool·247wallst.com·Yahoo Finance / 억만장자 스탠리 드러켄밀러(Duquesne), Q2 2026 13F(8/14 제출)서 INTC 411,400주·MU 23,400주·AVGO 195,955주 전량 청산. 대신 AMD 72,900주 신규 매수(2027 DC 2배 성장 베팅)·Amazon 541,600주(+1,000%+)·Equinix·Lam Research 신규 진입. '칩 제조사→AI 인프라 운영사' 전방위 로테이션으로 해석. INTC·MU 과다 보유자 주의 신호."
       },
       {
         "tag": "AMD",
