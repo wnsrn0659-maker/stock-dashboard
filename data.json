@@ -1,16 +1,60 @@
 {
   "STOCKS": [
-    {"tkr":"SPCX","price":143.78,"prevPct":4.23},
-    {"tkr":"NVDA","price":213.12,"prevPct":0.39},
-    {"tkr":"TSLA","price":350.25,"prevPct":-0.14},
-    {"tkr":"AMD","price":479.18,"prevPct":4.91},
-    {"tkr":"AVGO","price":354.28,"prevPct":-1.25},
-    {"tkr":"MU","price":932.97,"prevPct":0.10},
-    {"tkr":"INTC","price":86.50,"prevPct":-1.45},
-    {"tkr":"005930","price":263500,"prevPct":2.53},
-    {"tkr":"000660","price":1689000,"prevPct":2.99},
-    {"tkr":"042700","price":192500,"prevPct":-14.82},
-    {"tkr":"012450","price":1150000,"prevPct":9.11}
+    {
+      "tkr": "SPCX",
+      "price": 143.78,
+      "prevPct": 4.23
+    },
+    {
+      "tkr": "NVDA",
+      "price": 213.12,
+      "prevPct": 0.39
+    },
+    {
+      "tkr": "TSLA",
+      "price": 350.25,
+      "prevPct": -0.14
+    },
+    {
+      "tkr": "AMD",
+      "price": 479.18,
+      "prevPct": 4.91
+    },
+    {
+      "tkr": "AVGO",
+      "price": 354.28,
+      "prevPct": -1.25
+    },
+    {
+      "tkr": "MU",
+      "price": 932.97,
+      "prevPct": 0.1
+    },
+    {
+      "tkr": "INTC",
+      "price": 86.5,
+      "prevPct": -1.45
+    },
+    {
+      "tkr": "005930",
+      "price": 263500,
+      "prevPct": 2.53
+    },
+    {
+      "tkr": "000660",
+      "price": 1689000,
+      "prevPct": 2.99
+    },
+    {
+      "tkr": "042700",
+      "price": 192500,
+      "prevPct": -14.82
+    },
+    {
+      "tkr": "012450",
+      "price": 1150000,
+      "prevPct": 9.11
+    }
   ],
   "HIDDEN": {
     "US": [
@@ -268,20 +312,20 @@
       {
         "tag": "AVGO",
         "cls": "new",
-        "h": "AI칩 파이낸싱 $60B 조달 협상·Anthropic ASIC 직공급·Q2 AI반도체 $108억(+143%)·9/2 실적 대기",
-        "m": "2026-08-27 / 24/7Wall St.·StockAnalysis / Broadcom(AVGO) AI 칩 파이낸싱 위해 $600억 이상 부채 조달 협상 진행—Anthropic 등 AI 기업 ASIC 수주 자금. Q2 FY26 AI반도체 매출 $108억(+143% YoY). Q3 AI반도체 가이던스 $160억(+200%+ YoY). 9월 2일 분기 실적 발표 예정. BofA, AVGO AI부채 $3,700억 경고. NVDA·MRVL 비트 랠리에 동반 반등."
+        "h": "AI칩 파이낸싱 $60B 조달 협상·Anthropic ASIC 직공급·Q3 AI반도체 가이던스 $160억(+200%+)·9/2 실적",
+        "m": "2026-08-27 / 24/7Wall St.·StockAnalysis / Broadcom(AVGO) AI 칩 파이낸싱 위해 $600억 이상 부채 조달 협상 진행—Anthropic 등 AI 기업 ASIC 수주 자금. Q2 FY26 AI반도체 매출 $108억(+143% YoY). Q3 AI반도체 가이던스 $160억(+200%+ YoY). 9월 2일 분기 실적 발표 예정. NVDA·MRVL 비트 랠리에 동반 반등."
       },
       {
         "tag": "AMD",
         "cls": "up",
-        "h": "Baird PT $1,250 스트리트 최고 상향·2027 데이터센터 2배+·Anthropic Helios 2GW·오늘 +3%",
-        "m": "2026-08-27 / 24/7Wall St.·Yahoo Finance / AMD Baird 애널리스트 Tristan Gerra, PT $625→$1,250으로 두 배 상향—스트리트 최고. Outperform 유지. Lisa Su: 2027년 데이터센터 매출 2배+ 전망. Anthropic AMD MI450 기반 Helios 클러스터 최대 2GW 배포 공식 확인. NVDA·MRVL 비트 랠리에 동반 +3% 상승. YTD +121%."
+        "h": "Baird PT $1,250 스트리트 최고 상향·주간 -4%·'AI 성장도 주가 보장 안해'·2027 데이터센터 2배+",
+        "m": "2026-08-27 / 24/7Wall St.·Benzinga / AMD Baird 애널리스트 Tristan Gerra, PT $625→$1,250 두 배 상향(스트리트 최고). 다만 주간 기준 약 -4%($454.36)—YTD +120% 달성에도 '스펙타큘러 AI 성장이 더 이상 주가 보장 안한다'는 경계감. Lisa Su: 2027년 데이터센터 매출 2배+ 전망. Anthropic MI450 기반 Helios 클러스터 2GW 배포 확인."
       },
       {
         "tag": "잭슨홀",
         "cls": "new",
         "h": "내일(8/28) Warsh 오전 10시 ET 기조연설 D-1·금리 3.50~3.75%·3인 동시 이의·9월 인상 33%",
-        "m": "2026-08-27 / Yahoo Finance·REX Shares·XTB / 잭슨홀 경제심포지엄 오늘(8/27) Day1 종료. Warsh 연준 의장 내일(8/28) 오전 10시 ET 첫 기조연설—'AI 주도 고정투자 연 20% 성장' 발언 주목. 7월 FOMC 동결에 Hammack·Kashkari·Logan 3인 동시 인상 이의(2016년 이후 첫 3인 동반 이의). 현재 금리 3.50~3.75%. 9월 인상 확률 33%. Goldman Sachs: Warsh 발언에 FX 변동성 증폭 경고."
+        "m": "2026-08-27 / Yahoo Finance·REX Shares·XTB / 잭슨홀 경제심포지엄(8/27~29) 오늘 Day1 종료. Warsh 연준 의장 내일(8/28) 오전 10시 ET 첫 기조연설—9월 FOMC 3주 전 발언이 금리 방향 결정. 7월 FOMC 동결에 Hammack·Kashkari·Logan 3인 동시 인상 이의(2016년 이후 최다). 현재 금리 3.50~3.75%. 9월 인상 확률 33%. Goldman Sachs: Warsh 발언에 FX 변동성 증폭 경고."
       },
       {
         "tag": "MU",
@@ -290,16 +334,16 @@
         "m": "2026-08-27 / AlphaSpread·CNN / Micron Technology NVDA FQ2 비트+AWS 200만GPU 딜+MRVL AH 비트 3중 호재로 HBM4 수요 가시성 구조적 최고. 2026년 HBM 완판·take-or-pay 장기계약 16건(2026~2030). Q3 FY26 OPM 84.9% 사상 최고. Citi PT $1,150 유지. 내일 Warsh 잭슨홀 연설 이후 매크로 방향이 변수."
       },
       {
-        "tag": "INTC",
-        "cls": "up",
-        "h": "반도체 랠리 동승·Intel·KLA·Lam·MU 일제 급등·18A 파운드리 순항·낸시 펠로시 매수 추종",
-        "m": "2026-08-27 / Yahoo Finance·Seeking Alpha / NVDA 비트+MRVL Q2 비트 이중 호재로 반도체 전반 랠리. Intel(INTC)·KLA·Lam Research·MU 일제 급등. INTC 18A 파운드리 공정 일정 순항·Q2 매출 $16.1B(+25% YoY). 낸시 펠로시 하원의원 INTC 콜옵션+주식 매수 공시 이후 기관 추종 매수 가세."
+        "tag": "JPM",
+        "cls": "new",
+        "h": "글로벌 반도체 시장 2026년 $1.68조(+111% YoY)·2027년 $2.25조(+34%)·JPMorgan 최신 전망",
+        "m": "2026-08-27 / JPMorgan·Benzinga / JPMorgan, 글로벌 반도체 산업 매출 전망 대폭 상향—2026년 $1.68조(+111% YoY), 2027년 $2.25조(+34%). AI 인프라 투자 사이클이 메모리·로직·파운드리 전반으로 확산. 컴퓨트 탑픽: NVDA·AVGO·AMD·INTC, 메모리 탑픽: MU. BMO Capital도 동시다발 Buy 개시. '반도체 랠리 2막' 진입 신호."
       },
       {
-        "tag": "TSLA",
+        "tag": "SPCX",
         "cls": "new",
-        "h": "오늘 $345.82·태양광 전략 의문 보도로 일부 차익 압박·로보택시 네바다 5,000대 허가 유효",
-        "m": "2026-08-27 / CNN·Tesla Oracle / Tesla 오늘 $345.82·AH +$1.85(+0.5%). 일부 언론의 태양광 사업 전략 의문 보도로 차익 압박. 네바다 주 FSD v15 탑재 로보택시 최대 5,000대 운행 허가 유효. 2026년 CapEx $250억+ 투자 예정. 52주 고점 대비 조정 구간에서 로보택시 모멘텀이 지지선 역할."
+        "h": "락업 만료 이후도 $139 안정·루이지애나 $1,000억 스타베이스 계획·Bernstein '매우 긍정' 유지",
+        "m": "2026-08-27 / CNBC·Investing.com / SpaceX(SPCX) 오늘 $139.63(+1.2%)—IPO 직후 락업 만료에도 매도 폭탄 없이 $135 IPO가 지지. Bernstein Doug Harned '전망에 매우 긍정적' 유지(8/17). 루이지애나에 $1,000억 스타베이스 건설 계획 발표. 52주 고점 $225.64 대비 -38% 할인 구간. 평균 PT $216(28인 Buy), 고점 PT $450."
       }
     ],
     "KR": [
@@ -330,8 +374,8 @@
       {
         "tag": "코스피",
         "cls": "up",
-        "h": "반도체 AI 주도 강세·삼성+SK하이닉스 4%+ 급등·한은 금리 인상에도 AI 모멘텀이 완충",
-        "m": "2026-08-27 / MBC뉴스·YTN / 코스피 NVDA 어닝 서프라이즈+AWS 메가딜 이중 호재로 반도체 주도 강세. 삼성전자·SK하이닉스 각각 4% 강세로 지수 견인. 한국은행 기준금리 3.00%로 25bp 인상(백투백 긴축) 발표에도 AI 반도체 글로벌 모멘텀이 하방 충격 상쇄. 내일 Warsh 잭슨홀 기조연설 매크로 방향 결정 대기."
+        "h": "반도체 AI 주도 강세·삼성+SK하이닉스 4%+ 급등·8/25 코스피 6,500 붕괴 이후 빠른 회복",
+        "m": "2026-08-27 / MBC뉴스·서울경제 / 코스피 NVDA 어닝 서프라이즈+AWS 메가딜 이중 호재로 반도체 주도 강세. 삼성전자·SK하이닉스 각각 4% 강세로 지수 견인. 8월 25일 미국 반도체 급락 연동 삼성 -4%·SK -6% 후 이틀 만에 급반등. 한국은행 기준금리 3.00%로 25bp 인상에도 AI 반도체 모멘텀이 하방 충격 상쇄."
       },
       {
         "tag": "한은금통위",
@@ -344,6 +388,12 @@
         "cls": "up",
         "h": "AWS-NVDA 200만GPU 메가딜·MRVL AH +7% 비트·AMD $1,250 최고 PT·한국 HBM4 공급망 수혜 최고조",
         "m": "2026-08-27 / CNBC·edaily·TipRanks / AWS-NVDA 200만GPU+Vera CPU 메가딜로 AI DC CapEx 사이클 구조적 재확인. MRVL Q2 비트+Q3 가이던스 $3B(컨센 상회)로 AI칩 수요 NVDA·MRVL 2연타. AMD Baird $1,250 스트리트 최고 PT 상향. 삼성전자·SK하이닉스 HBM4 공급망 수혜 최고조. 내일 Warsh 잭슨홀 연설이 시장 방향 결정."
+      },
+      {
+        "tag": "핫칩스2026",
+        "cls": "new",
+        "h": "삼성·SK하이닉스 스탠퍼드 '핫칩스 2026' 메모리 병목 해결안 발표·CXL·PIM 기술 공개",
+        "m": "2026-08-27 / 서울경제 / 삼성전자와 SK하이닉스가 스탠퍼드대에서 열린 반도체 세미나 '핫칩스(Hot Chips) 2026'에서 메모리 병목(Memory Wall) 개선 방안 발표. 삼성 CXL 기반 확장 메모리·SK하이닉스 PIM(Processing-In-Memory) 차세대 아키텍처 공개. AI 추론 시대 메모리 대역폭 한계 극복 솔루션. HBM4 이후 포스트-HBM 기술 로드맵 가시화."
       }
     ]
   },
