@@ -286,14 +286,14 @@
       {
         "tag": "AVGO",
         "cls": "up",
-        "h": "9/2 Q3 FY2026 실적 예정·AI ASIC 시장 70~80% 지배·AI 가이던스 $16B(+200% YoY)·49인 Strong Buy PT $526",
-        "m": "2026-08-28 / Mizuho·Benzinga·Broadcom / Broadcom 9/2(화) Q3 FY2026 실적 발표 예정. Q2 AI 매출 $10.8B(+143%), Q3 AI 가이던스 $16B(+200% YoY). Google·Meta 등 5개 하이퍼스케일러 커스텀 AI 가속기(ASIC) 시장 70~80% 지배(Benzinga 추정). 49인 Strong Buy·평균 PT $525.97. 실적 전 포지션 강화."
+        "h": "9/2 Q3 FY2026 실적 예정·Q3 매출 가이던스 $29.4B(+84% YoY)·AI $16B(+200% YoY)·EPS $3.24 컨센·49인 Strong Buy PT $526",
+        "m": "2026-08-28 / StockTitan·Mizuho·Tickeron / Broadcom 9/2(화) Q3 FY2026 실적 예정. Q3 매출 가이던스 $29.4B(+84% YoY), 그중 AI 반도체 $16B(+200% YoY)·인프라 소프트웨어 $8.9B(+31%). 컨센 EPS $3.24(전년 $1.69의 약 2배). AI 북 $30B 초과·가시성 2028년까지. Google·Meta 등 5개 하이퍼스케일러 ASIC 70~80% 지배. 49인 Strong Buy·평균 PT $525.97."
       },
       {
-        "tag": "SPCX",
+        "tag": "INTC",
         "cls": "up",
-        "h": "SpaceX Starmind 오비탈 컴퓨팅에 NVDA 독점 AI칩 공급자 지정·머스크 'Vera Rubin 최고'·우주 AI 컴퓨팅 테마",
-        "m": "2026-08-04~08 / 24/7 Wall St.·Benzinga / SpaceX가 6월 IPO 이후 첫 분기 실적 발표 직후 NVIDIA를 Starmind 오비탈 컴퓨팅 프로그램의 독점 AI칩 공급자로 지정. 머스크 'NVDA Vera Rubin 아키텍처 최고'로 극찬. Harbor Capital 新AI ETF(XAIW)에서 SPCX 22% 최대 비중—NVDA·SMCI 동반. AI DC→우주 컴퓨팅 확장 테마로 SPCX 재부각."
+        "h": "$20B 공모 $95/주 완료·Q2 데이터센터 +59% $6.3B·YTD +175%·CapEx $20B+ 상향·평균 PT $118",
+        "m": "2026-08-10~28 / CNBC·TradingKey / Intel 8월 AI 수요 가속에 $20B 규모 주식 공모를 $95/주에 완료(현재 주가 대비 프리미엄). Q2 FY2026 데이터센터 매출 +59% $6.3B·전체 매출 $16.1B(+25% YoY). 2026년 CapEx $20B+ 상향. YTD +175%·최근 1년간 5배 급등. 애널리스트 평균 PT $118(현재 대비 +34% 상방). 다만 CPU 시장점유율 수십 년 만에 최저치는 구조적 리스크 상존."
       },
       {
         "tag": "MU",
@@ -306,8 +306,8 @@
       {
         "tag": "SK하이닉스",
         "cls": "up",
-        "h": "MRVL 갭업 동반 장중 상승 지속·반도체 투심 회복·HBM4 GB300 70% 독점·40조 자사주 소각 수급 지지",
-        "m": "2026-08-28 / MBC·KED Global / SK하이닉스 MRVL 8/28 +5.3% 갭업으로 AI칩 어닝비트 2연타 효과 지속, 장중 상승 중. 반도체 투심 회복 국면에서 HBM4 Vera Rubin GB300 70% 독점(UBS) 재부각. 40조 자사주 소각 수급 하방 지지. Q2 OPM 76% 사상 최고. 코스피 7,000선 재도전."
+        "h": "HBM4 장비 공급망 국산화·디지털프론티어+유니테스트 2839억 수주·MRVL 갭업 동반 상승·40조 자사주 소각",
+        "m": "2026-08-25~28 / SPTAT Times·MBC·KED Global / SK하이닉스 HBM4 웨이퍼 테스트 장비 공급망에서 국내 기업 디지털프론티어(2321억)+유니테스트(518억) 합산 2839억원 수주 확인—기존 일본 중심 구조에서 국산화로 전환. MRVL 8/28 갭업 +5.3%으로 AI칩 어닝비트 2연타 효과 지속. HBM4 Vera Rubin GB300 70% 독점 재부각. 40조 자사주 소각 수급 지지·Q2 OPM 76% 사상 최고."
       },
       {
         "tag": "삼성전자",
