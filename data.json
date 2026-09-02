@@ -311,9 +311,9 @@
       },
       {
         "tag": "NVDA",
-        "cls": "down",
-        "h": "NVDA $217선·미-이란 유가+금리+AVGO 3중 역풍·자체 펀더멘털 불변·단기 조정",
-        "m": "2026-09-02 / 24/7 Wall St.·Yahoo Finance / NVDA $217 수준. AVGO 소프트 가이던스+미-이란 충돌 유가 급등+금리 상승 3중 역풍. FQ2 $96.2B·Q3 가이던스 $108B 자체 펀더멘털 이상 없음. Jensen Huang CEO 발언 없으면 매크로 압박 장기화 시 단기 조정 추가 연장 가능."
+        "cls": "up",
+        "h": "NVDA, MediaTek에 $35억 전환사채 투자·NVLink Fusion 파트너십 확장·AI DC 허브 포지션 강화",
+        "m": "2026-08-31~09-01 / CNBC·TechCrunch·Bloomberg / NVDA, 대만 MediaTek에 $35억 전환사채 투자 발표. 파트너십을 AI 데이터센터(NVLink Fusion 플랫폼)·AI PC(RTX Spark·DGX Spark)·자동차(Dimensity Auto)로 전방위 확장. MediaTek 주가 +10% 급등. 하이퍼스케일러 인하우스 칩 확산 대응, NVDA가 데이터센터 아키텍처 핵심 허브로 포지션 유지. 9/2 AVGO+매크로 역풍 속에서도 NVDA 자체 AI 생태계 확장 전략 확인."
       },
       {
         "tag": "MU",
