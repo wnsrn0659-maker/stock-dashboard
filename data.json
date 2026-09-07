@@ -300,38 +300,38 @@
       {
         "tag": "NVDA",
         "cls": "up",
-        "h": "NVIDIA 9/7 장중 $234.76 ATH $236.54 1% 내·배당 $0.25 기준일 9/10·Hugging Face 합병 완료 진행",
-        "m": "2026-09-07 / Yahoo Finance·CNBC / NVIDIA 9/7 시초가 $231.09, 장중 고점 $234.76으로 52주 최고 $236.54에 1% 이내 근접. Hugging Face $13B 인수 합의 후 통합 진행 중(1,800만 개발자·300만 AI 모델). 분기 배당 $0.25(주주 기준일 9/10, 지급 10/1) 임박. Q2 FY27 $96.2B+106%, Q3 $108B 가이던스 유효."
+        "h": "NVIDIA $229.49 ATH 소화 구간·Hugging Face $12.9B 인수 확정·FY2028 매출 70% 성장·배당 ex-date 9/10",
+        "m": "2026-09-07 / Benzinga·Yahoo Finance / NVIDIA 9/7 $229.49(9/4 종가), ATH $236.54 대비 소화 구간. Hugging Face $12.9B 인수 최종 확정(1,800만 개발자·300만 AI 모델 통합). FY2028 매출 70% 성장 예측, Apple·Alphabet 매출 추월 가능 전망. 배당 $0.25(ex-date 9/10, 지급 10/1) 임박. Q2 FY27 $96.2B+106%, Q3 $108B 가이던스 유효."
       },
       {
         "tag": "AMD",
         "cls": "up",
-        "h": "AMD Anthropic $5B 투자+2GW MI450 계약·Anthropic IPO 예비설명서 수일 내 제출 임박",
-        "m": "2026-09-07 / Motley Fool·HotHardware / AMD, Anthropic에 최대 $5B 투자+2GW Instinct MI450 Series GPU 공급 계약(7/22 발표). 9/5 기준 Anthropic IPO 예비설명서 수일 내 SEC 제출 임박 보도. AMD-Anthropic 다년 엔지니어링 협업·ROCm 최적화 병행. Helios 랙스케일 2027 H1 배포 예정. LUMI-AI €387.8M 수주·DC 매출 2배+ 강세 지속."
+        "h": "AMD YTD+115%·Anthropic $5B 투자+MI450 계약·관세 리스크 재부각에도 AI 모멘텀 견고",
+        "m": "2026-09-07 / Motley Fool·StocksToTrade / AMD YTD+115% 강세, 9/4 $477.57(+4.69%). Anthropic $5B 투자+2GW MI450 GPU 공급 계약 유효. 미 상무장관 반도체 관세 발표로 무역 정책 재부각됐으나 AMD AI 매출 모멘텀 유지. Anthropic IPO 예비설명서 SEC 제출 임박. Helios 랙스케일 2027 H1 배포 예정."
       },
       {
         "tag": "MU",
         "cls": "up",
-        "h": "Micron Q4 FY2026 실적 D-23(9/30)·$50.8B+350% YoY 예상·HBM3E·HBM4 2027년까지 완전 예약",
-        "m": "2026-09-07 / Motley Fool·GlobeNewswire / Micron 9월 30일 Q4 FY2026 실적 발표 확정(23일 후). 월가 컨센 매출 $50.8B(가이던스 $50B)·EPS 350% YoY 성장 기대. HBM3E·HBM4 2027년까지 완전 예약, 수요가 공급 크게 초과. MU YTD+228%. HBM 월 생산능력 10만 웨이퍼 연말 2배 증설 병행."
+        "h": "Micron DRAM 부족 30년래 최악·Q4 FY2026 실적 D-23(9/30)·HBM3E·HBM4 2027년까지 완전 예약",
+        "m": "2026-09-07 / Yahoo Finance·Forbes / 반도체 전문가 'AI로 인한 DRAM 부족은 30년래 최악' 평가. Micron Q4 FY2026 실적 9/30 발표(D-23), 컨센 매출 $50.8B·EPS +350% YoY. HBM3E·HBM4 2027년까지 완전 예약, 수요가 공급 크게 초과. MU YTD+228%. HBM 월 생산능력 10만 웨이퍼 연말 2배 증설 병행."
       },
       {
         "tag": "AVGO",
         "cls": "up",
         "h": "Broadcom Hock Tan 2028 AI 매출 $2,300억 예측·Q3 AI $16.7B+221%·Q4 AI $21.7B·배당 ex-date 9/21",
-        "m": "2026-09-07 / Tickeron·Distill Intelligence / Broadcom CEO Hock Tan \"AI 관련 매출 2028년 $2,300억 달할 수 있다\" 전망. Q3 AI 매출 $16.7B(+221%)·Q4 AI 가이던스 $21.7B(+236%)·FY2026 AI $58B 상향. Apple·OpenAI Jalapeno XPU 신규 수주 유효. 배당 $0.65(ex-date 9/21). 가이던스 쇼크 소화 후 AI 펀더멘털 이상 없음."
+        "m": "2026-09-07 / Tickeron·Distill Intelligence / Broadcom CEO Hock Tan 'AI 관련 매출 2028년 $2,300억 달할 수 있다' 전망. Q3 AI 매출 $16.7B(+221%)·Q4 AI 가이던스 $21.7B(+236%)·FY2026 AI $58B 상향. Apple·OpenAI Jalapeno XPU 신규 수주 유효. 배당 $0.65(ex-date 9/21). 가이던스 쇼크 소화 후 AI 펀더멘털 이상 없음."
       },
       {
         "tag": "TSLA",
         "cls": "down",
-        "h": "Cybercab 오스틴 45대만·머스크 불참·Waymo에 수년 뒤처진다 분석·NHTSA 자기인증 감사 착수",
-        "m": "2026-09-07 / CNBC·Forbes / Tesla Cybercab 오스틴 정식 출시됐지만 허가 차량 45대에 불과, 초대자 전용 이벤트에 머스크 CEO 불참·공개 생중계 없음. 분석가 \"Waymo에 수년 뒤처져 있다\" 평가. NHTSA, Cybercab 약 1,000대 연방 안전 기준 자기인증 감사 착수. 9/4 주가 -6% 급락 후 소화 중."
+        "h": "TSLA YTD-7%·Cybercab 45대만·NHTSA 안전 감사·Forbes '하반기 주가 하락 위험' 분석",
+        "m": "2026-09-07 / CNBC·Forbes / Tesla YTD-7%, 52주 저점 $297.38(7/29) 이후 52주 고점 $498.83(12/22/2025) 대비 -29% 저조. Cybercab 오스틴 출시 45대·머스크 불참·생중계 없음으로 실망. NHTSA Cybercab ~1,000대 자기인증 안전 감사 착수. Forbes '로보택시·휴머노이드 수익화 불투명, 하반기 하락 위험' 분석."
       },
       {
         "tag": "INTC",
         "cls": "up",
-        "h": "Intel Q3 실적 D-49(10/26)·18A 수율 타겟 25%+ 초과·YTD+142% 강세·9/7 노동절 휴장",
-        "m": "2026-09-07 / TradingKey / Intel Q3 FY2026 실적 발표 10월 26일(49일 후). 파운드리 18A 공정 수율 타겟 대비 25%+ 초과 달성. DC+AI 매출 Q2 +59% YoY·파운드리 Q2 +31% YoY. Tesla Terafab 14A 첫 외부 파운드리 고객. YTD+142% 강세. 9/7 노동절 미 증시 휴장."
+        "h": "Intel Q3 실적 D-49(10/26)·18A 수율 타겟 25%+ 초과·YTD+142%·반도체 관세 파운드리 수혜주",
+        "m": "2026-09-07 / TradingKey·Forbes / Intel Q3 FY2026 실적 발표 10/26. 파운드리 18A 공정 수율 타겟 대비 25%+ 초과 달성. DC+AI 매출 Q2 +59% YoY·파운드리 Q2 +31% YoY. 반도체 관세 발표로 미국 내 제조(IFS) 기업으로서 추가 수혜 기대. Tesla Terafab 14A 첫 외부 고객. YTD+142% 강세."
       },
       {
         "tag": "CXMT",
@@ -340,24 +340,24 @@
         "m": "2026-09-07 / Distill Intelligence·McKinsey Electronics / 중국 CXMT(창신메모리), DRAM 시장 점유율 10% 달성 및 LPDDR6·HBM3E 대량 양산 개시. 매출 +870% YoY 급증. Micron·삼성·SK하이닉스 기존 3강 구도에 중국발 경쟁 압력 강화. 미국 수출통제에도 불구 빠른 기술 추격이 중장기 위협으로 부각."
       },
       {
-        "tag": "AI시장",
+        "tag": "반도체시장",
         "cls": "new",
-        "h": "2026 하이퍼스케일러 Capex $8,000억·2027 $1.3조·클라우드 백로그 $2조 돌파·AI 인프라 역대 최대",
-        "m": "2026-09-07 / Distill Intelligence·McKinsey Electronics / 2026년 상위 5개 하이퍼스케일러 합산 Capex $7,900억~$8,000억으로 역대 최대, 2027년 $1.3조 전망. 클라우드 백로그 $2조 돌파. Vera Rubin 기가와트당 매출 $400억(Blackwell $250억 대비 60% 상승). AI 인프라 공급 병목 FY28 말까지 지속."
+        "h": "2026년 글로벌 반도체 수익 사상 최초 $1조 돌파·Q2 판매 +35%·AI 병목 특수가스·전력으로 이동",
+        "m": "2026-09-07 / Barchart·404K Research / 2026년 글로벌 반도체 수익이 역사상 처음으로 $1조를 돌파할 전망(AI 주도 메모리·로직 IC 급증). Q2 2026 글로벌 반도체 판매 $4,033억(전 분기 대비 +35.1%). AI 데이터센터 매출 2028년 $1.2조 전망. 오늘 404K Research 9/7 분석: AI 확장 병목이 칩 자체에서 특수가스·전력 인프라로 이동 중."
       }
     ],
     "KR": [
       {
         "tag": "SK하이닉스",
         "cls": "up",
-        "h": "9/7 173만8천원 +5.53% 급등·삼성+SK 美 기업 $9,500억 공급계약·HBM4 Vera Rubin 70% 독점",
-        "m": "2026-09-07 / EBN·Vietnam.vn / SK하이닉스 9/7 오전 173만8000원(+5.53%) 급등. 삼성전자+SK하이닉스, 미국 빅테크 기업과 총 9,500억 달러 규모 반도체 장기 공급계약 체결 보도. Vera Rubin HBM4 70% 독점·40조 자사주 매입 수급 지지. 2026~2027년 HBM 전량 사전 예약 완료."
+        "h": "Q3 OP 77조+579% YoY·OPM 78% 예상·9/7 +5.53%·삼성+SK 美 $9,500억 공급계약·HBM4 70% 독점",
+        "m": "2026-09-07 / Investing.com·EBN / SK하이닉스 Q3 2026 영업이익 77조원(+579% YoY), OPM 78% 예상. 자사주 잔여 매입 여력 44.7조원, 총 10.3조원 취득. 9/7 173만8000원(+5.53%) 급등. 삼성+SK 미국 빅테크 기업과 총 $9,500억 장기 공급계약 체결. Vera Rubin HBM4 70% 독점, 2026~2027년 HBM 전량 사전 예약 완료."
       },
       {
         "tag": "삼성전자",
         "cls": "up",
-        "h": "zHBM·zNAND-O 차세대 3D 메모리 FMS 2026 업계 최초 공개·HBM 점유율 15%→33% 급등·목표가 45만원",
-        "m": "2026-09-07 / 다음뉴스·삼성반도체뉴스룸 / 삼성전자, 미국 FMS(Future of Memory and Storage) 2026에서 차세대 3D 메모리 아키텍처 zHBM·zNAND-O 목업 업계 최초 공개(8/4~6). Q2 HBM 점유율 15%→33% 급등·Q3 HBM4 매출 전분기 대비 3배 확대 전망. 9/7 장중 +4.31% 강세. KB증권 목표가 45만원."
+        "h": "Q3 OP 112조+817% YoY·OPM 55% 예상·zHBM zNAND-O 최초 공개·HBM 점유율 33%·목표가 45만원",
+        "m": "2026-09-07 / Investing.com·다음뉴스 / 삼성전자 Q3 2026 영업이익 112조원(+817% YoY), OPM 55% 예상. 자사주 잔여 매입 여력 포함 총 44.7조원. FMS 2026에서 zHBM·zNAND-O 차세대 3D 메모리 업계 최초 공개. Q2 HBM 점유율 15%→33% 급등·Q3 HBM4 매출 전분기 3배 전망. 9/7 장중 +4.31%. KB증권 목표가 45만원."
       },
       {
         "tag": "한미반도체",
