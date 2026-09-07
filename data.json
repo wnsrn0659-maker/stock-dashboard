@@ -300,44 +300,50 @@
       {
         "tag": "NVDA",
         "cls": "up",
-        "h": "NVDA Q2 FY27 $96B·Q3 $108B 가이던스·AI 클라우드 백로그 $2조+·공급 병목 FY28 지속",
-        "m": "2026-09-07 / Bloomberg·Yahoo Finance / NVDA Q2 FY27 매출 $96B(DC $89B), Q3 가이던스 $108B(±2%). Jensen Huang \"클라우드 백로그 $2조 돌파·공급 병목 FY28 말까지 지속\" 언급. 하이퍼스케일러 5사 Capex 2026년 $800B 추적. SOXX ETF YTD+98% 반도체 섹터 강세 주도. $227.98 (9/7)."
+        "h": "NVIDIA, Hugging Face $13B 인수 합의·1,800만 개발자·300만 AI 모델 플랫폼·역대 2위 M&A",
+        "m": "2026-09-07 / Bloomberg·CNBC / NVIDIA, AI 플랫폼 스타트업 Hugging Face를 약 $13B(주주 $11.9B+임직원 유지 $1B)에 인수 합의(9/3 발표). 1,800만 개발자·300만+ 오픈소스 AI 모델 플랫폼 확보. NVDA 역대 2위 M&A(Groq $20B 자산 인수 이후). 오픈소스·오픈웨이트 AI 생태계 지원 유지 약속. 상반기 완료 예상."
+      },
+      {
+        "tag": "NVDA",
+        "cls": "up",
+        "h": "NVDA Q2 FY27 $96.2B+106%·Q3 $108B 가이던스·IFA 2026 PAIR 로컬 AI 에이전트·RTX Spark 10월",
+        "m": "2026-09-07 / Bloomberg·NVIDIA Blog / NVDA Q2 FY27 매출 $96.2B(+106% YoY), Q3 가이던스 $108B(±2%). Jensen Huang \"클라우드 백로그 $2조 돌파·공급 병목 FY28 말까지\" 언급. IFA 2026에서 PAIR(개인 AI 라우터) 발표·Microsoft 협업·로컬 추론 1.9배 고속화·RTX Spark Windows PC 10월 출시 확정. $227.98(9/7)."
       },
       {
         "tag": "AMD",
         "cls": "up",
-        "h": "AMD YTD +115%·MI455X HBM4 출하·사우디 AI 인프라 가동·Lisa Su DC 매출 2배 가이드 재확인",
-        "m": "2026-09-07 / CNN·AMD IR / AMD YTD+115% 강세 지속. MI455X(CDNA5·HBM4 432GB) 지속 출하. AMD·Cisco·Humain 사우디 AI 인프라 정식 가동. Lisa Su CEO 2027 DC 매출 2배+ 가이드 재확인. 54인 Strong Buy·평균 PT $614."
+        "h": "AMD·Cisco·HUMAIN 사우디 AI MI355X 정식 가동·250MW 2차 증설 2027·2030년 1GW 목표",
+        "m": "2026-09-07 / AMD IR·Telecom Reseller / AMD·Cisco·HUMAIN, 사우디아라비아 AI 인프라 MI355X+EPYC+Cisco Silicon One 기반 정식 가동(9/2). GPU-as-a-Service 개시. 2027년 2차 250MW 증설 착수, 2030년 1GW 목표. Lisa Su CEO 2027 DC 매출 2배+ 가이드 유효. 54인 Strong Buy·PT $614."
       },
       {
         "tag": "MU",
         "cls": "up",
-        "h": "Micron Q4 FY2026 9/30 D-23·가이던스 $50B·CEO \"DRAM 수요 공급 크게 초과\"·MU YTD+228%",
-        "m": "2026-09-07 / Motley Fool·Barchart / Micron Q4 FY2026 실적 9/30(D-23). 가이던스 매출 $50B±$1B·EPS $31±$1·GP마진 86%. CEO Mehrotra \"DRAM·NAND 수요가 공급 크게 초과\" 확인. HBM4 NVDA·Google향 완전 예약. MU YTD+228% 강세. 선행 PER 6배 극저평가."
+        "h": "Micron Q4 FY2026 9/30 D-23·컨센 EPS $31.14·매출 $50.41B·HBM4 완전 예약·MU YTD+228%",
+        "m": "2026-09-07 / Motley Fool·Globe Newswire / Micron Q4 FY2026 실적 9/30(D-23). 컨센서스 EPS $31.14, 매출 $50.41B, GP마진 86% 전망. CEO Mehrotra \"DRAM·NAND 수요가 공급 크게 초과\" 재확인. HBM4 NVDA·Google향 완전 예약. MU YTD+228% 강세. 선행 PER 6배 극저평가."
       },
       {
         "tag": "AVGO",
         "cls": "up",
-        "h": "Broadcom Q3 AI $16.7B+221%·Q4 AI $21.7B·FY2026 AI $58B 상향·현금 배당 $0.65",
+        "h": "Broadcom Q3 AI $16.7B+221%·Q4 AI $21.7B+236%·FY2026 AI $58B·배당 $0.65 ex-date 9/21",
         "m": "2026-09-07 / Yahoo Finance·Bloomberg / Broadcom Q3 AI 매출 $16.7B(+221%)·Q4 AI 가이던스 $21.7B(+236%)·FY2026 AI $58B 상향. Apple·OpenAI Jalapeno XPU 신규 수주 유효. 현금 배당 $0.65(ex-date 9/21). 가이던스 쇼크 소화 후 AI 펀더멘털 이상 없음."
       },
       {
         "tag": "TSLA",
         "cls": "down",
-        "h": "Cybercab 이벤트 \"bust\" 평가 -6% 급락·NHTSA 안전 감사·유럽 8월 노르웨이 -79%",
-        "m": "2026-09-07 / Forbes·TechCrunch / 9/4 Tesla Cybercab 이벤트 \"bust\" 평가로 주가 -6% 이상 급락. NHTSA 오스틴 배포 Cybercab(핸들·브레이크 미장착·약 1,000대) 안전기준 자기인증 감사 착수. 유럽 8월 노르웨이 -79%·스웨덴 -41% YoY 급감. 2026 Capex $25B 부담 지속."
+        "h": "Cybercab 이벤트 \"bust\" 평가 -6% 급락·NHTSA 안전 감사 착수·유럽 8월 노르웨이 -79%",
+        "m": "2026-09-07 / Forbes·TechCrunch / 9/4 Tesla Cybercab 이벤트 \"bust\" 평가로 주가 -6%+ 급락. NHTSA 오스틴 배포 Cybercab(핸들·브레이크 미장착·약 1,000대) 안전기준 자기인증 감사 착수. 유럽 8월 노르웨이 -79%·스웨덴 -41% YoY 급감 지속. 2026 Capex $25B 부담."
       },
       {
         "tag": "INTC",
         "cls": "up",
-        "h": "Tesla, Intel 14A 파운드리 파트너 선정·Terafab AI칩+Optimus 로봇 칩 생산·파운드리 첫 메이저 고객",
-        "m": "2026-09-07 / TipRanks·TradingKey / Tesla가 AI칩·Optimus 로봇용 칩 생산에 Intel 14A 파운드리 채택(Terafab 프로젝트·오스틴 텍사스). Elon Musk 공식 확인. Intel 파운드리 첫 메이저 고객 확보로 파운드리 회생 가시화. INTC YTD+268%(9/1 기준). Q3 실적 10/26 임박."
+        "h": "Intel Q2 $16.1B+25% 15년래 최강·Tesla Terafab 14A 파운드리·$20B 자본 조달·$15B 주식 매각",
+        "m": "2026-09-07 / TradingKey·TechTimes / Intel Q2 2026 매출 $16.1B(+25% YoY, 15년래 최강 성장). Tesla Terafab 14A 첫 외부 파운드리 고객·SpaceX·xAI 협력. $20B 자본 조달 + $15B 주식 매각(8/10)으로 파운드리 공장 건설 자금 확보. INTC YTD+142%. Q3 실적 10/26 임박."
       },
       {
         "tag": "AI반도체",
         "cls": "new",
-        "h": "글로벌 반도체 $1조 돌파 전망·SOXX YTD+98%·Morgan Stanley NVDA·AVGO·Astera 탑픽",
-        "m": "2026-09-07 / Yahoo Finance·SeekingAlpha / 2026년 글로벌 반도체 매출 사상 첫 $1조 돌파 전망. iShares SOXX ETF YTD+98%(S&P500 +11% 대폭 압도). Morgan Stanley: NVDA·AVGO·Astera Labs 2026 탑픽 유지. AI 인프라 확장으로 병목이 HBM·전력·특수가스 상류 공급망으로 이동 중."
+        "h": "Foxconn 8월 매출 +52% YoY·AI 병목 반도체→특수가스·전력 상류 이동·AI칩 펀딩 $5.37B",
+        "m": "2026-09-07 / 404K SEMI-AI·New Market Pitch / Foxconn 8월 매출 +52% YoY로 AI 서버 다운스트림 수요 강건 확인. 병목이 HBM에서 텅스텐 헥사플루오라이드(WF6) 등 고순도 특수가스·DC 전력 공급으로 상류 이동 중. 1/22~8/18 AI칩 12개 펀딩 라운드 총 $5.37B, 추론(Inference) 67% 점유."
       }
     ],
     "KR": [
