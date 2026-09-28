@@ -303,66 +303,72 @@
   "NEWS": {
     "US": [
       {
-        "tag": "Oracle",
-        "cls": "down",
-        "h": "Oracle 뉴멕시코 AI DC force majeure 선언·OpenAI 전용 Project Jupiter 중단·DC 30-50% 지연 경고",
-        "m": "2026-09-28 / Yahoo Finance·Reuters / Oracle이 OpenAI 전용 뉴멕시코 AI 데이터센터 'Project Jupiter'에 force majeure를 선언했습니다. Morgan Stanley·Jefferies, 2026년 완공 예정 대형 DC 프로젝트의 30-50%가 전력·장비 부족으로 지연·취소 예고. 반도체 AI 인프라 투자심리 압박."
+        "tag": "NVDA",
+        "cls": "up",
+        "h": "엔비디아 Hugging Face $12.9B 인수 공식 확정·오픈소스 AI 생태계 통합·1,800만 개발자 플랫폼 편입·2027H1 클로징",
+        "m": "2026-09-28 / CNBC·TechCrunch·NVIDIA Blog / 엔비디아가 오픈소스 AI 플랫폼 Hugging Face를 $12.93B(약 $11.9B 주주 지급+$1B 임직원 리텐션)에 인수 확정. 전 세계 1,800만 개발자·300만 모델·50만 데이터셋 생태계를 하드웨어 위에 수직통합. Hugging Face 플랫폼은 오픈 에코시스템으로 유지. 2027 상반기 클로징 예정."
       },
       {
         "tag": "MU",
         "cls": "up",
-        "h": "마이크론 9/30 Q4 실적 D-2·HBM4 $1B 돌파·EPS $31.56·매출 $51.2B·FY2027·28 수요 공급 초과 확인",
-        "m": "2026-09-28 / Alphastreet·TipRanks / 마이크론 Q4 FY2026 실적 9/30 장후 발표(D-2). 컨센 EPS $31.56·매출 $51.2B. HBM4 매출 첫 분기 $1B 돌파·HBM3E 대비 20-25% 가격 프리미엄. FY2027·2028 HBM 수요가 공급 능력을 크게 초과하는 것으로 확인됐습니다."
-      },
-      {
-        "tag": "NVDA",
-        "cls": "up",
-        "h": "NVDA Q2 FY2027 매출 $96B·데이터센터 $89B 역대 최대·Vera Rubin $40,000/GPU·공급 병목 FY2028 말까지",
-        "m": "2026-09-28 / Yahoo Finance·247wallst / NVDA Q2 FY2027 매출 $96B·데이터센터 $89B 역대 최대 실적 달성. Jensen Huang이 FY2028 말까지 공급 병목 지속을 재확인. 차세대 Vera Rubin $40,000/GPU 로드맵. 글로벌 AI 인프라 $3~4조 투자 2030년 목표 유지."
-      },
-      {
-        "tag": "AMD",
-        "cls": "up",
-        "h": "AMD 이번 주 +21.7% 반도체 랠리 최강·52주 신기록·인텔 +22.6%·마벨 +14.2% 동반 폭등",
-        "m": "2026-09-28 / Yahoo Finance·247wallst / AMD가 이번 주 반도체 랠리에서 +21.7%로 52주 신고가를 경신했습니다. 인텔(+22.6%)·마벨(+14.2%)·NVDA(+15.7%) 동반 폭등. AI 수요 견고·공급 병목 재확인으로 반도체 섹터 강세 랠리 지속."
+        "h": "마이크론 9/30 Q4 실적 D-2·EPS $31.52·매출 $50.97B·HBM4 $1B 첫 돌파·FY2027·28 수요 공급 초과",
+        "m": "2026-09-28 / TipRanks·Alphastreet·MarketBeat / 마이크론 Q4 FY2026 실적 9/30 장후 발표(D-2). 컨센 EPS $31.52·매출 $50.97B(YoY +350%+). HBM4 첫 분기 $1B 돌파·HBM3E 대비 20-25% 가격 프리미엄. FY2027·2028 HBM 수요가 공급 능력을 크게 초과. 20인 Strong Buy 컨센서스."
       },
       {
         "tag": "INTC",
         "cls": "up",
-        "h": "인텔 CEO '고객 CPU 수요 절반만 충족 가능' 공급 병목 선언·메모리 부족 내년 악화 경고·18A H2 계약 임박",
-        "m": "2026-09-28 / Yahoo Finance·247wallst / 인텔 CEO Lip-Bu Tan이 현재 고객 CPU 수요의 절반만 충족 가능하다고 공급 병목을 공식 선언. 글로벌 메모리 부족이 내년까지 악화될 수 있다고 경고. 18A 파운드리 H2 복수 고객 공식 계약 임박."
+        "h": "인텔 Tesla·SpaceX Terafab $25B 파운드리 파트너 확정·AI5·AI6·D3 칩 Austin 생산·18A 수율 85%",
+        "m": "2026-09-28 / TechCrunch·EE Times / 인텔이 Tesla·SpaceX·xAI 합작 $25B 반도체 팹 프로젝트 'Terafab'의 프라이머리 파운드리 파트너로 공식 확정. AI5·AI6(FSD·Optimus용)·D3(궤도 데이터센터용) 칩을 Austin Giga Texas 캠퍼스 내 100만m2 단지에서 생산. 18A 공정 수율 85% 이정표로 파트너십 기반 강화."
+      },
+      {
+        "tag": "AMD",
+        "cls": "up",
+        "h": "AMD BofA PT $620→$720 상향·$1T 시총 공고화·MI355X Meta·xAI 채택 확산·서버 CPU 수요 급증",
+        "m": "2026-09-28 / Yahoo Finance·247wallst / Bank of America가 AMD 목표가를 $620에서 $720으로 상향(Buy). $1조 시총 달성 4거래일 공고화. Meta Muse AI 에이전트·xAI Grok MI355X GPU 채택 기업 트랙션 확인. 인텔 CEO '고객 CPU 수요 절반 충족' 공급 병목 선언으로 AMD 서버 CPU 수혜 확대."
       },
       {
         "tag": "TSLA",
         "cls": "new",
-        "h": "테슬라 Q3 인도량 10/2 발표·컨센 454,000대·GS 435k·Barclays 475k·Cybercab 4개 도시 무감독 확장",
-        "m": "2026-09-28 / Investing.com·Yahoo Finance / 테슬라 Q3 2026 인도량 10/2 발표 예정. 월가 컨센 454,000대(GS 435,000·Barclays 475,000). Cybercab이 Austin·마이애미·올랜도·탬파 무감독 운행 확대. SpaceX $300M Megapack 구매로 에너지 사업 강화."
+        "h": "테슬라 Q3 인도량 10/2 발표·컨센 454,000대·Terafab AI5·AI6·D3 칩 Austin 생산 착공·Cybercab 4개 도시 확장",
+        "m": "2026-09-28 / Investing.com·TechCrunch / 테슬라 Q3 2026 인도량 10/2 발표 예정, 월가 컨센 454,000대(GS 435k·Barclays 475k). 동시에 Terafab 프로젝트에서 Tesla AI5·AI6 FSD 칩·Optimus 로봇 칩을 Intel 18A 공정으로 Austin에서 생산 착공. Cybercab Austin·마이애미·올랜도·탬파 무감독 운행 확대."
       },
       {
         "tag": "AVGO",
         "cls": "up",
-        "h": "브로드컴 Q3 AI 매출 $16.7B(+221% YoY)·Q4 가이던스 $21.7B·FY2027 $115B 로드맵·기관 목표가 상향",
+        "h": "브로드컴 Q3 AI 매출 $16.7B(+221% YoY)·Q4 가이던스 $21.7B·FY2027 $115B 로드맵·복수 기관 목표가 상향",
         "m": "2026-09-28 / Yahoo Finance·CNBC / 브로드컴 Q3 연결 매출 $29.6B(+86% YoY)·AI 반도체 $16.7B(+221% YoY). XPU(구글·Anthropic·OpenAI) 출하 전년비 3.5배. Q4 AI 가이던스 $21.7B(+236%)·FY2027 $115B·FY2028 $230B 로드맵. 복수 월가 기관 목표가 상향."
+      },
+      {
+        "tag": "Oracle",
+        "cls": "down",
+        "h": "Oracle 뉴멕시코 AI DC force majeure 선언·OpenAI 전용 Project Jupiter 중단·DC 30-50% 지연 경고",
+        "m": "2026-09-28 / Yahoo Finance·Reuters / Oracle이 OpenAI 전용 뉴멕시코 AI 데이터센터 'Project Jupiter'에 force majeure를 선언했습니다. Morgan Stanley·Jefferies, 2026년 완공 예정 대형 DC 프로젝트의 30-50%가 전력·장비 부족으로 지연·취소 예고. 반도체 AI 인프라 투자심리 압박."
       }
     ],
     "KR": [
       {
         "tag": "삼성전자",
         "cls": "down",
-        "h": "삼성전자 재개장 -4.73%(272,000원)·Oracle DC 지연+미 금리 급등·외국인 4조 이탈·HBM4 펀더멘털 불변",
-        "m": "2026-09-28 / 서울신문·아시아경제 / 코스피 재개장 삼성전자 -4.73%(272,000원) 급락. Oracle force majeure 사태로 AI 인프라 투자 불확실성 확대·미 국채 금리 급등 복합 악재. 외국인·기관 합계 4조원 이상 순매도. HBM4 AMD 주공급사·점유율 35% 펀더멘털 불변."
+        "h": "삼성전자 3Q 영업이익 111조원 국내 최초 100조 돌파 전망에도 주가 -5.43%(270,000원)·외국인 4조 이탈",
+        "m": "2026-09-28 / 파이낸셜뉴스·서울신문 / 삼성전자 3Q 매출 204.8조·영업이익 111.4조원 전망, 국내 기업 최초 분기 영업이익 100조원 돌파 예상. HBM4 매출 전분기비 3배 성장·하반기 HBM4 비중 60%+ 예상. 그러나 Oracle DC 쇼크·미 국채 금리 급등으로 재개장 -5.43%(270,000원) 하락."
       },
       {
         "tag": "SK하이닉스",
         "cls": "down",
-        "h": "SK하이닉스 -4.62%(1,776,000원)·Oracle AI DC 인프라 지연 공포·HBM 완판·HBM4 양산 기조 유지",
-        "m": "2026-09-28 / Investing.com·아시아경제 / SK하이닉스 재개장 -4.62%(1,776,000원). Oracle AI DC force majeure·미 국채 금리 급등 복합 하락. 2026년 HBM 전량 완판·HBM4 16단 양산 출하 펀더멘털 훼손 없음. 마이크론 9/30 실적 반등 촉매 기대."
+        "h": "SK하이닉스 3Q 영업이익 78조원 최대 전망·HBM4 비중 60%·4Q 기록 경신 전망에도 -5.05%(1,768,000원)",
+        "m": "2026-09-28 / 파이낸셜뉴스·Investing.com / SK하이닉스 3Q 매출 99.5조·영업이익 78.1조원 전망. HBM4 16단 48GB 양산 출하 순항·HBM4 전체 HBM 비중 60%+ 달성 예상. 4Q에도 기록 경신 전망이지만 Oracle AI DC 지연·금리 급등으로 재개장 -5.05%(1,768,000원)."
+      },
+      {
+        "tag": "삼성·SK합산",
+        "cls": "up",
+        "h": "삼성·SK하이닉스 3Q 합산 영업이익 190조원 사상 최대·반도체 황금길·4Q도 기록 경신 전망",
+        "m": "2026-09-28 / 파이낸셜뉴스·BusinessKorea / 삼성전자+SK하이닉스 3Q 합산 영업이익 약 189.5조원, 사상 최대치. HBM4 출하 급증·범용 D램 공급 부족·AI 수요 견고가 동시 작용. 4Q에는 두 회사 모두 또 기록 경신 전망. 단기 Oracle 쇼크에도 반도체 황금기 구조는 훼손 없음."
       },
       {
         "tag": "코스피",
         "cls": "down",
-        "h": "코스피 -2.70%(6,889.74)·외국인·기관 4조원 이상 순매도·반도체 주도 급락·7,000선 이탈",
-        "m": "2026-09-28 / 아시아경제·서울신문 / 코스피 추석 재개장 -2.70%(6,889.74) 7,000선 이탈. 외국인·기관 합계 4조원 이상 대규모 순매도. Oracle AI DC force majeure·미 국채 금리 급등이 AI·반도체 투자심리를 재압박."
+        "h": "코스피 추석 재개장 -2.70%(6,889.74)·7,000선 이탈·외국인·기관 4조+ 순매도·반도체 주도 급락",
+        "m": "2026-09-28 / 아시아경제·서울신문 / 코스피 추석 재개장 -2.70%(6,889.74) 7,000선 이탈. 외국인·기관 합계 4조원 이상 대규모 순매도. Oracle AI DC force majeure·미 국채 금리 급등이 AI·반도체 투자심리를 재압박. SK하이닉스 공매도 4,448억원 1위."
       },
       {
         "tag": "한화에어로스페이스",
@@ -379,14 +385,8 @@
       {
         "tag": "마이크론실적",
         "cls": "new",
-        "h": "마이크론 9/30 실적 D-2·EPS $31.56·매출 $51.2B·HBM4 $1B·삼성·SK 방향 결정 분수령",
-        "m": "2026-09-28 / Alphastreet·TipRanks / 마이크론 Q4 FY2026 실적 9/30 발표(D-2). EPS $31.56·매출 $51.2B 컨센. HBM4 $1B 돌파·FY2027·2028 수요 공급 초과. 실적 호조 확인 시 Oracle 쇼크로 급락한 삼성·SK하이닉스 반등의 핵심 촉매."
-      },
-      {
-        "tag": "Oracle쇼크",
-        "cls": "down",
-        "h": "Oracle AI DC force majeure·AI 인프라 30-50% 지연 경고·전력·장비 부족 복합 위기·아시아 반도체 압박",
-        "m": "2026-09-28 / Yahoo Finance·Reuters / Oracle이 OpenAI 전용 뉴멕시코 AI DC 'Project Jupiter'에 force majeure를 선언했습니다. Morgan Stanley·Jefferies, 2026년 완공 예정 대형 DC 30-50%가 전력·냉각·장비 부족으로 지연·취소. Oracle은 여러 프로젝트를 이미 지연시켰습니다."
+        "h": "마이크론 9/30 실적 D-2·EPS $31.52·매출 $50.97B·HBM4 $1B·삼성·SK 반등 분수령",
+        "m": "2026-09-28 / TipRanks·MarketBeat / 마이크론 Q4 FY2026 실적 9/30 발표(D-2). EPS $31.52·매출 $50.97B 컨센. HBM4 $1B 돌파·FY2027·2028 수요 공급 초과. 실적 호조 확인 시 Oracle 쇼크로 급락한 삼성·SK하이닉스 반등의 핵심 촉매."
       }
     ]
   },
